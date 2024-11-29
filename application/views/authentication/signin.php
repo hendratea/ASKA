@@ -9,7 +9,7 @@
     echo form_open('/', $attributes);
     ?>
     <div class="header">
-        <img class="logo" src="<?= base_url() ?>assets/template/images/logo.svg" alt="">
+        <img class="logo" src="<?= base_url() ?>assets/template/images/KJRI.png" alt="">
         <!-- <h5><?= $h5_title; ?></h5> -->
         <h6 class="text-center text-primary pulse animated infinite" style="text-shadow: 6px 3px #434a52;text-align: center;font-size: 64px;font-weight: bold;text-decoration: underline;">ASKA</h6>
         <h6 class="text-center" data-bss-hover-animate="swing" style="text-shadow: 2px 1px #214a80;font-size: large;font-weight: bold;color: rgb(131,139,209);">Administrasi Kepegawaian</h6>
