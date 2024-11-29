@@ -1,0 +1,137 @@
+No         Date/Time            Browser            Access Path
+---------  -------------------  -----------------  ---------------------------------------------------------------------------------------
+000000001  2024-11-29 16:11:39  Google Chrome      C:\xampp\htdocs\aska\application\controllers\SignIn\index 
+000000002  2024-11-29 16:20:05  Google Chrome      C:\xampp\htdocs\aska\application\controllers\SignIn\index 
+000000003  2024-11-29 16:20:06  Google Chrome      hari01 : C:\xampp\htdocs\aska\application\controllers\Dashboard\Home\index 
+000000004  2024-11-29 16:20:18  Google Chrome      hari01 : C:\xampp\htdocs\aska\application\controllers\Dashboard\Pegawai\InputData\index 
+000000005  2024-11-29 16:22:00  Google Chrome      hari01 : C:\xampp\htdocs\aska\application\models\Dashboard\Pegawai\InputDataModel\saveDataPegawai save data pegawai started
+000000006  2024-11-29 16:28:45  Google Chrome      hari01 : C:\xampp\htdocs\aska\application\controllers\Dashboard\Pegawai\RekapAll\index 
+000000007  2024-11-29 16:35:55  Google Chrome      hari01 : C:\xampp\htdocs\aska\application\controllers\Dashboard\Pegawai\RekapDataAll\index 
+000000008  2024-11-29 16:36:03  Google Chrome      hari01 : C:\xampp\htdocs\aska\application\controllers\Dashboard\Pegawai\InputData\index 
+000000009  2024-11-29 16:36:09  Google Chrome      hari01 : C:\xampp\htdocs\aska\application\controllers\Dashboard\Pegawai\RekapDataAll\index 
+000000010  2024-11-29 16:37:56  Google Chrome      hari01 : C:\xampp\htdocs\aska\application\controllers\Dashboard\Pegawai\RekapDataAll\index 
+000000011  2024-11-29 16:38:54  Google Chrome      hari01 : C:\xampp\htdocs\aska\application\controllers\Dashboard\Pegawai\RekapDataAll\index 
+000000012  2024-11-29 16:43:23  Google Chrome      hari01 : C:\xampp\htdocs\aska\application\controllers\Dashboard\Pegawai\RekapDataAll\index 
+000000013  2024-11-29 16:45:33  Google Chrome      hari01 : C:\xampp\htdocs\aska\application\controllers\Dashboard\Pegawai\RekapDataAll\index 
+000000014  2024-11-29 16:53:01  Google Chrome      hari01 : C:\xampp\htdocs\aska\application\controllers\Dashboard\Pegawai\RekapDataAll\index 
+000000015  2024-11-29 16:53:02  Google Chrome      hari01 : C:\xampp\htdocs\aska\application\models\Dashboard\Pegawai\RekapDataAllModel\getRekapAllDataPegwai get rekap all data pegawai
+000000016  2024-11-29 16:53:45  Google Chrome      hari01 : C:\xampp\htdocs\aska\application\controllers\Dashboard\Pegawai\RekapDataAll\index 
+000000017  2024-11-29 16:54:05  Google Chrome      hari01 : C:\xampp\htdocs\aska\application\models\Dashboard\Pegawai\RekapDataAllModel\getRekapAllDataPegwai get rekap all data pegawai
+000000018  2024-11-29 16:57:28  Google Chrome      hari01 : C:\xampp\htdocs\aska\application\controllers\Dashboard\Pegawai\RekapDataAll\index 
+000000019  2024-11-29 16:57:37  Google Chrome      hari01 : C:\xampp\htdocs\aska\application\models\Dashboard\Pegawai\RekapDataAllModel\getRekapAllDataPegwai get rekap all data pegawai
+000000020  2024-11-29 17:00:08  Google Chrome      hari01 : C:\xampp\htdocs\aska\application\controllers\Dashboard\Pegawai\RekapDataAll\index 
+000000021  2024-11-29 17:00:11  Google Chrome      hari01 : C:\xampp\htdocs\aska\application\models\Dashboard\Pegawai\RekapDataAllModel\getRekapAllDataPegwai get rekap all data pegawai
+000000022  2024-11-29 17:01:26  Google Chrome      hari01 : C:\xampp\htdocs\aska\application\controllers\Dashboard\Pegawai\RekapDataAll\index 
+000000023  2024-11-29 17:01:29  Google Chrome      hari01 : C:\xampp\htdocs\aska\application\models\Dashboard\Pegawai\RekapDataAllModel\getRekapAllDataPegwai get rekap all data pegawai
+000000024  2024-11-29 17:02:17  Google Chrome      hari01 : C:\xampp\htdocs\aska\application\controllers\Dashboard\Pegawai\RekapDataAll\index 
+000000025  2024-11-29 17:02:27  Google Chrome      hari01 : C:\xampp\htdocs\aska\application\models\Dashboard\Pegawai\RekapDataAllModel\getRekapAllDataPegwai get rekap all data pegawai
+000000026  2024-11-29 17:06:11  Google Chrome      hari01 : C:\xampp\htdocs\aska\application\controllers\Dashboard\Pegawai\RekapDataAll\index 
+000000027  2024-11-29 17:06:13  Google Chrome      hari01 : C:\xampp\htdocs\aska\application\models\Dashboard\Pegawai\RekapDataAllModel\getRekapAllDataPegwai get rekap all data pegawai
+000000028  2024-11-29 17:06:47  Google Chrome      hari01 : C:\xampp\htdocs\aska\application\controllers\Dashboard\Pegawai\RekapDataAll\index 
+000000029  2024-11-29 17:06:49  Google Chrome      hari01 : C:\xampp\htdocs\aska\application\models\Dashboard\Pegawai\RekapDataAllModel\getRekapAllDataPegwai get rekap all data pegawai
+000000030  2024-11-29 17:07:40  Google Chrome      hari01 : C:\xampp\htdocs\aska\application\controllers\Dashboard\Pegawai\RekapDataAll\index 
+000000031  2024-11-29 17:07:41  Google Chrome      hari01 : C:\xampp\htdocs\aska\application\models\Dashboard\Pegawai\RekapDataAllModel\getRekapAllDataPegwai get rekap all data pegawai
+000000032  2024-11-29 17:09:44  Google Chrome      hari01 : C:\xampp\htdocs\aska\application\controllers\Dashboard\Pegawai\RekapDataAll\index 
+000000033  2024-11-29 17:09:46  Google Chrome      hari01 : C:\xampp\htdocs\aska\application\models\Dashboard\Pegawai\RekapDataAllModel\getRekapAllDataPegwai get rekap all data pegawai
+000000034  2024-11-29 17:11:46  Google Chrome      hari01 : C:\xampp\htdocs\aska\application\controllers\Dashboard\Pegawai\RekapDataAll\index 
+000000035  2024-11-29 17:11:48  Google Chrome      hari01 : C:\xampp\htdocs\aska\application\models\Dashboard\Pegawai\RekapDataAllModel\getRekapAllDataPegwai get rekap all data pegawai
+000000036  2024-11-29 17:12:26  Google Chrome      hari01 : C:\xampp\htdocs\aska\application\controllers\Dashboard\Pegawai\RekapDataAll\index 
+000000037  2024-11-29 17:12:28  Google Chrome      hari01 : C:\xampp\htdocs\aska\application\models\Dashboard\Pegawai\RekapDataAllModel\getRekapAllDataPegwai get rekap all data pegawai
+000000038  2024-11-29 17:14:33  Google Chrome      hari01 : C:\xampp\htdocs\aska\application\controllers\Dashboard\Pegawai\RekapDataAll\index 
+000000039  2024-11-29 17:14:34  Google Chrome      hari01 : C:\xampp\htdocs\aska\application\models\Dashboard\Pegawai\RekapDataAllModel\getRekapAllDataPegwai get rekap all data pegawai
+000000040  2024-11-29 17:15:29  Google Chrome      hari01 : C:\xampp\htdocs\aska\application\controllers\Dashboard\Pegawai\RekapDataAll\index 
+000000041  2024-11-29 17:15:31  Google Chrome      hari01 : C:\xampp\htdocs\aska\application\models\Dashboard\Pegawai\RekapDataAllModel\getRekapAllDataPegwai get rekap all data pegawai
+000000042  2024-11-29 17:19:40  Google Chrome      hari01 : C:\xampp\htdocs\aska\application\controllers\Dashboard\Pegawai\RekapDataAll\index 
+000000043  2024-11-29 17:19:41  Google Chrome      hari01 : C:\xampp\htdocs\aska\application\models\Dashboard\Pegawai\RekapDataAllModel\getRekapAllDataPegwai get rekap all data pegawai
+000000044  2024-11-29 17:25:09  Google Chrome      hari01 : C:\xampp\htdocs\aska\application\controllers\Dashboard\Pegawai\RekapDataAll\index 
+000000045  2024-11-29 17:25:11  Google Chrome      hari01 : C:\xampp\htdocs\aska\application\models\Dashboard\Pegawai\RekapDataAllModel\getRekapAllDataPegwai get rekap all data pegawai
+000000046  2024-11-29 17:25:39  Google Chrome      hari01 : C:\xampp\htdocs\aska\application\controllers\Dashboard\Referensi\Golongan\index 
+000000047  2024-11-29 17:25:55  Google Chrome      hari01 : C:\xampp\htdocs\aska\application\controllers\Dashboard\Pegawai\InputData\index 
+000000048  2024-11-29 17:26:02  Google Chrome      hari01 : C:\xampp\htdocs\aska\application\controllers\Dashboard\Referensi\Golongan\index 
+000000049  2024-11-29 17:28:02  Google Chrome      hari01 : C:\xampp\htdocs\aska\application\controllers\Dashboard\Referensi\Golongan\index 
+000000050  2024-11-29 17:28:53  Google Chrome      hari01 : C:\xampp\htdocs\aska\application\controllers\Dashboard\Pegawai\RekapDataAll\index 
+000000051  2024-11-29 17:28:56  Google Chrome      hari01 : C:\xampp\htdocs\aska\application\models\Dashboard\Pegawai\RekapDataAllModel\getRekapAllDataPegwai get rekap all data pegawai
+000000052  2024-11-29 17:37:27  Google Chrome      hari01 : C:\xampp\htdocs\aska\application\controllers\Dashboard\Referensi\Golongan\index 
+000000053  2024-11-29 17:37:28  Google Chrome      hari01 : C:\xampp\htdocs\aska\application\models\Dashboard\Referensi\GolonganModel\getRekapAllDataPegwai get rekap all data pegawai
+000000054  2024-11-29 17:38:19  Google Chrome      hari01 : C:\xampp\htdocs\aska\application\controllers\Dashboard\Referensi\Golongan\index 
+000000055  2024-11-29 17:38:20  Google Chrome      hari01 : C:\xampp\htdocs\aska\application\models\Dashboard\Referensi\GolonganModel\getRekapAllDataPegwai get rekap all data pegawai
+000000056  2024-11-29 17:39:06  Google Chrome      hari01 : C:\xampp\htdocs\aska\application\controllers\Dashboard\Pegawai\RekapDataAll\index 
+000000057  2024-11-29 17:39:07  Google Chrome      hari01 : C:\xampp\htdocs\aska\application\models\Dashboard\Pegawai\RekapDataAllModel\getRekapAllDataPegwai get rekap all data pegawai
+000000058  2024-11-29 17:39:09  Google Chrome      hari01 : C:\xampp\htdocs\aska\application\controllers\Dashboard\Pegawai\InputData\index 
+000000059  2024-11-29 17:39:46  Google Chrome      hari01 : C:\xampp\htdocs\aska\application\controllers\Dashboard\Referensi\Golongan\index 
+000000060  2024-11-29 17:39:47  Google Chrome      hari01 : C:\xampp\htdocs\aska\application\models\Dashboard\Referensi\GolonganModel\getRekapAllDataPegwai get rekap all data pegawai
+000000061  2024-11-29 17:40:22  Google Chrome      hari01 : C:\xampp\htdocs\aska\application\controllers\Dashboard\Pegawai\RekapDataAll\index 
+000000062  2024-11-29 17:40:23  Google Chrome      hari01 : C:\xampp\htdocs\aska\application\models\Dashboard\Pegawai\RekapDataAllModel\getRekapAllDataPegwai get rekap all data pegawai
+000000063  2024-11-29 17:45:39  Google Chrome      hari01 : C:\xampp\htdocs\aska\application\controllers\Dashboard\Referensi\Golongan\index 
+000000064  2024-11-29 17:45:40  Google Chrome      hari01 : C:\xampp\htdocs\aska\application\models\Dashboard\Referensi\GolonganModel\getRekapAllDataPegwai get rekap all data pegawai
+000000065  2024-11-29 17:47:13  Google Chrome      hari01 : C:\xampp\htdocs\aska\application\controllers\Dashboard\Referensi\Golongan\index 
+000000066  2024-11-29 17:47:14  Google Chrome      hari01 : C:\xampp\htdocs\aska\application\models\Dashboard\Referensi\GolonganModel\getRekapAllDataPegwai get rekap all data pegawai
+000000067  2024-11-29 17:47:46  Google Chrome      hari01 : C:\xampp\htdocs\aska\application\controllers\Dashboard\Referensi\Golongan\index 
+000000068  2024-11-29 17:47:47  Google Chrome      hari01 : C:\xampp\htdocs\aska\application\models\Dashboard\Referensi\GolonganModel\getRekapAllDataPegwai get rekap all data pegawai
+000000069  2024-11-29 17:48:02  Google Chrome      hari01 : C:\xampp\htdocs\aska\application\controllers\Dashboard\Referensi\Golongan\index 
+000000070  2024-11-29 17:48:03  Google Chrome      hari01 : C:\xampp\htdocs\aska\application\models\Dashboard\Referensi\GolonganModel\getRekapAllDataPegwai get rekap all data pegawai
+000000071  2024-11-29 17:50:11  Google Chrome      hari01 : C:\xampp\htdocs\aska\application\controllers\Dashboard\Referensi\Golongan\index 
+000000072  2024-11-29 17:50:12  Google Chrome      hari01 : C:\xampp\htdocs\aska\application\models\Dashboard\Referensi\GolonganModel\getRekapAllDataPegwai get rekap all data pegawai
+000000073  2024-11-29 17:52:26  Google Chrome      hari01 : C:\xampp\htdocs\aska\application\controllers\Dashboard\Referensi\Golongan\index 
+000000074  2024-11-29 17:52:27  Google Chrome      hari01 : C:\xampp\htdocs\aska\application\models\Dashboard\Referensi\GolonganModel\getRekapAllDataPegwai get rekap all data pegawai
+000000075  2024-11-29 17:53:09  Google Chrome      hari01 : C:\xampp\htdocs\aska\application\controllers\Dashboard\Pegawai\InputData\index 
+000000076  2024-11-29 17:55:35  Google Chrome      hari01 : C:\xampp\htdocs\aska\application\controllers\Dashboard\Referensi\Golongan\index 
+000000077  2024-11-29 17:55:36  Google Chrome      hari01 : C:\xampp\htdocs\aska\application\models\Dashboard\Referensi\GolonganModel\getRekapAllDataPegwai get rekap all data pegawai
+000000078  2024-11-29 17:57:51  Google Chrome      hari01 : C:\xampp\htdocs\aska\application\controllers\Dashboard\Referensi\Golongan\index 
+000000079  2024-11-29 17:57:52  Google Chrome      hari01 : C:\xampp\htdocs\aska\application\models\Dashboard\Referensi\GolonganModel\getRekapAllDataPegwai get rekap all data pegawai
+000000080  2024-11-29 17:58:29  Google Chrome      hari01 : C:\xampp\htdocs\aska\application\controllers\Dashboard\Referensi\Golongan\index 
+000000081  2024-11-29 17:58:30  Google Chrome      hari01 : C:\xampp\htdocs\aska\application\models\Dashboard\Referensi\GolonganModel\getRekapAllDataPegwai get rekap all data pegawai
+000000082  2024-11-29 17:58:39  Google Chrome      hari01 : C:\xampp\htdocs\aska\application\controllers\Dashboard\Referensi\Golongan\index 
+000000083  2024-11-29 17:58:40  Google Chrome      hari01 : C:\xampp\htdocs\aska\application\models\Dashboard\Referensi\GolonganModel\getRekapAllDataPegwai get rekap all data pegawai
+000000084  2024-11-29 17:59:03  Google Chrome      hari01 : C:\xampp\htdocs\aska\application\controllers\Dashboard\Referensi\Golongan\index 
+000000085  2024-11-29 17:59:03  Google Chrome      hari01 : C:\xampp\htdocs\aska\application\models\Dashboard\Referensi\GolonganModel\getRekapAllDataPegwai get rekap all data pegawai
+000000086  2024-11-29 18:00:12  Google Chrome      hari01 : C:\xampp\htdocs\aska\application\controllers\Dashboard\Referensi\Golongan\index 
+000000087  2024-11-29 18:00:13  Google Chrome      hari01 : C:\xampp\htdocs\aska\application\models\Dashboard\Referensi\GolonganModel\getRekapAllDataPegwai get rekap all data pegawai
+000000088  2024-11-29 18:01:05  Google Chrome      hari01 : C:\xampp\htdocs\aska\application\controllers\Dashboard\Referensi\Golongan\index 
+000000089  2024-11-29 18:01:06  Google Chrome      hari01 : C:\xampp\htdocs\aska\application\models\Dashboard\Referensi\GolonganModel\getRekapAllDataPegwai get rekap all data pegawai
+000000090  2024-11-29 18:01:48  Google Chrome      hari01 : C:\xampp\htdocs\aska\application\controllers\Dashboard\Referensi\Golongan\index 
+000000091  2024-11-29 18:01:49  Google Chrome      hari01 : C:\xampp\htdocs\aska\application\models\Dashboard\Referensi\GolonganModel\getRekapAllDataPegwai get rekap all data pegawai
+000000092  2024-11-29 18:02:52  Google Chrome      hari01 : C:\xampp\htdocs\aska\application\controllers\Dashboard\Referensi\Golongan\index 
+000000093  2024-11-29 18:02:53  Google Chrome      hari01 : C:\xampp\htdocs\aska\application\models\Dashboard\Referensi\GolonganModel\getRekapAllDataPegwai get rekap all data pegawai
+000000094  2024-11-29 18:07:48  Google Chrome      hari01 : C:\xampp\htdocs\aska\application\controllers\Dashboard\Referensi\Golongan\index 
+000000095  2024-11-29 18:07:49  Google Chrome      hari01 : C:\xampp\htdocs\aska\application\models\Dashboard\Referensi\GolonganModel\getRekapAllDataPegwai get rekap all data pegawai
+000000096  2024-11-29 18:08:39  Google Chrome      hari01 : C:\xampp\htdocs\aska\application\controllers\Dashboard\Referensi\Golongan\index 
+000000097  2024-11-29 18:08:41  Google Chrome      hari01 : C:\xampp\htdocs\aska\application\models\Dashboard\Referensi\GolonganModel\getRekapAllDataPegwai get rekap all data pegawai
+000000098  2024-11-29 18:09:12  Google Chrome      hari01 : C:\xampp\htdocs\aska\application\controllers\Dashboard\Referensi\Golongan\index 
+000000099  2024-11-29 18:09:13  Google Chrome      hari01 : C:\xampp\htdocs\aska\application\models\Dashboard\Referensi\GolonganModel\getRekapAllDataPegwai get rekap all data pegawai
+000000100  2024-11-29 18:19:08  Google Chrome      hari01 : C:\xampp\htdocs\aska\application\controllers\Dashboard\Referensi\Golongan\index 
+000000101  2024-11-29 18:19:09  Google Chrome      hari01 : C:\xampp\htdocs\aska\application\models\Dashboard\Referensi\GolonganModel\getRekapAllDataPegwai get rekap all data pegawai
+000000102  2024-11-29 18:19:57  Google Chrome      hari01 : C:\xampp\htdocs\aska\application\models\Dashboard\Referensi\GolonganModel\saveDataGolongan save data pegawai started
+000000103  2024-11-29 18:20:39  Google Chrome      hari01 : C:\xampp\htdocs\aska\application\models\Dashboard\Referensi\GolonganModel\saveDataGolongan save data pegawai started
+000000104  2024-11-29 18:21:18  Google Chrome      hari01 : C:\xampp\htdocs\aska\application\models\Dashboard\Referensi\GolonganModel\saveDataGolongan save data pegawai started
+000000105  2024-11-29 18:21:18  Google Chrome      hari01 : C:\xampp\htdocs\aska\application\models\Dashboard\Referensi\GolonganModel\saveDataGolongan save data golongan failed : Out of range value for column 'ID' at row 1
+000000106  2024-11-29 18:21:29  Google Chrome      hari01 : C:\xampp\htdocs\aska\application\models\Dashboard\Referensi\GolonganModel\saveDataGolongan save data pegawai started
+000000107  2024-11-29 18:21:29  Google Chrome      hari01 : C:\xampp\htdocs\aska\application\models\Dashboard\Referensi\GolonganModel\saveDataGolongan save data golongan failed : Out of range value for column 'ID' at row 1
+000000108  2024-11-29 18:22:28  Google Chrome      hari01 : C:\xampp\htdocs\aska\application\controllers\Dashboard\Referensi\Golongan\index 
+000000109  2024-11-29 18:22:29  Google Chrome      hari01 : C:\xampp\htdocs\aska\application\models\Dashboard\Referensi\GolonganModel\getRekapAllDataPegwai get rekap all data pegawai
+000000110  2024-11-29 18:22:42  Google Chrome      hari01 : C:\xampp\htdocs\aska\application\models\Dashboard\Referensi\GolonganModel\saveDataGolongan save data pegawai started
+000000111  2024-11-29 18:31:06  Google Chrome      hari01 : C:\xampp\htdocs\aska\application\models\Dashboard\Referensi\GolonganModel\saveDataGolongan save data golongan failed : Out of range value for column 'ID' at row 1
+000000112  2024-11-29 18:31:16  Google Chrome      hari01 : C:\xampp\htdocs\aska\application\models\Dashboard\Referensi\GolonganModel\saveDataGolongan save data pegawai started
+000000113  2024-11-29 18:32:11  Google Chrome      hari01 : C:\xampp\htdocs\aska\application\controllers\Dashboard\Referensi\Golongan\index 
+000000114  2024-11-29 18:32:12  Google Chrome      hari01 : C:\xampp\htdocs\aska\application\models\Dashboard\Referensi\GolonganModel\getRekapAllDataPegwai get rekap all data pegawai
+000000115  2024-11-29 18:32:46  Google Chrome      hari01 : C:\xampp\htdocs\aska\application\controllers\Dashboard\Pegawai\RekapContract\index 
+000000116  2024-11-29 18:32:56  Google Chrome      hari01 : C:\xampp\htdocs\aska\application\controllers\Dashboard\Referensi\Golongan\index 
+000000117  2024-11-29 18:32:56  Google Chrome      hari01 : C:\xampp\htdocs\aska\application\models\Dashboard\Referensi\GolonganModel\getRekapAllDataPegwai get rekap all data pegawai
+000000118  2024-11-29 18:32:59  Google Chrome      hari01 : C:\xampp\htdocs\aska\application\controllers\Dashboard\Pegawai\RekapDataAll\index 
+000000119  2024-11-29 18:32:59  Google Chrome      hari01 : C:\xampp\htdocs\aska\application\models\Dashboard\Pegawai\RekapDataAllModel\getRekapAllDataPegwai get rekap all data pegawai
+000000120  2024-11-29 18:34:34  Google Chrome      hari01 : C:\xampp\htdocs\aska\application\controllers\Dashboard\Referensi\Golongan\index 
+000000121  2024-11-29 18:34:35  Google Chrome      hari01 : C:\xampp\htdocs\aska\application\models\Dashboard\Referensi\GolonganModel\getRekapAllDataPegwai get rekap all data pegawai
+000000122  2024-11-29 18:38:06  Google Chrome      hari01 : C:\xampp\htdocs\aska\application\controllers\Dashboard\Pegawai\RekapDataAll\index 
+000000123  2024-11-29 18:38:07  Google Chrome      hari01 : C:\xampp\htdocs\aska\application\models\Dashboard\Pegawai\RekapDataAllModel\getRekapAllDataPegwai get rekap all data pegawai
+000000124  2024-11-29 18:38:24  Google Chrome      hari01 : C:\xampp\htdocs\aska\application\controllers\Dashboard\Referensi\Golongan\index 
+000000125  2024-11-29 18:38:25  Google Chrome      hari01 : C:\xampp\htdocs\aska\application\models\Dashboard\Referensi\GolonganModel\getRekapAllDataPegwai get rekap all data pegawai
+000000126  2024-11-29 18:38:34  Google Chrome      hari01 : C:\xampp\htdocs\aska\application\controllers\Dashboard\Pegawai\InputData\index 
+000000127  2024-11-29 18:41:52  Google Chrome      hari01 : C:\xampp\htdocs\aska\application\controllers\SignIn\logout 
+000000128  2024-11-29 18:41:52  Google Chrome      C:\xampp\htdocs\aska\application\controllers\SignIn\index 
+000000129  2024-11-29 18:42:00  Google Chrome      C:\xampp\htdocs\aska\application\controllers\SignIn\index 
+000000130  2024-11-29 18:42:25  Google Chrome      C:\xampp\htdocs\aska\application\controllers\SignIn\index 
+000000131  2024-11-29 18:42:26  Google Chrome      irfan : C:\xampp\htdocs\aska\application\controllers\Dashboard\Home\index 
+000000132  2024-11-29 18:42:36  Google Chrome      irfan : C:\xampp\htdocs\aska\application\controllers\Dashboard\Pegawai\InputData\index 
+000000133  2024-11-29 18:46:26  Google Chrome      irfan : C:\xampp\htdocs\aska\application\controllers\Dashboard\Pegawai\RekapContract\index 
+000000134  2024-11-29 18:46:32  Google Chrome      irfan : C:\xampp\htdocs\aska\application\controllers\Dashboard\Pegawai\RekapContract\index 
+000000135  2024-11-29 18:46:36  Google Chrome      irfan : C:\xampp\htdocs\aska\application\controllers\Dashboard\Pegawai\InputData\index 
