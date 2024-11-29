@@ -1,7 +1,7 @@
 <aside id="leftsidebar" class="sidebar">
     <div class="navbar-brand">
         <button class="btn-menu ls-toggle-btn" type="button"><i class="zmdi zmdi-menu"></i></button>
-        <a href="index.html"><img src="<?= base_url() ?>assets/template/images/logo.svg" height="30" width="30" alt="HRIS"><span class="m-l-10">HRIS</span></a>
+        <a href="index.html"><img src="<?= base_url() ?>assets/template/images/logo.svg" height="30" width="30" alt="HRIS"><span class="m-l-10">ASKA</span></a>
     </div>
     <div class="menu">
         <ul class="list">
