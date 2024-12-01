@@ -1,0 +1,13 @@
+-- db_aska.v_validation_user_login source
+
+create or replace
+algorithm = UNDEFINED view `db_aska`.`v_validation_user_login` as
+select
+    `a`.`user` as `user_id`,
+    `a`.`pass` as `password`,
+    `a`.`tgl_terakhir_login` as `last_login`,
+    `b`.`role_name` as `role_name`
+from
+    (`db_aska`.`z_user` `a`
+left join `db_aska`.`roles` `b` on
+    (`a`.`r_user` = `b`.`role_id`));
