@@ -13713,3 +13713,78 @@ INFO - 2024-12-01 23:46:15 --> Helper loaded: captcha_helper
 INFO - 2024-12-01 23:46:15 --> Helper loaded: security_helper
 INFO - 2024-12-01 23:46:15 --> Controller Class Initialized
 INFO - 2024-12-01 23:46:15 --> Model "UserModel" initialized
+INFO - 2024-12-01 18:07:38 --> Config Class Initialized
+INFO - 2024-12-01 18:07:38 --> Hooks Class Initialized
+DEBUG - 2024-12-01 18:07:38 --> UTF-8 Support Enabled
+INFO - 2024-12-01 18:07:38 --> Utf8 Class Initialized
+INFO - 2024-12-01 18:07:38 --> URI Class Initialized
+INFO - 2024-12-01 18:07:38 --> Router Class Initialized
+INFO - 2024-12-01 18:07:38 --> Output Class Initialized
+INFO - 2024-12-01 18:07:38 --> Security Class Initialized
+DEBUG - 2024-12-01 18:07:38 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-12-01 18:07:38 --> Input Class Initialized
+INFO - 2024-12-01 18:07:38 --> Language Class Initialized
+INFO - 2024-12-01 18:07:38 --> Loader Class Initialized
+INFO - 2024-12-01 18:07:39 --> Config Class Initialized
+INFO - 2024-12-01 18:07:39 --> Hooks Class Initialized
+DEBUG - 2024-12-01 18:07:39 --> UTF-8 Support Enabled
+INFO - 2024-12-01 18:07:39 --> Utf8 Class Initialized
+INFO - 2024-12-01 18:07:39 --> URI Class Initialized
+DEBUG - 2024-12-01 18:07:39 --> No URI present. Default controller set.
+INFO - 2024-12-01 18:07:39 --> Router Class Initialized
+INFO - 2024-12-01 18:07:39 --> Output Class Initialized
+INFO - 2024-12-01 18:07:39 --> Security Class Initialized
+DEBUG - 2024-12-01 18:07:39 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-12-01 18:07:39 --> Input Class Initialized
+INFO - 2024-12-01 18:07:39 --> Language Class Initialized
+INFO - 2024-12-01 18:07:39 --> Loader Class Initialized
+INFO - 2024-12-01 18:07:48 --> Config Class Initialized
+INFO - 2024-12-01 18:07:48 --> Hooks Class Initialized
+DEBUG - 2024-12-01 18:07:48 --> UTF-8 Support Enabled
+INFO - 2024-12-01 18:07:48 --> Utf8 Class Initialized
+INFO - 2024-12-01 18:07:48 --> URI Class Initialized
+DEBUG - 2024-12-01 18:07:48 --> No URI present. Default controller set.
+INFO - 2024-12-01 18:07:48 --> Router Class Initialized
+INFO - 2024-12-01 18:07:48 --> Output Class Initialized
+INFO - 2024-12-01 18:07:48 --> Security Class Initialized
+DEBUG - 2024-12-01 18:07:48 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-12-01 18:07:48 --> Input Class Initialized
+INFO - 2024-12-01 18:07:48 --> Language Class Initialized
+INFO - 2024-12-01 18:07:48 --> Loader Class Initialized
+INFO - 2024-12-01 18:07:49 --> Config Class Initialized
+INFO - 2024-12-01 18:07:49 --> Hooks Class Initialized
+DEBUG - 2024-12-01 18:07:49 --> UTF-8 Support Enabled
+INFO - 2024-12-01 18:07:49 --> Utf8 Class Initialized
+INFO - 2024-12-01 18:07:49 --> URI Class Initialized
+INFO - 2024-12-01 18:07:49 --> Router Class Initialized
+INFO - 2024-12-01 18:07:49 --> Output Class Initialized
+INFO - 2024-12-01 18:07:49 --> Security Class Initialized
+DEBUG - 2024-12-01 18:07:49 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-12-01 18:07:49 --> Input Class Initialized
+INFO - 2024-12-01 18:07:49 --> Language Class Initialized
+INFO - 2024-12-01 18:07:49 --> Loader Class Initialized
+INFO - 2024-12-01 18:10:20 --> Config Class Initialized
+INFO - 2024-12-01 18:10:20 --> Hooks Class Initialized
+DEBUG - 2024-12-01 18:10:20 --> UTF-8 Support Enabled
+INFO - 2024-12-01 18:10:20 --> Utf8 Class Initialized
+INFO - 2024-12-01 18:10:20 --> URI Class Initialized
+INFO - 2024-12-01 18:10:20 --> Router Class Initialized
+INFO - 2024-12-01 18:10:20 --> Output Class Initialized
+INFO - 2024-12-01 18:10:20 --> Security Class Initialized
+DEBUG - 2024-12-01 18:10:20 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-12-01 18:10:20 --> Input Class Initialized
+INFO - 2024-12-01 18:10:20 --> Language Class Initialized
+INFO - 2024-12-01 18:10:20 --> Loader Class Initialized
+INFO - 2024-12-01 18:10:20 --> Config Class Initialized
+INFO - 2024-12-01 18:10:20 --> Hooks Class Initialized
+DEBUG - 2024-12-01 18:10:20 --> UTF-8 Support Enabled
+INFO - 2024-12-01 18:10:20 --> Utf8 Class Initialized
+INFO - 2024-12-01 18:10:20 --> URI Class Initialized
+DEBUG - 2024-12-01 18:10:20 --> No URI present. Default controller set.
+INFO - 2024-12-01 18:10:20 --> Router Class Initialized
+INFO - 2024-12-01 18:10:20 --> Output Class Initialized
+INFO - 2024-12-01 18:10:20 --> Security Class Initialized
+DEBUG - 2024-12-01 18:10:20 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-12-01 18:10:20 --> Input Class Initialized
+INFO - 2024-12-01 18:10:20 --> Language Class Initialized
+INFO - 2024-12-01 18:10:20 --> Loader Class Initialized
