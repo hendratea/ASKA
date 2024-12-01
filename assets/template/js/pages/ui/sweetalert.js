@@ -42,24 +42,213 @@ function showWithTitleMessage() {
 function showSuccessMessage() {
     swal("Good job!", "You clicked the button!", "success");    
 }
+// function showConfirmMessage() {
+//     swal({
+//         title: "Are you sure?",
+//         text: "Once deleted, you will not be able to recover this imaginary file!",
+//         icon: "warning",
+//         buttons: true,
+//         dangerMode: true,
+//       })
+//       .then((willDelete) => {
+//         if (willDelete) {
+//           swal("Poof! Your imaginary file has been deleted!", {
+//             icon: "success",
+//           });
+//         } else {
+//           swal("Your imaginary file is safe!");
+//         }
+//     });
+// }
+
 function showConfirmMessage() {
     swal({
-        title: "Are you sure?",
-        text: "Once deleted, you will not be able to recover this imaginary file!",
+        title: "Apakah anda ingin menyimpan data ?",
+        text: "user " + $("#userId").val(),
         icon: "warning",
         buttons: true,
         dangerMode: true,
-      })
-      .then((willDelete) => {
-        if (willDelete) {
-          swal("Poof! Your imaginary file has been deleted!", {
-            icon: "success",
-          });
-        } else {
-          swal("Your imaginary file is safe!");
-        }
-    });
+    })
+        .then((willDelete) => {
+            if (willDelete) {
+                
+                var url = baseURL + "save_data_setting_user";
+
+                var postData = $.param(
+                    { ajaxUserId: $("#userId").val(),
+                        ajaxPassword: $("#password").val(),
+                        ajaxEmail: $("#email").val(),
+                        ajaxRoleUser: $("#roleUser").val(),
+                        ajaxStatusAktif: $('input[name="statusAktif"]:checked').val(),
+                    }
+                );
+                $.ajax({
+                    url: url,
+                    type: "POST",
+                    data: postData,
+                    dataType: "JSON",
+                    success: function (data) {
+                        if (data['statusInsertToDb'] == 1) {
+                            swal("Success! user " + $("#userId").val() + ' berhasil disimpan', {
+                                icon: "success",
+                            }).then(function () {
+                                table_setting_user.ajax.reload();
+                                $("#userId,#password,#email").val('');
+                                $('input[name="statusAktif"]').prop('checked', false);
+                                $("#roleUser").val(null).trigger('change');
+                            });
+                        }else if(data['statusInsertToDb'] == 2){
+
+                            swal({
+                                title: "<small>Title</small>!",
+                                text: "failed user "+$("#userId").val()+" sudah ada",
+                                html: true,
+                                icon: "question"
+                            });
+
+                            swal("failed user "+$("#userId").val()+" sudah ada");
+                        }else{
+                            swal("Error adding data");
+                            table_setting_user.ajax.reload();
+                        }
+                        
+                    },
+                    error: function (jqXHR, textStatus, errorThrown) {
+                        swal("Error adding  data");
+                        table_setting_user.ajax.reload();
+                    }
+                });
+
+            } else {
+                swal("your cancel this change"); 
+            }
+        });
 }
+
+function showConfirmDelete(rUser) {
+    swal({
+        title: "Apakah anda ingin hapus data ?",
+        text: "user " + rUser,
+        icon: "warning",
+        buttons: true,
+        dangerMode: true,
+    })
+        .then((willDelete) => {
+            if (willDelete) {
+                
+                var url = baseURL + "delete_data_setting_user";
+
+                var postData = $.param(
+                    { 
+                        ajaxUserId: rUser,
+                    }
+                );
+                $.ajax({
+                    url: url,
+                    type: "POST",
+                    data: postData,
+                    dataType: "JSON",
+                    success: function (data) {
+                        if (data['statusDeleteToDb'] == 1) {
+                            swal("Success! user " + $("#userId").val() + ' berhasil dihapus', {
+                                icon: "success",
+                            }).then(function () {
+                                table_setting_user.ajax.reload();
+                            });
+                        }else{
+                            swal("Error hapus data");
+                            table_setting_user.ajax.reload();
+                        }
+                        
+                    },
+                    error: function (jqXHR, textStatus, errorThrown) {
+                        swal("Error hapus data");
+                        table_setting_user.ajax.reload();
+                    }
+                });
+
+            } else {
+                swal("your cancel this change"); 
+            }
+        });
+}
+
+function showConfirmUpdate(rUser) {
+    swal({
+        title: "Apakah anda ingin update data ?",
+        text: "user " + rUser,
+        icon: "warning",
+        buttons: true,
+        dangerMode: true,
+    })
+        .then((willDelete) => {
+            if (willDelete) {
+                $("#btnUpdate").show();
+                $("#btnSubmit").hide();
+                swal.close();
+            } else {
+                swal("your cancel this change"); 
+                $("#btnUpdate").hide();
+                $("#btnSubmit").show();
+            }
+        });
+}
+
+function showConfirmMessageUpdate(rUser){
+    swal({
+        title: "Apakah anda ingin update data ?",
+        text: "user " + rUser,
+        icon: "warning",
+        buttons: true,
+        dangerMode: true,
+    })
+        .then((willDelete) => {
+            if (willDelete) {
+                
+                var url = baseURL + "update_data_setting_user";
+
+                var postData = $.param(
+                    { ajaxUserId: $("#userId").val(),
+                        ajaxPassword: $("#password").val(),
+                        ajaxEmail: $("#email").val(),
+                        ajaxRoleUser: $("#roleUser").val(),
+                        ajaxStatusAktif: $('input[name="statusAktif"]:checked').val(),
+                    }
+                );
+                $.ajax({
+                    url: url,
+                    type: "POST",
+                    data: postData,
+                    dataType: "JSON",
+                    success: function (data) {
+                        // alert(data['statusInsertToDb']);
+                        if (data['statusInsertToDb'] == 1) {
+                            swal("Success! user " + $("#userId").val() + ' berhasil disimpan', {
+                                icon: "success",
+                            }).then(function () {
+                                table_setting_user.ajax.reload();
+                                $("#userId,#password,#email").val('');
+                                $('input[name="statusAktif"]').prop('checked', false);
+                                $("#roleUser").val(null).trigger('change');
+                            });
+                        }else{
+                            swal("Error update data");
+                            table_setting_user.ajax.reload();
+                        }
+                        
+                    },
+                    error: function (jqXHR, textStatus, errorThrown) {
+                        swal("Error update data");
+                        table_setting_user.ajax.reload();
+                    }
+                });
+
+            } else {
+                swal("your cancel this change"); 
+            }
+        });
+}
+
 function showHtmlMessage() {
     swal({
         title: "HTML <small>Title</small>!",

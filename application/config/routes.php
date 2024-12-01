@@ -42,3 +42,11 @@ $route['open_access_new_user']                                      = "Dashboard
 $route['submit_open_access_new_user']                               = "Dashboard/UserAccount/ManageAccounts/submitReqOpenAccessNewUser";
 
 $route['account_manage_roles']                                      = "Dashboard/UserAccount/ManageRoles";
+
+$route['setting_user']                                              = "Dashboard/Setting/User";
+$route['get_data_setting_user']                                     = "Dashboard/Setting/User/getDataSettingUser";
+$route['save_data_setting_user']                                    = "Dashboard/Setting/User/saveDataSettingUser";
+
+$route['delete_data_setting_user']                                  = "Dashboard/Setting/User/deleteDataUser";
+$route['update_data_setting_user']                                  = "Dashboard/Setting/User/updateDataUser";
+$route['get_data_for_update_user']                                  = "Dashboard/Setting/User/getDataForUpdateUser";

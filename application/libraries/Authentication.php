@@ -76,42 +76,15 @@ class Authentication
         if (empty($this->CI->session->flashdata('msgValidation'))){
             $record = $this->CI->db->get_where('v_validation_user_login', 
                     array(
-                         'user_id' => $user_id
+                         'user' => $user_id
                     )    
                 );
         
             if ($record->num_rows() > 0) {
                 $valRecord = $record->row();
                 
-                if ($valRecord->status_lock == 0){
-                    $this->CI->session->set_flashdata('msgValidation', "sory your account has locked, please contact administrator");
-                // }else if ($valRecord->password != md5($pass)){
-                }else if(!password_verify($pass, $valRecord->password)){
-
-                    $attemp_login = $this->_cek_attemp($user_id);
-                    if ($attemp_login >= 3){
-                        
-                        $this->CI->db->update(
-                            'user_accounts',
-                            array(
-                                'status_lock' => 0,
-                            ),
-                            array(
-                                'user_id' => $user_id,
-                            )
-                        );
-
-                        $this->CI->session->set_flashdata('msgValidation', "sory your account has been locked, attemp login : ".$attemp_login. " please contact administrator");
-                    }else{
-                        $this->CI->session->set_flashdata('msgValidation', "user id or password not match, attemp login : ".$attemp_login);
-                    }
-
-                }else if ($valRecord->diff_days < 0){
-                    $this->CI->session->set_flashdata('msgValidation', "sory your password has expired, please contact administrator");
-                }else if ($valRecord->email_verification == 0){
-                    $this->CI->session->set_flashdata('msgValidation', "please confirm your email addres first");
-                }else if ($valRecord->status_active == 0){
-                    $this->CI->session->set_flashdata('msgValidation', "your account is still non active");
+                if(!password_verify($pass, $valRecord->pass)){
+                    $this->CI->session->set_flashdata('msgValidation', "user id or password not match");
                 }
             }else{
                 $this->CI->session->set_flashdata('msgValidation', "user id not registered");
@@ -156,19 +129,19 @@ class Authentication
             $getDataLogin = $this->validation_login($login['user'],$login['pass']);
             if (empty($this->CI->session->flashdata('msgValidation'))){
                 $this->CI->db->update(
-                    'user_accounts',
+                    'z_user',
                     array(
-                        'last_login' => date('Y-m-d H:i:s'),
+                        'tgl_terakhir_login' => date('Y-m-d H:i:s'),
                     ),
                     array(
-                        'user_id' => $login['user'],
+                        'user' => $login['user'],
                     )
                 );
 
-                $this->CI->session->set_userdata('logged_user_id', $getDataLogin->user_id);
+                $this->CI->session->set_userdata('logged_user_id', $getDataLogin->user);
                 $this->CI->session->set_userdata('logged_full_name', $getDataLogin->full_name);
-                $this->CI->session->set_userdata('logged_last_login', $getDataLogin->last_login);
-                $this->CI->session->set_userdata('logged_picture_profile', $getDataLogin->profile_picture);
+                $this->CI->session->set_userdata('logged_last_login', $getDataLogin->tgl_terakhir_login);
+                $this->CI->session->set_userdata('logged_picture_profile', 'assets/picture_profiles/default_avatar.png');
                 $this->CI->session->set_userdata('logged_role_name', $getDataLogin->role_name);
                 $this->getUserAccessMenu($login['user']);
 

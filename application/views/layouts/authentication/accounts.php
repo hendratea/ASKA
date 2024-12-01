@@ -34,6 +34,7 @@
         background-attachment: fixed;
         background-size: cover;
         background-color: #464646;
+        background-size: 100% 100%;
     }
 </style> 
 

@@ -29,10 +29,14 @@
                         if($beforeCategory != $accessMenu[0] && $accessMenu[3] != $beforeIdMenu){
                             echo '</ul></li>';
                         }
-                        if($accessMenu[3] == 1){
+                        if($accessMenu[3] == 1 && $accessMenu[6] == 1){
+                            echo '<li><a href="javascript:void(0);" class="menu-toggle"><i class="'.$accessMenu[4].'"></i><span>'.$accessMenu[0].'</span></a><ul class="ml-menu">
+                                  <li title="'.$accessMenu[1].'"><a href="' . base_url() . $accessMenu[5] . '">'.$accessMenu[1].'</a></li></ul>';
+                        }else if($accessMenu[3] == 1 && $accessMenu[6] != 1){
                             echo '<li><a href="javascript:void(0);" class="menu-toggle"><i class="'.$accessMenu[4].'"></i><span>'.$accessMenu[0].'</span></a><ul class="ml-menu">
                                   <li title="'.$accessMenu[1].'"><a href="' . base_url() . $accessMenu[5] . '">'.$accessMenu[1].'</a></li>';
-                        }else{
+                        }
+                        else{
                             // echo '<li><a href="' . base_url() . 'admin_card/generatepin">' . $get_menu_home[1] . '</a></li>';
                             echo '<li title="'.$accessMenu[1].'"><a href="' . base_url() . $accessMenu[5] . '">'.$accessMenu[1].'</a></li>';
                             if($accessMenu[3] == 3 and $accessMenu[2] > 3 and $accessMenu[6] > 3){

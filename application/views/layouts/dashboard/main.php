@@ -24,21 +24,23 @@
 
 
     <?php
-    switch ($contentView) {
-        case "dashboard/pegawai/rekap_all":
-        case "dashboard/referensi/golongan":
-        // case "dashboard/event_crm/log_terminal":
-        // case "dashboard/transactions/query_transactions":
-        // case "dashboard/user_account/manage_accounts":
-        // case "dashboard/event_crm/status_terminal":    
+        switch ($contentView) {
+            case "dashboard/pegawai/rekap_all":
+            case "dashboard/referensi/golongan":
+            case "dashboard/setting/user":  
     ?>
         <link rel="stylesheet" href="<?= base_url() ?>assets/template/plugins/jquery-datatable/dataTables.bootstrap4.min.css">
         <link rel="stylesheet" href="<?= base_url() ?>assets/template/datatables/responsive 2.2.9.css">
         <link rel="stylesheet" href="<?= base_url() ?>assets/template/datatables/border-table.css">
+        <link rel="stylesheet" href="<?= base_url() ?>assets/template/plugins/select2/select2.css" />
+        <link rel="stylesheet" href="<?= base_url() ?>assets/template/plugins/multi-select/css/multi-select.css">
+        <!-- <link rel="stylesheet" href="<?= base_url() ?>assets/plugins/sweetalert/sweetalert.css"> -->
+        <!-- <link href="https://cdn.jsdelivr.net/npm/sweetalert2@11.14.5/dist/sweetalert2.min.css" rel="stylesheet"> -->
+        <link href="<?= base_url() ?>assets/template/my_css/sweetalert2.min.css" rel="stylesheet">
 
     <?php
             break;
-    }
+        }
     ?>
 
     <?php if ($contentView == "dashboard/pegawai/input_data") { ?>
@@ -129,24 +131,8 @@
     </script>
     
     <?php if ($contentView == "dashboard/pegawai/input_data") { ?>
-        
-        <script src="<?= base_url() ?>assets/template/bundles/datatablescripts.bundle.js"></script>
-        <script src="<?= base_url() ?>assets/template/plugins/jquery-datatable/buttons/dataTables.buttons.min.js"></script>
-        <script src="<?= base_url() ?>assets/template/plugins/jquery-datatable/buttons/buttons.bootstrap4.min.js"></script>
-        <script src="<?= base_url() ?>assets/template/plugins/jquery-datatable/buttons/buttons.colVis.min.js"></script>
-        <script src="<?= base_url() ?>assets/template/plugins/jquery-datatable/buttons/buttons.flash.min.js"></script>
-        <script src="<?= base_url() ?>assets/template/plugins/jquery-datatable/buttons/buttons.html5.min.js"></script>
-        <script src="<?= base_url() ?>assets/template/plugins/jquery-datatable/buttons/buttons.print.min.js"></script>
-
-        <!-- <script src="<?= base_url() ?>assets/template/plugins/bootstrap-material-datetimepicker/js/bootstrap-material-datetimepicker.js"></script> -->
-        <!-- <script src="<?= base_url() ?>assets/template/js/pages/forms/basic-form-elements.js"></script> -->
-        <!-- <script src="<?= base_url() ?>assets/template/js/datetimepicker/bootstrap-clockpicker.js"></script> -->
-        <script src="<?= base_url() ?>assets/template/plugins/select2/select2.min.js"></script>
-        <!-- <script src="<?= base_url() ?>assets/template/js/pages/forms/advanced-form-elements.js"></script> -->
         <script src="<?= base_url() ?>assets/template/js/dateTimePicker.js"></script>
-
         <script src="<?= base_url() ?>assets/functions/dashboard/pegawai/input_data.js"></script>
-
         <script type="text/javascript">
 
             $('.tanggalLahirPicker').bootstrapMaterialDatePicker({
@@ -161,9 +147,13 @@
 
     <?php } ?>
 
-
-    <?php if ($contentView == "dashboard/pegawai/rekap_all") { ?>
-        
+    <?php
+        switch ($contentView) {
+            case "dashboard/pegawai/rekap_all":
+            case "dashboard/referensi/golongan":
+            case "dashboard/setting/user":  
+            case "dashboard/pegawai/input_data":      
+    ?>
         <script src="<?= base_url() ?>assets/template/bundles/datatablescripts.bundle.js"></script>
         <script src="<?= base_url() ?>assets/template/plugins/jquery-datatable/buttons/dataTables.buttons.min.js"></script>
         <script src="<?= base_url() ?>assets/template/plugins/jquery-datatable/buttons/buttons.bootstrap4.min.js"></script>
@@ -172,25 +162,28 @@
         <script src="<?= base_url() ?>assets/template/plugins/jquery-datatable/buttons/buttons.html5.min.js"></script>
         <script src="<?= base_url() ?>assets/template/plugins/jquery-datatable/buttons/buttons.print.min.js"></script>
 
-        <script src="<?= base_url() ?>assets/functions/dashboard/pegawai/rekap_data_all.js"></script>
+        <script src="<?= base_url() ?>assets/template/plugins/select2/select2.min.js"></script>
+        <script src="<?= base_url() ?>assets/template/js/pages/forms/advanced-form-elements.js"></script>
+    <?php
+            break;
+        }
+    ?>
 
+    <?php if ($contentView == "dashboard/pegawai/rekap_all") { ?>
+        <script src="<?= base_url() ?>assets/functions/dashboard/pegawai/rekap_data_all.js"></script>
     <?php } ?>
 
     <?php if ($contentView == "dashboard/referensi/golongan") { ?>
-        
-        <script src="<?= base_url() ?>assets/template/bundles/datatablescripts.bundle.js"></script>
-        <script src="<?= base_url() ?>assets/template/plugins/jquery-datatable/buttons/dataTables.buttons.min.js"></script>
-        <script src="<?= base_url() ?>assets/template/plugins/jquery-datatable/buttons/buttons.bootstrap4.min.js"></script>
-        <script src="<?= base_url() ?>assets/template/plugins/jquery-datatable/buttons/buttons.colVis.min.js"></script>
-        <script src="<?= base_url() ?>assets/template/plugins/jquery-datatable/buttons/buttons.flash.min.js"></script>
-        <script src="<?= base_url() ?>assets/template/plugins/jquery-datatable/buttons/buttons.html5.min.js"></script>
-        <script src="<?= base_url() ?>assets/template/plugins/jquery-datatable/buttons/buttons.print.min.js"></script>
-
         <script src="<?= base_url() ?>assets/functions/dashboard/referensi/golongan.js"></script>
-
     <?php } ?>
 
-    
+    <?php if ($contentView == "dashboard/setting/user") { ?>
+        <script src="<?= base_url() ?>assets/functions/dashboard/setting/user.js"></script>
+        <script src="<?= base_url() ?>assets/template/plugins/sweetalert/sweetalert.min.js"></script>
+        <!-- <script src="<?= base_url() ?>assets/template/js/pages/ui/sweetalert.js"></script> -->
+        <!-- <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11.14.5/dist/sweetalert2.all.min.js"></script> -->
+        <script src="<?= base_url() ?>assets/template/my_js/sweetalert2.all.min.js"></script>
+    <?php } ?>
 
 
 </body>
