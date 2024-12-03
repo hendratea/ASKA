@@ -2,7 +2,7 @@ var table_setting_user;
 
 function tableSettingUser() {
   var url;
-  url = baseURL + "get_data_setting_user";
+  url = baseURL + "get_setting_user";
   table_setting_user = $("#dt_setting_user").DataTable({
     destroy: true,
     iDisplayLength: 10,
@@ -54,7 +54,7 @@ function btnSaveDataUser() {
     cancelButtonText: "Tidak",
   }).then((result) => {
     if (result.isConfirmed) {
-      var url = baseURL + "save_data_setting_user";
+      var url = baseURL + "save_setting_user";
 
       var postData = $.param({
         ajaxUserId: $("#userId").val(),
@@ -131,8 +131,12 @@ function btnUpdateDataUser() {
     cancelButtonText: "Tidak",
   }).then((result) => {
     if (result.isConfirmed) {
-      var url = baseURL + "update_data_setting_user";
+      $("#btnUpdate").hide();
+      $("#btnCancel").hide();
+      $("#btnSubmit").show();
+      $("#btnReset").show();
 
+      var url = baseURL + "update_setting_user";
       var postData = $.param({
         ajaxUserId: $("#userId").val(),
         ajaxPassword: $("#password").val(),
@@ -201,7 +205,7 @@ function confirmDeleteDataUser(rUser) {
     cancelButtonText: "Tidak",
   }).then((result) => {
     if (result.isConfirmed) {
-      var url = baseURL + "delete_data_setting_user";
+      var url = baseURL + "delete_setting_user";
       var postData = $.param({
         ajaxUserId: rUser,
       });
@@ -259,7 +263,7 @@ function confirmUpdateDataUser(rUser) {
       $("#btnReset").hide();
       $("#userId").prop("disabled", true);
 
-      var url = baseURL + "get_data_for_update_user";
+      var url = baseURL + "get_forupdate_setting_user";
       var datapost = {
         ajaxUserId: rUser,
       };

@@ -194,3 +194,54 @@ No         Date/Time            Browser            Access Path
 000000192  2024-12-03 22:26:32  Google Chrome      abot : D:\xampp\htdocs\aska\application\controllers\Dashboard\Home\index 
 000000193  2024-12-03 22:27:09  Google Chrome      abot : D:\xampp\htdocs\aska\application\models\Dashboard\Setting\UserModel\m_saveDataUser save data user
 000000194  2024-12-03 22:27:19  Google Chrome      abot : D:\xampp\htdocs\aska\application\models\Dashboard\Setting\UserModel\m_getDataUserForUpdate get data setting user for update
+000000195  2024-12-03 22:39:16  Google Chrome      abot : D:\xampp\htdocs\aska\application\models\Dashboard\Setting\UserModel\m_getDataUserForUpdate get data setting user for update
+000000196  2024-12-03 22:39:29  Google Chrome      abot : D:\xampp\htdocs\aska\application\models\Dashboard\Setting\UserModel\m_updateDataUser update data user
+000000197  2024-12-03 22:39:41  Google Chrome      abot : D:\xampp\htdocs\aska\application\models\Dashboard\Referensi\GolonganModel\getAllDataGolonganMDL get all data golongan
+000000198  2024-12-03 22:49:05  Google Chrome      abot : D:\xampp\htdocs\aska\application\controllers\SignIn\logout 
+000000199  2024-12-03 22:49:05  Google Chrome      D:\xampp\htdocs\aska\application\controllers\SignIn\index 
+000000200  2024-12-03 22:50:38  Google Chrome      D:\xampp\htdocs\aska\application\controllers\SignIn\index 
+000000201  2024-12-03 22:50:39  Google Chrome      abot : D:\xampp\htdocs\aska\application\controllers\Dashboard\Home\index 
+000000202  2024-12-03 23:05:20  Google Chrome      abot : D:\xampp\htdocs\aska\application\controllers\SignIn\logout 
+000000203  2024-12-03 23:05:20  Google Chrome      D:\xampp\htdocs\aska\application\controllers\SignIn\index 
+000000204  2024-12-03 23:05:24  Google Chrome      D:\xampp\htdocs\aska\application\controllers\SignIn\index 
+000000205  2024-12-03 23:05:25  Google Chrome      abot : D:\xampp\htdocs\aska\application\controllers\Dashboard\Home\index 
+000000206  2024-12-03 23:05:28  Google Chrome      abot : D:\xampp\htdocs\aska\application\models\Dashboard\Referensi\GolonganModel\getAllDataGolonganMDL get all data golongan
+000000207  2024-12-03 23:06:21  Google Chrome      abot : D:\xampp\htdocs\aska\application\controllers\SignIn\logout 
+000000208  2024-12-03 23:06:22  Google Chrome      D:\xampp\htdocs\aska\application\controllers\SignIn\index 
+000000209  2024-12-03 23:12:01  Google Chrome      D:\xampp\htdocs\aska\application\controllers\SignIn\index 
+000000210  2024-12-03 23:12:02  Google Chrome      abot : D:\xampp\htdocs\aska\application\controllers\Dashboard\Home\index 
+000000211  2024-12-03 23:12:11  Google Chrome      abot : D:\xampp\htdocs\aska\application\controllers\SignIn\logout 
+000000212  2024-12-03 23:12:11  Google Chrome      D:\xampp\htdocs\aska\application\controllers\SignIn\index 
+000000213  2024-12-03 23:12:12  Google Chrome       : D:\xampp\htdocs\aska\application\controllers\SignIn\logout 
+000000214  2024-12-03 23:12:12  Google Chrome      D:\xampp\htdocs\aska\application\controllers\SignIn\index 
+000000215  2024-12-03 23:12:39  Google Chrome      D:\xampp\htdocs\aska\application\controllers\SignIn\index 
+000000216  2024-12-03 23:12:40  Google Chrome      abot : D:\xampp\htdocs\aska\application\controllers\Dashboard\Home\index 
+000000217  2024-12-03 23:12:47  Google Chrome      abot : D:\xampp\htdocs\aska\application\controllers\Dashboard\Home\index 
+000000218  2024-12-03 23:12:59  Google Chrome      abot : D:\xampp\htdocs\aska\application\controllers\SignIn\logout 
+000000219  2024-12-03 23:12:59  Google Chrome      D:\xampp\htdocs\aska\application\controllers\SignIn\index 
+000000220  2024-12-03 23:13:05  Google Chrome      D:\xampp\htdocs\aska\application\controllers\SignIn\index 
+000000221  2024-12-03 23:13:09  Google Chrome      ipong : D:\xampp\htdocs\aska\application\controllers\Dashboard\Home\index 
+000000222  2024-12-03 23:19:54  Google Chrome      ipong : D:\xampp\htdocs\aska\application\controllers\SignIn\logout 
+000000223  2024-12-03 23:19:54  Google Chrome      D:\xampp\htdocs\aska\application\controllers\SignIn\index 
+000000224  2024-12-03 23:19:58  Google Chrome      D:\xampp\htdocs\aska\application\controllers\SignIn\index 
+000000225  2024-12-03 23:19:58  Google Chrome      abot : D:\xampp\htdocs\aska\application\controllers\Dashboard\Home\index 
+000000226  2024-12-03 23:29:55  Google Chrome      abot : D:\xampp\htdocs\aska\application\controllers\Dashboard\Home\index 
+000000227  2024-12-03 23:48:05  Google Chrome      abot : D:\xampp\htdocs\aska\application\controllers\Dashboard\Home\index 
+000000228  2024-12-03 23:48:08  Google Chrome      abot : D:\xampp\htdocs\aska\application\controllers\SignIn\logout 
+000000229  2024-12-03 23:48:08  Google Chrome      D:\xampp\htdocs\aska\application\controllers\SignIn\index 
+000000230  2024-12-03 23:48:11  Google Chrome      D:\xampp\htdocs\aska\application\controllers\SignIn\index 
+000000231  2024-12-03 23:48:14  Google Chrome      D:\xampp\htdocs\aska\application\controllers\SignIn\index 
+000000232  2024-12-03 23:48:14  Google Chrome      abot : D:\xampp\htdocs\aska\application\controllers\Dashboard\Home\index 
+000000233  2024-12-03 23:48:18  Google Chrome      abot : D:\xampp\htdocs\aska\application\models\Dashboard\Referensi\GolonganModel\getAllDataGolonganMDL get all data golongan
+000000234  2024-12-03 23:48:28  Google Chrome      abot : D:\xampp\htdocs\aska\application\models\Dashboard\Setting\UserModel\m_getDataUserForUpdate get data setting user for update
+000000235  2024-12-03 23:48:38  Google Chrome      abot : D:\xampp\htdocs\aska\application\models\Dashboard\Setting\UserModel\m_updateDataUser update data user
+000000236  2024-12-03 23:48:58  Google Chrome      abot : D:\xampp\htdocs\aska\application\models\Dashboard\Setting\UserModel\m_getDataUserForUpdate get data setting user for update
+000000237  2024-12-03 23:49:05  Google Chrome      abot : D:\xampp\htdocs\aska\application\models\Dashboard\Setting\UserModel\m_updateDataUser update data user
+000000238  2024-12-03 23:51:38  Google Chrome      abot : D:\xampp\htdocs\aska\application\models\Dashboard\Setting\UserModel\m_getDataUserForUpdate get data setting user for update
+000000239  2024-12-03 23:52:35  Google Chrome      abot : D:\xampp\htdocs\aska\application\models\Dashboard\Setting\UserModel\m_deleteDataUser delete data user
+000000240  2024-12-03 23:52:58  Google Chrome      abot : D:\xampp\htdocs\aska\application\models\Dashboard\Setting\UserModel\m_saveDataUser save data user
+000000241  2024-12-03 23:55:55  Google Chrome      abot : D:\xampp\htdocs\aska\application\models\Dashboard\Setting\UserModel\m_getDataUserForUpdate get data setting user for update
+000000242  2024-12-03 23:56:02  Google Chrome      abot : D:\xampp\htdocs\aska\application\models\Dashboard\Setting\UserModel\m_getDataUserForUpdate get data setting user for update
+000000243  2024-12-03 23:56:08  Google Chrome      abot : D:\xampp\htdocs\aska\application\models\Dashboard\Setting\UserModel\m_updateDataUser update data user
+000000244  2024-12-03 23:56:21  Google Chrome      abot : D:\xampp\htdocs\aska\application\models\Dashboard\Setting\UserModel\m_getDataUserForUpdate get data setting user for update
+000000245  2024-12-03 23:56:28  Google Chrome      abot : D:\xampp\htdocs\aska\application\models\Dashboard\Setting\UserModel\m_updateDataUser update data user

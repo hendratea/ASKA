@@ -14680,3 +14680,3996 @@ INFO - 2024-12-03 22:27:19 --> Controller Class Initialized
 INFO - 2024-12-03 22:27:19 --> Model "UserModel" initialized
 INFO - 2024-12-03 22:27:19 --> Final output sent to browser
 DEBUG - 2024-12-03 22:27:19 --> Total execution time: 0.0606
+INFO - 2024-12-03 16:39:14 --> Config Class Initialized
+INFO - 2024-12-03 16:39:14 --> Hooks Class Initialized
+DEBUG - 2024-12-03 16:39:14 --> UTF-8 Support Enabled
+INFO - 2024-12-03 16:39:14 --> Utf8 Class Initialized
+INFO - 2024-12-03 16:39:14 --> URI Class Initialized
+INFO - 2024-12-03 16:39:14 --> Router Class Initialized
+INFO - 2024-12-03 16:39:14 --> Output Class Initialized
+INFO - 2024-12-03 16:39:14 --> Security Class Initialized
+DEBUG - 2024-12-03 16:39:14 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-12-03 16:39:14 --> Input Class Initialized
+INFO - 2024-12-03 16:39:14 --> Language Class Initialized
+INFO - 2024-12-03 16:39:14 --> Loader Class Initialized
+DEBUG - 2024-12-03 22:39:14 --> Config file loaded: D:\xampp\htdocs\aska\application\config/Hris.php
+INFO - 2024-12-03 22:39:14 --> Helper loaded: form_helper
+INFO - 2024-12-03 22:39:14 --> Helper loaded: url_helper
+INFO - 2024-12-03 22:39:14 --> Helper loaded: date_helper
+INFO - 2024-12-03 22:39:14 --> Helper loaded: file_helper
+INFO - 2024-12-03 22:39:14 --> Helper loaded: directory_helper
+INFO - 2024-12-03 22:39:14 --> Helper loaded: path_helper
+INFO - 2024-12-03 22:39:14 --> Helper loaded: download_helper
+INFO - 2024-12-03 22:39:14 --> Helper loaded: logactivity_helper
+INFO - 2024-12-03 22:39:14 --> Helper loaded: tools_helper
+INFO - 2024-12-03 22:39:14 --> Database Driver Class Initialized
+INFO - 2024-12-03 22:39:14 --> Email Class Initialized
+INFO - 2024-12-03 22:39:14 --> Form Validation Class Initialized
+INFO - 2024-12-03 22:39:14 --> Table Class Initialized
+INFO - 2024-12-03 22:39:15 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2024-12-03 22:39:15 --> Pagination Class Initialized
+DEBUG - 2024-12-03 22:39:15 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-12-03 22:39:16 --> Session: Class initialized using 'files' driver.
+DEBUG - 2024-12-03 22:39:16 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2024-12-03 22:39:16 --> Form_validation class already loaded. Second attempt ignored.
+INFO - 2024-12-03 22:39:16 --> Helper loaded: captcha_helper
+INFO - 2024-12-03 22:39:16 --> Helper loaded: security_helper
+INFO - 2024-12-03 22:39:16 --> Controller Class Initialized
+INFO - 2024-12-03 22:39:16 --> Model "UserModel" initialized
+INFO - 2024-12-03 22:39:16 --> Final output sent to browser
+DEBUG - 2024-12-03 22:39:16 --> Total execution time: 1.6267
+INFO - 2024-12-03 16:39:29 --> Config Class Initialized
+INFO - 2024-12-03 16:39:29 --> Hooks Class Initialized
+DEBUG - 2024-12-03 16:39:29 --> UTF-8 Support Enabled
+INFO - 2024-12-03 16:39:29 --> Utf8 Class Initialized
+INFO - 2024-12-03 16:39:29 --> URI Class Initialized
+INFO - 2024-12-03 16:39:29 --> Router Class Initialized
+INFO - 2024-12-03 16:39:29 --> Output Class Initialized
+INFO - 2024-12-03 16:39:29 --> Security Class Initialized
+DEBUG - 2024-12-03 16:39:29 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-12-03 16:39:29 --> Input Class Initialized
+INFO - 2024-12-03 16:39:29 --> Language Class Initialized
+INFO - 2024-12-03 16:39:29 --> Loader Class Initialized
+DEBUG - 2024-12-03 22:39:29 --> Config file loaded: D:\xampp\htdocs\aska\application\config/Hris.php
+INFO - 2024-12-03 22:39:29 --> Helper loaded: form_helper
+INFO - 2024-12-03 22:39:29 --> Helper loaded: url_helper
+INFO - 2024-12-03 22:39:29 --> Helper loaded: date_helper
+INFO - 2024-12-03 22:39:29 --> Helper loaded: file_helper
+INFO - 2024-12-03 22:39:29 --> Helper loaded: directory_helper
+INFO - 2024-12-03 22:39:29 --> Helper loaded: path_helper
+INFO - 2024-12-03 22:39:29 --> Helper loaded: download_helper
+INFO - 2024-12-03 22:39:29 --> Helper loaded: logactivity_helper
+INFO - 2024-12-03 22:39:29 --> Helper loaded: tools_helper
+INFO - 2024-12-03 22:39:29 --> Database Driver Class Initialized
+INFO - 2024-12-03 22:39:29 --> Email Class Initialized
+INFO - 2024-12-03 22:39:29 --> Form Validation Class Initialized
+INFO - 2024-12-03 22:39:29 --> Table Class Initialized
+INFO - 2024-12-03 22:39:29 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2024-12-03 22:39:29 --> Pagination Class Initialized
+DEBUG - 2024-12-03 22:39:29 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-12-03 22:39:29 --> Session: Class initialized using 'files' driver.
+DEBUG - 2024-12-03 22:39:29 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2024-12-03 22:39:29 --> Form_validation class already loaded. Second attempt ignored.
+INFO - 2024-12-03 22:39:29 --> Helper loaded: captcha_helper
+INFO - 2024-12-03 22:39:29 --> Helper loaded: security_helper
+INFO - 2024-12-03 22:39:29 --> Controller Class Initialized
+INFO - 2024-12-03 22:39:29 --> Model "UserModel" initialized
+INFO - 2024-12-03 22:39:30 --> Final output sent to browser
+DEBUG - 2024-12-03 22:39:30 --> Total execution time: 0.1976
+INFO - 2024-12-03 16:39:32 --> Config Class Initialized
+INFO - 2024-12-03 16:39:32 --> Hooks Class Initialized
+DEBUG - 2024-12-03 16:39:32 --> UTF-8 Support Enabled
+INFO - 2024-12-03 16:39:32 --> Utf8 Class Initialized
+INFO - 2024-12-03 16:39:32 --> URI Class Initialized
+INFO - 2024-12-03 16:39:32 --> Router Class Initialized
+INFO - 2024-12-03 16:39:32 --> Output Class Initialized
+INFO - 2024-12-03 16:39:32 --> Security Class Initialized
+DEBUG - 2024-12-03 16:39:32 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-12-03 16:39:32 --> Input Class Initialized
+INFO - 2024-12-03 16:39:32 --> Language Class Initialized
+INFO - 2024-12-03 16:39:32 --> Loader Class Initialized
+DEBUG - 2024-12-03 22:39:32 --> Config file loaded: D:\xampp\htdocs\aska\application\config/Hris.php
+INFO - 2024-12-03 22:39:32 --> Helper loaded: form_helper
+INFO - 2024-12-03 22:39:32 --> Helper loaded: url_helper
+INFO - 2024-12-03 22:39:32 --> Helper loaded: date_helper
+INFO - 2024-12-03 22:39:32 --> Helper loaded: file_helper
+INFO - 2024-12-03 22:39:32 --> Helper loaded: directory_helper
+INFO - 2024-12-03 22:39:32 --> Helper loaded: path_helper
+INFO - 2024-12-03 22:39:32 --> Helper loaded: download_helper
+INFO - 2024-12-03 22:39:32 --> Helper loaded: logactivity_helper
+INFO - 2024-12-03 22:39:32 --> Helper loaded: tools_helper
+INFO - 2024-12-03 22:39:32 --> Database Driver Class Initialized
+INFO - 2024-12-03 22:39:32 --> Email Class Initialized
+INFO - 2024-12-03 22:39:32 --> Form Validation Class Initialized
+INFO - 2024-12-03 22:39:32 --> Table Class Initialized
+INFO - 2024-12-03 22:39:32 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2024-12-03 22:39:32 --> Pagination Class Initialized
+DEBUG - 2024-12-03 22:39:32 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-12-03 22:39:32 --> Session: Class initialized using 'files' driver.
+DEBUG - 2024-12-03 22:39:32 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2024-12-03 22:39:32 --> Form_validation class already loaded. Second attempt ignored.
+INFO - 2024-12-03 22:39:32 --> Helper loaded: captcha_helper
+INFO - 2024-12-03 22:39:32 --> Helper loaded: security_helper
+INFO - 2024-12-03 22:39:32 --> Controller Class Initialized
+INFO - 2024-12-03 22:39:32 --> Model "UserModel" initialized
+INFO - 2024-12-03 16:39:39 --> Config Class Initialized
+INFO - 2024-12-03 16:39:39 --> Hooks Class Initialized
+DEBUG - 2024-12-03 16:39:39 --> UTF-8 Support Enabled
+INFO - 2024-12-03 16:39:39 --> Utf8 Class Initialized
+INFO - 2024-12-03 16:39:39 --> URI Class Initialized
+INFO - 2024-12-03 16:39:39 --> Router Class Initialized
+INFO - 2024-12-03 16:39:39 --> Output Class Initialized
+INFO - 2024-12-03 16:39:39 --> Security Class Initialized
+DEBUG - 2024-12-03 16:39:39 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-12-03 16:39:39 --> Input Class Initialized
+INFO - 2024-12-03 16:39:39 --> Language Class Initialized
+INFO - 2024-12-03 16:39:39 --> Loader Class Initialized
+DEBUG - 2024-12-03 22:39:39 --> Config file loaded: D:\xampp\htdocs\aska\application\config/Hris.php
+INFO - 2024-12-03 22:39:39 --> Helper loaded: form_helper
+INFO - 2024-12-03 22:39:39 --> Helper loaded: url_helper
+INFO - 2024-12-03 22:39:39 --> Helper loaded: date_helper
+INFO - 2024-12-03 22:39:39 --> Helper loaded: file_helper
+INFO - 2024-12-03 22:39:39 --> Helper loaded: directory_helper
+INFO - 2024-12-03 22:39:39 --> Helper loaded: path_helper
+INFO - 2024-12-03 22:39:39 --> Helper loaded: download_helper
+INFO - 2024-12-03 22:39:39 --> Helper loaded: logactivity_helper
+INFO - 2024-12-03 22:39:39 --> Helper loaded: tools_helper
+INFO - 2024-12-03 22:39:39 --> Database Driver Class Initialized
+INFO - 2024-12-03 22:39:39 --> Email Class Initialized
+INFO - 2024-12-03 22:39:39 --> Form Validation Class Initialized
+INFO - 2024-12-03 22:39:39 --> Table Class Initialized
+INFO - 2024-12-03 22:39:39 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2024-12-03 22:39:39 --> Pagination Class Initialized
+DEBUG - 2024-12-03 22:39:39 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-12-03 22:39:39 --> Session: Class initialized using 'files' driver.
+DEBUG - 2024-12-03 22:39:39 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2024-12-03 22:39:39 --> Form_validation class already loaded. Second attempt ignored.
+INFO - 2024-12-03 22:39:39 --> Helper loaded: captcha_helper
+INFO - 2024-12-03 22:39:39 --> Helper loaded: security_helper
+INFO - 2024-12-03 22:39:39 --> Controller Class Initialized
+INFO - 2024-12-03 22:39:39 --> Model "GolonganModel" initialized
+INFO - 2024-12-03 22:39:39 --> File loaded: D:\xampp\htdocs\aska\application\views\layouts/dashboard/navbar.php
+INFO - 2024-12-03 22:39:39 --> File loaded: D:\xampp\htdocs\aska\application\views\layouts/dashboard/header.php
+INFO - 2024-12-03 22:39:39 --> File loaded: D:\xampp\htdocs\aska\application\views\dashboard/referensi/golongan.php
+INFO - 2024-12-03 22:39:39 --> File loaded: D:\xampp\htdocs\aska\application\views\layouts/dashboard/main.php
+INFO - 2024-12-03 22:39:39 --> Final output sent to browser
+DEBUG - 2024-12-03 22:39:39 --> Total execution time: 0.0489
+INFO - 2024-12-03 16:39:41 --> Config Class Initialized
+INFO - 2024-12-03 16:39:41 --> Hooks Class Initialized
+DEBUG - 2024-12-03 16:39:41 --> UTF-8 Support Enabled
+INFO - 2024-12-03 16:39:41 --> Utf8 Class Initialized
+INFO - 2024-12-03 16:39:41 --> URI Class Initialized
+INFO - 2024-12-03 16:39:41 --> Router Class Initialized
+INFO - 2024-12-03 16:39:41 --> Output Class Initialized
+INFO - 2024-12-03 16:39:41 --> Security Class Initialized
+DEBUG - 2024-12-03 16:39:41 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-12-03 16:39:41 --> Input Class Initialized
+INFO - 2024-12-03 16:39:41 --> Language Class Initialized
+INFO - 2024-12-03 16:39:41 --> Loader Class Initialized
+DEBUG - 2024-12-03 22:39:41 --> Config file loaded: D:\xampp\htdocs\aska\application\config/Hris.php
+INFO - 2024-12-03 22:39:41 --> Helper loaded: form_helper
+INFO - 2024-12-03 22:39:41 --> Helper loaded: url_helper
+INFO - 2024-12-03 22:39:41 --> Helper loaded: date_helper
+INFO - 2024-12-03 22:39:41 --> Helper loaded: file_helper
+INFO - 2024-12-03 22:39:41 --> Helper loaded: directory_helper
+INFO - 2024-12-03 22:39:41 --> Helper loaded: path_helper
+INFO - 2024-12-03 22:39:41 --> Helper loaded: download_helper
+INFO - 2024-12-03 22:39:41 --> Helper loaded: logactivity_helper
+INFO - 2024-12-03 22:39:41 --> Helper loaded: tools_helper
+INFO - 2024-12-03 22:39:41 --> Database Driver Class Initialized
+INFO - 2024-12-03 22:39:41 --> Email Class Initialized
+INFO - 2024-12-03 22:39:41 --> Form Validation Class Initialized
+INFO - 2024-12-03 22:39:41 --> Table Class Initialized
+INFO - 2024-12-03 22:39:41 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2024-12-03 22:39:41 --> Pagination Class Initialized
+DEBUG - 2024-12-03 22:39:41 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-12-03 22:39:41 --> Session: Class initialized using 'files' driver.
+DEBUG - 2024-12-03 22:39:41 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2024-12-03 22:39:41 --> Form_validation class already loaded. Second attempt ignored.
+INFO - 2024-12-03 22:39:41 --> Helper loaded: captcha_helper
+INFO - 2024-12-03 22:39:41 --> Helper loaded: security_helper
+INFO - 2024-12-03 22:39:41 --> Controller Class Initialized
+INFO - 2024-12-03 22:39:41 --> Model "GolonganModel" initialized
+INFO - 2024-12-03 16:49:05 --> Config Class Initialized
+INFO - 2024-12-03 16:49:05 --> Hooks Class Initialized
+DEBUG - 2024-12-03 16:49:05 --> UTF-8 Support Enabled
+INFO - 2024-12-03 16:49:05 --> Utf8 Class Initialized
+INFO - 2024-12-03 16:49:05 --> URI Class Initialized
+INFO - 2024-12-03 16:49:05 --> Router Class Initialized
+INFO - 2024-12-03 16:49:05 --> Output Class Initialized
+INFO - 2024-12-03 16:49:05 --> Security Class Initialized
+DEBUG - 2024-12-03 16:49:05 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-12-03 16:49:05 --> Input Class Initialized
+INFO - 2024-12-03 16:49:05 --> Language Class Initialized
+INFO - 2024-12-03 16:49:05 --> Loader Class Initialized
+DEBUG - 2024-12-03 22:49:05 --> Config file loaded: D:\xampp\htdocs\aska\application\config/Hris.php
+INFO - 2024-12-03 22:49:05 --> Helper loaded: form_helper
+INFO - 2024-12-03 22:49:05 --> Helper loaded: url_helper
+INFO - 2024-12-03 22:49:05 --> Helper loaded: date_helper
+INFO - 2024-12-03 22:49:05 --> Helper loaded: file_helper
+INFO - 2024-12-03 22:49:05 --> Helper loaded: directory_helper
+INFO - 2024-12-03 22:49:05 --> Helper loaded: path_helper
+INFO - 2024-12-03 22:49:05 --> Helper loaded: download_helper
+INFO - 2024-12-03 22:49:05 --> Helper loaded: logactivity_helper
+INFO - 2024-12-03 22:49:05 --> Helper loaded: tools_helper
+INFO - 2024-12-03 22:49:05 --> Database Driver Class Initialized
+INFO - 2024-12-03 22:49:05 --> Email Class Initialized
+INFO - 2024-12-03 22:49:05 --> Form Validation Class Initialized
+INFO - 2024-12-03 22:49:05 --> Table Class Initialized
+INFO - 2024-12-03 22:49:05 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2024-12-03 22:49:05 --> Pagination Class Initialized
+DEBUG - 2024-12-03 22:49:05 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-12-03 22:49:05 --> Session: Class initialized using 'files' driver.
+DEBUG - 2024-12-03 22:49:05 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2024-12-03 22:49:05 --> Form_validation class already loaded. Second attempt ignored.
+INFO - 2024-12-03 22:49:05 --> Helper loaded: captcha_helper
+INFO - 2024-12-03 22:49:05 --> Helper loaded: security_helper
+INFO - 2024-12-03 22:49:05 --> Controller Class Initialized
+INFO - 2024-12-03 16:49:05 --> Config Class Initialized
+INFO - 2024-12-03 16:49:05 --> Hooks Class Initialized
+DEBUG - 2024-12-03 16:49:05 --> UTF-8 Support Enabled
+INFO - 2024-12-03 16:49:05 --> Utf8 Class Initialized
+INFO - 2024-12-03 16:49:05 --> URI Class Initialized
+DEBUG - 2024-12-03 16:49:05 --> No URI present. Default controller set.
+INFO - 2024-12-03 16:49:05 --> Router Class Initialized
+INFO - 2024-12-03 16:49:05 --> Output Class Initialized
+INFO - 2024-12-03 16:49:05 --> Security Class Initialized
+DEBUG - 2024-12-03 16:49:05 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-12-03 16:49:05 --> Input Class Initialized
+INFO - 2024-12-03 16:49:05 --> Language Class Initialized
+INFO - 2024-12-03 16:49:05 --> Loader Class Initialized
+DEBUG - 2024-12-03 22:49:05 --> Config file loaded: D:\xampp\htdocs\aska\application\config/Hris.php
+INFO - 2024-12-03 22:49:05 --> Helper loaded: form_helper
+INFO - 2024-12-03 22:49:05 --> Helper loaded: url_helper
+INFO - 2024-12-03 22:49:05 --> Helper loaded: date_helper
+INFO - 2024-12-03 22:49:05 --> Helper loaded: file_helper
+INFO - 2024-12-03 22:49:05 --> Helper loaded: directory_helper
+INFO - 2024-12-03 22:49:05 --> Helper loaded: path_helper
+INFO - 2024-12-03 22:49:05 --> Helper loaded: download_helper
+INFO - 2024-12-03 22:49:05 --> Helper loaded: logactivity_helper
+INFO - 2024-12-03 22:49:05 --> Helper loaded: tools_helper
+INFO - 2024-12-03 22:49:05 --> Database Driver Class Initialized
+INFO - 2024-12-03 22:49:05 --> Email Class Initialized
+INFO - 2024-12-03 22:49:05 --> Form Validation Class Initialized
+INFO - 2024-12-03 22:49:05 --> Table Class Initialized
+INFO - 2024-12-03 22:49:05 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2024-12-03 22:49:05 --> Pagination Class Initialized
+DEBUG - 2024-12-03 22:49:05 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-12-03 22:49:05 --> Session: Class initialized using 'files' driver.
+DEBUG - 2024-12-03 22:49:05 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2024-12-03 22:49:05 --> Form_validation class already loaded. Second attempt ignored.
+INFO - 2024-12-03 22:49:05 --> Helper loaded: captcha_helper
+INFO - 2024-12-03 22:49:05 --> Helper loaded: security_helper
+INFO - 2024-12-03 22:49:05 --> Controller Class Initialized
+INFO - 2024-12-03 22:49:05 --> File loaded: D:\xampp\htdocs\aska\application\views\authentication/signin.php
+INFO - 2024-12-03 22:49:05 --> File loaded: D:\xampp\htdocs\aska\application\views\layouts/authentication/accounts.php
+INFO - 2024-12-03 22:49:05 --> Final output sent to browser
+DEBUG - 2024-12-03 22:49:05 --> Total execution time: 0.1341
+INFO - 2024-12-03 16:50:38 --> Config Class Initialized
+INFO - 2024-12-03 16:50:38 --> Hooks Class Initialized
+DEBUG - 2024-12-03 16:50:38 --> UTF-8 Support Enabled
+INFO - 2024-12-03 16:50:38 --> Utf8 Class Initialized
+INFO - 2024-12-03 16:50:38 --> URI Class Initialized
+DEBUG - 2024-12-03 16:50:38 --> No URI present. Default controller set.
+INFO - 2024-12-03 16:50:38 --> Router Class Initialized
+INFO - 2024-12-03 16:50:38 --> Output Class Initialized
+INFO - 2024-12-03 16:50:38 --> Security Class Initialized
+DEBUG - 2024-12-03 16:50:38 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-12-03 16:50:38 --> Input Class Initialized
+INFO - 2024-12-03 16:50:38 --> Language Class Initialized
+INFO - 2024-12-03 16:50:38 --> Loader Class Initialized
+DEBUG - 2024-12-03 22:50:38 --> Config file loaded: D:\xampp\htdocs\aska\application\config/Hris.php
+INFO - 2024-12-03 22:50:38 --> Helper loaded: form_helper
+INFO - 2024-12-03 22:50:38 --> Helper loaded: url_helper
+INFO - 2024-12-03 22:50:38 --> Helper loaded: date_helper
+INFO - 2024-12-03 22:50:38 --> Helper loaded: file_helper
+INFO - 2024-12-03 22:50:38 --> Helper loaded: directory_helper
+INFO - 2024-12-03 22:50:38 --> Helper loaded: path_helper
+INFO - 2024-12-03 22:50:38 --> Helper loaded: download_helper
+INFO - 2024-12-03 22:50:38 --> Helper loaded: logactivity_helper
+INFO - 2024-12-03 22:50:38 --> Helper loaded: tools_helper
+INFO - 2024-12-03 22:50:38 --> Database Driver Class Initialized
+INFO - 2024-12-03 22:50:38 --> Email Class Initialized
+INFO - 2024-12-03 22:50:38 --> Form Validation Class Initialized
+INFO - 2024-12-03 22:50:38 --> Table Class Initialized
+INFO - 2024-12-03 22:50:38 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2024-12-03 22:50:38 --> Pagination Class Initialized
+DEBUG - 2024-12-03 22:50:38 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-12-03 22:50:38 --> Session: Class initialized using 'files' driver.
+DEBUG - 2024-12-03 22:50:38 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2024-12-03 22:50:38 --> Form_validation class already loaded. Second attempt ignored.
+INFO - 2024-12-03 22:50:38 --> Helper loaded: captcha_helper
+INFO - 2024-12-03 22:50:38 --> Helper loaded: security_helper
+INFO - 2024-12-03 22:50:38 --> Controller Class Initialized
+INFO - 2024-12-03 22:50:38 --> Language file loaded: language/english/form_validation_lang.php
+INFO - 2024-12-03 16:50:39 --> Config Class Initialized
+INFO - 2024-12-03 16:50:39 --> Hooks Class Initialized
+DEBUG - 2024-12-03 16:50:39 --> UTF-8 Support Enabled
+INFO - 2024-12-03 16:50:39 --> Utf8 Class Initialized
+INFO - 2024-12-03 16:50:39 --> URI Class Initialized
+INFO - 2024-12-03 16:50:39 --> Router Class Initialized
+INFO - 2024-12-03 16:50:39 --> Output Class Initialized
+INFO - 2024-12-03 16:50:39 --> Security Class Initialized
+DEBUG - 2024-12-03 16:50:39 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-12-03 16:50:39 --> Input Class Initialized
+INFO - 2024-12-03 16:50:39 --> Language Class Initialized
+INFO - 2024-12-03 16:50:39 --> Loader Class Initialized
+DEBUG - 2024-12-03 22:50:39 --> Config file loaded: D:\xampp\htdocs\aska\application\config/Hris.php
+INFO - 2024-12-03 22:50:39 --> Helper loaded: form_helper
+INFO - 2024-12-03 22:50:39 --> Helper loaded: url_helper
+INFO - 2024-12-03 22:50:39 --> Helper loaded: date_helper
+INFO - 2024-12-03 22:50:39 --> Helper loaded: file_helper
+INFO - 2024-12-03 22:50:39 --> Helper loaded: directory_helper
+INFO - 2024-12-03 22:50:39 --> Helper loaded: path_helper
+INFO - 2024-12-03 22:50:39 --> Helper loaded: download_helper
+INFO - 2024-12-03 22:50:39 --> Helper loaded: logactivity_helper
+INFO - 2024-12-03 22:50:39 --> Helper loaded: tools_helper
+INFO - 2024-12-03 22:50:39 --> Database Driver Class Initialized
+INFO - 2024-12-03 22:50:39 --> Email Class Initialized
+INFO - 2024-12-03 22:50:39 --> Form Validation Class Initialized
+INFO - 2024-12-03 22:50:39 --> Table Class Initialized
+INFO - 2024-12-03 22:50:39 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2024-12-03 22:50:39 --> Pagination Class Initialized
+DEBUG - 2024-12-03 22:50:39 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-12-03 22:50:39 --> Session: Class initialized using 'files' driver.
+DEBUG - 2024-12-03 22:50:39 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2024-12-03 22:50:39 --> Form_validation class already loaded. Second attempt ignored.
+INFO - 2024-12-03 22:50:39 --> Helper loaded: captcha_helper
+INFO - 2024-12-03 22:50:39 --> Helper loaded: security_helper
+INFO - 2024-12-03 22:50:39 --> Controller Class Initialized
+INFO - 2024-12-03 22:50:39 --> Model "HomeModel" initialized
+INFO - 2024-12-03 22:50:39 --> File loaded: D:\xampp\htdocs\aska\application\views\layouts/dashboard/navbar.php
+INFO - 2024-12-03 22:50:39 --> File loaded: D:\xampp\htdocs\aska\application\views\layouts/dashboard/header.php
+INFO - 2024-12-03 22:50:39 --> File loaded: D:\xampp\htdocs\aska\application\views\dashboard/home.php
+INFO - 2024-12-03 22:50:39 --> File loaded: D:\xampp\htdocs\aska\application\views\layouts/dashboard/main.php
+INFO - 2024-12-03 22:50:39 --> Final output sent to browser
+DEBUG - 2024-12-03 22:50:39 --> Total execution time: 0.1651
+INFO - 2024-12-03 17:05:20 --> Config Class Initialized
+INFO - 2024-12-03 17:05:20 --> Hooks Class Initialized
+DEBUG - 2024-12-03 17:05:20 --> UTF-8 Support Enabled
+INFO - 2024-12-03 17:05:20 --> Utf8 Class Initialized
+INFO - 2024-12-03 17:05:20 --> URI Class Initialized
+INFO - 2024-12-03 17:05:20 --> Router Class Initialized
+INFO - 2024-12-03 17:05:20 --> Output Class Initialized
+INFO - 2024-12-03 17:05:20 --> Security Class Initialized
+DEBUG - 2024-12-03 17:05:20 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-12-03 17:05:20 --> Input Class Initialized
+INFO - 2024-12-03 17:05:20 --> Language Class Initialized
+INFO - 2024-12-03 17:05:20 --> Loader Class Initialized
+DEBUG - 2024-12-03 23:05:20 --> Config file loaded: D:\xampp\htdocs\aska\application\config/Hris.php
+INFO - 2024-12-03 23:05:20 --> Helper loaded: form_helper
+INFO - 2024-12-03 23:05:20 --> Helper loaded: url_helper
+INFO - 2024-12-03 23:05:20 --> Helper loaded: date_helper
+INFO - 2024-12-03 23:05:20 --> Helper loaded: file_helper
+INFO - 2024-12-03 23:05:20 --> Helper loaded: directory_helper
+INFO - 2024-12-03 23:05:20 --> Helper loaded: path_helper
+INFO - 2024-12-03 23:05:20 --> Helper loaded: download_helper
+INFO - 2024-12-03 23:05:20 --> Helper loaded: logactivity_helper
+INFO - 2024-12-03 23:05:20 --> Helper loaded: tools_helper
+INFO - 2024-12-03 23:05:20 --> Database Driver Class Initialized
+INFO - 2024-12-03 23:05:20 --> Email Class Initialized
+INFO - 2024-12-03 23:05:20 --> Form Validation Class Initialized
+INFO - 2024-12-03 23:05:20 --> Table Class Initialized
+INFO - 2024-12-03 23:05:20 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2024-12-03 23:05:20 --> Pagination Class Initialized
+DEBUG - 2024-12-03 23:05:20 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-12-03 23:05:20 --> Session: Class initialized using 'files' driver.
+DEBUG - 2024-12-03 23:05:20 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2024-12-03 23:05:20 --> Form_validation class already loaded. Second attempt ignored.
+INFO - 2024-12-03 23:05:20 --> Helper loaded: captcha_helper
+INFO - 2024-12-03 23:05:20 --> Helper loaded: security_helper
+INFO - 2024-12-03 23:05:20 --> Controller Class Initialized
+INFO - 2024-12-03 17:05:20 --> Config Class Initialized
+INFO - 2024-12-03 17:05:20 --> Hooks Class Initialized
+DEBUG - 2024-12-03 17:05:20 --> UTF-8 Support Enabled
+INFO - 2024-12-03 17:05:20 --> Utf8 Class Initialized
+INFO - 2024-12-03 17:05:20 --> URI Class Initialized
+DEBUG - 2024-12-03 17:05:20 --> No URI present. Default controller set.
+INFO - 2024-12-03 17:05:20 --> Router Class Initialized
+INFO - 2024-12-03 17:05:20 --> Output Class Initialized
+INFO - 2024-12-03 17:05:20 --> Security Class Initialized
+DEBUG - 2024-12-03 17:05:20 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-12-03 17:05:20 --> Input Class Initialized
+INFO - 2024-12-03 17:05:20 --> Language Class Initialized
+INFO - 2024-12-03 17:05:20 --> Loader Class Initialized
+DEBUG - 2024-12-03 23:05:20 --> Config file loaded: D:\xampp\htdocs\aska\application\config/Hris.php
+INFO - 2024-12-03 23:05:20 --> Helper loaded: form_helper
+INFO - 2024-12-03 23:05:20 --> Helper loaded: url_helper
+INFO - 2024-12-03 23:05:20 --> Helper loaded: date_helper
+INFO - 2024-12-03 23:05:20 --> Helper loaded: file_helper
+INFO - 2024-12-03 23:05:20 --> Helper loaded: directory_helper
+INFO - 2024-12-03 23:05:20 --> Helper loaded: path_helper
+INFO - 2024-12-03 23:05:20 --> Helper loaded: download_helper
+INFO - 2024-12-03 23:05:20 --> Helper loaded: logactivity_helper
+INFO - 2024-12-03 23:05:20 --> Helper loaded: tools_helper
+INFO - 2024-12-03 23:05:20 --> Database Driver Class Initialized
+INFO - 2024-12-03 23:05:20 --> Email Class Initialized
+INFO - 2024-12-03 23:05:20 --> Form Validation Class Initialized
+INFO - 2024-12-03 23:05:20 --> Table Class Initialized
+INFO - 2024-12-03 23:05:20 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2024-12-03 23:05:20 --> Pagination Class Initialized
+DEBUG - 2024-12-03 23:05:20 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-12-03 23:05:20 --> Session: Class initialized using 'files' driver.
+DEBUG - 2024-12-03 23:05:20 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2024-12-03 23:05:20 --> Form_validation class already loaded. Second attempt ignored.
+INFO - 2024-12-03 23:05:20 --> Helper loaded: captcha_helper
+INFO - 2024-12-03 23:05:20 --> Helper loaded: security_helper
+INFO - 2024-12-03 23:05:20 --> Controller Class Initialized
+INFO - 2024-12-03 23:05:20 --> File loaded: D:\xampp\htdocs\aska\application\views\authentication/signin.php
+INFO - 2024-12-03 23:05:20 --> File loaded: D:\xampp\htdocs\aska\application\views\layouts/authentication/accounts.php
+INFO - 2024-12-03 23:05:20 --> Final output sent to browser
+DEBUG - 2024-12-03 23:05:20 --> Total execution time: 0.0497
+INFO - 2024-12-03 17:05:24 --> Config Class Initialized
+INFO - 2024-12-03 17:05:24 --> Hooks Class Initialized
+DEBUG - 2024-12-03 17:05:24 --> UTF-8 Support Enabled
+INFO - 2024-12-03 17:05:24 --> Utf8 Class Initialized
+INFO - 2024-12-03 17:05:24 --> URI Class Initialized
+DEBUG - 2024-12-03 17:05:24 --> No URI present. Default controller set.
+INFO - 2024-12-03 17:05:24 --> Router Class Initialized
+INFO - 2024-12-03 17:05:24 --> Output Class Initialized
+INFO - 2024-12-03 17:05:24 --> Security Class Initialized
+DEBUG - 2024-12-03 17:05:24 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-12-03 17:05:24 --> Input Class Initialized
+INFO - 2024-12-03 17:05:24 --> Language Class Initialized
+INFO - 2024-12-03 17:05:24 --> Loader Class Initialized
+DEBUG - 2024-12-03 23:05:24 --> Config file loaded: D:\xampp\htdocs\aska\application\config/Hris.php
+INFO - 2024-12-03 23:05:24 --> Helper loaded: form_helper
+INFO - 2024-12-03 23:05:24 --> Helper loaded: url_helper
+INFO - 2024-12-03 23:05:24 --> Helper loaded: date_helper
+INFO - 2024-12-03 23:05:24 --> Helper loaded: file_helper
+INFO - 2024-12-03 23:05:24 --> Helper loaded: directory_helper
+INFO - 2024-12-03 23:05:24 --> Helper loaded: path_helper
+INFO - 2024-12-03 23:05:24 --> Helper loaded: download_helper
+INFO - 2024-12-03 23:05:24 --> Helper loaded: logactivity_helper
+INFO - 2024-12-03 23:05:24 --> Helper loaded: tools_helper
+INFO - 2024-12-03 23:05:24 --> Database Driver Class Initialized
+INFO - 2024-12-03 23:05:24 --> Email Class Initialized
+INFO - 2024-12-03 23:05:24 --> Form Validation Class Initialized
+INFO - 2024-12-03 23:05:24 --> Table Class Initialized
+INFO - 2024-12-03 23:05:24 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2024-12-03 23:05:24 --> Pagination Class Initialized
+DEBUG - 2024-12-03 23:05:24 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-12-03 23:05:24 --> Session: Class initialized using 'files' driver.
+DEBUG - 2024-12-03 23:05:24 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2024-12-03 23:05:24 --> Form_validation class already loaded. Second attempt ignored.
+INFO - 2024-12-03 23:05:24 --> Helper loaded: captcha_helper
+INFO - 2024-12-03 23:05:24 --> Helper loaded: security_helper
+INFO - 2024-12-03 23:05:24 --> Controller Class Initialized
+INFO - 2024-12-03 23:05:24 --> Language file loaded: language/english/form_validation_lang.php
+INFO - 2024-12-03 17:05:24 --> Config Class Initialized
+INFO - 2024-12-03 17:05:24 --> Hooks Class Initialized
+DEBUG - 2024-12-03 17:05:24 --> UTF-8 Support Enabled
+INFO - 2024-12-03 17:05:24 --> Utf8 Class Initialized
+INFO - 2024-12-03 17:05:24 --> URI Class Initialized
+INFO - 2024-12-03 17:05:24 --> Router Class Initialized
+INFO - 2024-12-03 17:05:24 --> Output Class Initialized
+INFO - 2024-12-03 17:05:24 --> Security Class Initialized
+DEBUG - 2024-12-03 17:05:24 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-12-03 17:05:24 --> Input Class Initialized
+INFO - 2024-12-03 17:05:24 --> Language Class Initialized
+INFO - 2024-12-03 17:05:24 --> Loader Class Initialized
+DEBUG - 2024-12-03 23:05:24 --> Config file loaded: D:\xampp\htdocs\aska\application\config/Hris.php
+INFO - 2024-12-03 23:05:24 --> Helper loaded: form_helper
+INFO - 2024-12-03 23:05:24 --> Helper loaded: url_helper
+INFO - 2024-12-03 23:05:25 --> Helper loaded: date_helper
+INFO - 2024-12-03 23:05:25 --> Helper loaded: file_helper
+INFO - 2024-12-03 23:05:25 --> Helper loaded: directory_helper
+INFO - 2024-12-03 23:05:25 --> Helper loaded: path_helper
+INFO - 2024-12-03 23:05:25 --> Helper loaded: download_helper
+INFO - 2024-12-03 23:05:25 --> Helper loaded: logactivity_helper
+INFO - 2024-12-03 23:05:25 --> Helper loaded: tools_helper
+INFO - 2024-12-03 23:05:25 --> Database Driver Class Initialized
+INFO - 2024-12-03 23:05:25 --> Email Class Initialized
+INFO - 2024-12-03 23:05:25 --> Form Validation Class Initialized
+INFO - 2024-12-03 23:05:25 --> Table Class Initialized
+INFO - 2024-12-03 23:05:25 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2024-12-03 23:05:25 --> Pagination Class Initialized
+DEBUG - 2024-12-03 23:05:25 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-12-03 23:05:25 --> Session: Class initialized using 'files' driver.
+DEBUG - 2024-12-03 23:05:25 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2024-12-03 23:05:25 --> Form_validation class already loaded. Second attempt ignored.
+INFO - 2024-12-03 23:05:25 --> Helper loaded: captcha_helper
+INFO - 2024-12-03 23:05:25 --> Helper loaded: security_helper
+INFO - 2024-12-03 23:05:25 --> Controller Class Initialized
+INFO - 2024-12-03 23:05:25 --> Model "HomeModel" initialized
+INFO - 2024-12-03 23:05:25 --> File loaded: D:\xampp\htdocs\aska\application\views\layouts/dashboard/navbar.php
+INFO - 2024-12-03 23:05:25 --> File loaded: D:\xampp\htdocs\aska\application\views\layouts/dashboard/header.php
+INFO - 2024-12-03 23:05:25 --> File loaded: D:\xampp\htdocs\aska\application\views\dashboard/home.php
+INFO - 2024-12-03 23:05:25 --> File loaded: D:\xampp\htdocs\aska\application\views\layouts/dashboard/main.php
+INFO - 2024-12-03 23:05:25 --> Final output sent to browser
+DEBUG - 2024-12-03 23:05:25 --> Total execution time: 0.0540
+INFO - 2024-12-03 17:05:28 --> Config Class Initialized
+INFO - 2024-12-03 17:05:28 --> Hooks Class Initialized
+DEBUG - 2024-12-03 17:05:28 --> UTF-8 Support Enabled
+INFO - 2024-12-03 17:05:28 --> Utf8 Class Initialized
+INFO - 2024-12-03 17:05:28 --> URI Class Initialized
+INFO - 2024-12-03 17:05:28 --> Router Class Initialized
+INFO - 2024-12-03 17:05:28 --> Output Class Initialized
+INFO - 2024-12-03 17:05:28 --> Security Class Initialized
+DEBUG - 2024-12-03 17:05:28 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-12-03 17:05:28 --> Input Class Initialized
+INFO - 2024-12-03 17:05:28 --> Language Class Initialized
+INFO - 2024-12-03 17:05:28 --> Loader Class Initialized
+DEBUG - 2024-12-03 23:05:28 --> Config file loaded: D:\xampp\htdocs\aska\application\config/Hris.php
+INFO - 2024-12-03 23:05:28 --> Helper loaded: form_helper
+INFO - 2024-12-03 23:05:28 --> Helper loaded: url_helper
+INFO - 2024-12-03 23:05:28 --> Helper loaded: date_helper
+INFO - 2024-12-03 23:05:28 --> Helper loaded: file_helper
+INFO - 2024-12-03 23:05:28 --> Helper loaded: directory_helper
+INFO - 2024-12-03 23:05:28 --> Helper loaded: path_helper
+INFO - 2024-12-03 23:05:28 --> Helper loaded: download_helper
+INFO - 2024-12-03 23:05:28 --> Helper loaded: logactivity_helper
+INFO - 2024-12-03 23:05:28 --> Helper loaded: tools_helper
+INFO - 2024-12-03 23:05:28 --> Database Driver Class Initialized
+INFO - 2024-12-03 23:05:28 --> Email Class Initialized
+INFO - 2024-12-03 23:05:28 --> Form Validation Class Initialized
+INFO - 2024-12-03 23:05:28 --> Table Class Initialized
+INFO - 2024-12-03 23:05:28 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2024-12-03 23:05:28 --> Pagination Class Initialized
+DEBUG - 2024-12-03 23:05:28 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-12-03 23:05:28 --> Session: Class initialized using 'files' driver.
+DEBUG - 2024-12-03 23:05:28 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2024-12-03 23:05:28 --> Form_validation class already loaded. Second attempt ignored.
+INFO - 2024-12-03 23:05:28 --> Helper loaded: captcha_helper
+INFO - 2024-12-03 23:05:28 --> Helper loaded: security_helper
+INFO - 2024-12-03 23:05:28 --> Controller Class Initialized
+INFO - 2024-12-03 23:05:28 --> Model "GolonganModel" initialized
+INFO - 2024-12-03 23:05:28 --> File loaded: D:\xampp\htdocs\aska\application\views\layouts/dashboard/navbar.php
+INFO - 2024-12-03 23:05:28 --> File loaded: D:\xampp\htdocs\aska\application\views\layouts/dashboard/header.php
+INFO - 2024-12-03 23:05:28 --> File loaded: D:\xampp\htdocs\aska\application\views\dashboard/referensi/golongan.php
+INFO - 2024-12-03 23:05:28 --> File loaded: D:\xampp\htdocs\aska\application\views\layouts/dashboard/main.php
+INFO - 2024-12-03 23:05:28 --> Final output sent to browser
+DEBUG - 2024-12-03 23:05:28 --> Total execution time: 0.0435
+INFO - 2024-12-03 17:05:28 --> Config Class Initialized
+INFO - 2024-12-03 17:05:28 --> Hooks Class Initialized
+DEBUG - 2024-12-03 17:05:28 --> UTF-8 Support Enabled
+INFO - 2024-12-03 17:05:28 --> Utf8 Class Initialized
+INFO - 2024-12-03 17:05:28 --> URI Class Initialized
+INFO - 2024-12-03 17:05:28 --> Router Class Initialized
+INFO - 2024-12-03 17:05:28 --> Output Class Initialized
+INFO - 2024-12-03 17:05:28 --> Security Class Initialized
+DEBUG - 2024-12-03 17:05:28 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-12-03 17:05:28 --> Input Class Initialized
+INFO - 2024-12-03 17:05:28 --> Language Class Initialized
+INFO - 2024-12-03 17:05:28 --> Loader Class Initialized
+DEBUG - 2024-12-03 23:05:28 --> Config file loaded: D:\xampp\htdocs\aska\application\config/Hris.php
+INFO - 2024-12-03 23:05:28 --> Helper loaded: form_helper
+INFO - 2024-12-03 23:05:28 --> Helper loaded: url_helper
+INFO - 2024-12-03 23:05:28 --> Helper loaded: date_helper
+INFO - 2024-12-03 23:05:28 --> Helper loaded: file_helper
+INFO - 2024-12-03 23:05:28 --> Helper loaded: directory_helper
+INFO - 2024-12-03 23:05:28 --> Helper loaded: path_helper
+INFO - 2024-12-03 23:05:28 --> Helper loaded: download_helper
+INFO - 2024-12-03 23:05:28 --> Helper loaded: logactivity_helper
+INFO - 2024-12-03 23:05:28 --> Helper loaded: tools_helper
+INFO - 2024-12-03 23:05:28 --> Database Driver Class Initialized
+INFO - 2024-12-03 23:05:28 --> Email Class Initialized
+INFO - 2024-12-03 23:05:28 --> Form Validation Class Initialized
+INFO - 2024-12-03 23:05:28 --> Table Class Initialized
+INFO - 2024-12-03 23:05:28 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2024-12-03 23:05:28 --> Pagination Class Initialized
+DEBUG - 2024-12-03 23:05:28 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-12-03 23:05:28 --> Session: Class initialized using 'files' driver.
+DEBUG - 2024-12-03 23:05:28 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2024-12-03 23:05:28 --> Form_validation class already loaded. Second attempt ignored.
+INFO - 2024-12-03 23:05:28 --> Helper loaded: captcha_helper
+INFO - 2024-12-03 23:05:28 --> Helper loaded: security_helper
+INFO - 2024-12-03 23:05:28 --> Controller Class Initialized
+INFO - 2024-12-03 23:05:28 --> Model "GolonganModel" initialized
+INFO - 2024-12-03 17:06:21 --> Config Class Initialized
+INFO - 2024-12-03 17:06:21 --> Hooks Class Initialized
+DEBUG - 2024-12-03 17:06:21 --> UTF-8 Support Enabled
+INFO - 2024-12-03 17:06:21 --> Utf8 Class Initialized
+INFO - 2024-12-03 17:06:21 --> URI Class Initialized
+INFO - 2024-12-03 17:06:21 --> Router Class Initialized
+INFO - 2024-12-03 17:06:21 --> Output Class Initialized
+INFO - 2024-12-03 17:06:21 --> Security Class Initialized
+DEBUG - 2024-12-03 17:06:21 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-12-03 17:06:21 --> Input Class Initialized
+INFO - 2024-12-03 17:06:21 --> Language Class Initialized
+INFO - 2024-12-03 17:06:21 --> Loader Class Initialized
+DEBUG - 2024-12-03 23:06:21 --> Config file loaded: D:\xampp\htdocs\aska\application\config/Hris.php
+INFO - 2024-12-03 23:06:21 --> Helper loaded: form_helper
+INFO - 2024-12-03 23:06:21 --> Helper loaded: url_helper
+INFO - 2024-12-03 23:06:21 --> Helper loaded: date_helper
+INFO - 2024-12-03 23:06:21 --> Helper loaded: file_helper
+INFO - 2024-12-03 23:06:21 --> Helper loaded: directory_helper
+INFO - 2024-12-03 23:06:21 --> Helper loaded: path_helper
+INFO - 2024-12-03 23:06:21 --> Helper loaded: download_helper
+INFO - 2024-12-03 23:06:21 --> Helper loaded: logactivity_helper
+INFO - 2024-12-03 23:06:21 --> Helper loaded: tools_helper
+INFO - 2024-12-03 23:06:21 --> Database Driver Class Initialized
+INFO - 2024-12-03 23:06:21 --> Email Class Initialized
+INFO - 2024-12-03 23:06:21 --> Form Validation Class Initialized
+INFO - 2024-12-03 23:06:21 --> Table Class Initialized
+INFO - 2024-12-03 23:06:21 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2024-12-03 23:06:21 --> Pagination Class Initialized
+DEBUG - 2024-12-03 23:06:21 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-12-03 23:06:21 --> Session: Class initialized using 'files' driver.
+DEBUG - 2024-12-03 23:06:21 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2024-12-03 23:06:21 --> Form_validation class already loaded. Second attempt ignored.
+INFO - 2024-12-03 23:06:21 --> Helper loaded: captcha_helper
+INFO - 2024-12-03 23:06:21 --> Helper loaded: security_helper
+INFO - 2024-12-03 23:06:21 --> Controller Class Initialized
+INFO - 2024-12-03 17:06:22 --> Config Class Initialized
+INFO - 2024-12-03 17:06:22 --> Hooks Class Initialized
+DEBUG - 2024-12-03 17:06:22 --> UTF-8 Support Enabled
+INFO - 2024-12-03 17:06:22 --> Utf8 Class Initialized
+INFO - 2024-12-03 17:06:22 --> URI Class Initialized
+DEBUG - 2024-12-03 17:06:22 --> No URI present. Default controller set.
+INFO - 2024-12-03 17:06:22 --> Router Class Initialized
+INFO - 2024-12-03 17:06:22 --> Output Class Initialized
+INFO - 2024-12-03 17:06:22 --> Security Class Initialized
+DEBUG - 2024-12-03 17:06:22 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-12-03 17:06:22 --> Input Class Initialized
+INFO - 2024-12-03 17:06:22 --> Language Class Initialized
+INFO - 2024-12-03 17:06:22 --> Loader Class Initialized
+DEBUG - 2024-12-03 23:06:22 --> Config file loaded: D:\xampp\htdocs\aska\application\config/Hris.php
+INFO - 2024-12-03 23:06:22 --> Helper loaded: form_helper
+INFO - 2024-12-03 23:06:22 --> Helper loaded: url_helper
+INFO - 2024-12-03 23:06:22 --> Helper loaded: date_helper
+INFO - 2024-12-03 23:06:22 --> Helper loaded: file_helper
+INFO - 2024-12-03 23:06:22 --> Helper loaded: directory_helper
+INFO - 2024-12-03 23:06:22 --> Helper loaded: path_helper
+INFO - 2024-12-03 23:06:22 --> Helper loaded: download_helper
+INFO - 2024-12-03 23:06:22 --> Helper loaded: logactivity_helper
+INFO - 2024-12-03 23:06:22 --> Helper loaded: tools_helper
+INFO - 2024-12-03 23:06:22 --> Database Driver Class Initialized
+INFO - 2024-12-03 23:06:22 --> Email Class Initialized
+INFO - 2024-12-03 23:06:22 --> Form Validation Class Initialized
+INFO - 2024-12-03 23:06:22 --> Table Class Initialized
+INFO - 2024-12-03 23:06:22 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2024-12-03 23:06:22 --> Pagination Class Initialized
+DEBUG - 2024-12-03 23:06:22 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-12-03 23:06:22 --> Session: Class initialized using 'files' driver.
+DEBUG - 2024-12-03 23:06:22 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2024-12-03 23:06:22 --> Form_validation class already loaded. Second attempt ignored.
+INFO - 2024-12-03 23:06:22 --> Helper loaded: captcha_helper
+INFO - 2024-12-03 23:06:22 --> Helper loaded: security_helper
+INFO - 2024-12-03 23:06:22 --> Controller Class Initialized
+INFO - 2024-12-03 23:06:22 --> File loaded: D:\xampp\htdocs\aska\application\views\authentication/signin.php
+INFO - 2024-12-03 23:06:22 --> File loaded: D:\xampp\htdocs\aska\application\views\layouts/authentication/accounts.php
+INFO - 2024-12-03 23:06:22 --> Final output sent to browser
+DEBUG - 2024-12-03 23:06:22 --> Total execution time: 0.0661
+INFO - 2024-12-03 17:12:01 --> Config Class Initialized
+INFO - 2024-12-03 17:12:01 --> Hooks Class Initialized
+DEBUG - 2024-12-03 17:12:01 --> UTF-8 Support Enabled
+INFO - 2024-12-03 17:12:01 --> Utf8 Class Initialized
+INFO - 2024-12-03 17:12:01 --> URI Class Initialized
+DEBUG - 2024-12-03 17:12:01 --> No URI present. Default controller set.
+INFO - 2024-12-03 17:12:01 --> Router Class Initialized
+INFO - 2024-12-03 17:12:01 --> Output Class Initialized
+INFO - 2024-12-03 17:12:01 --> Security Class Initialized
+DEBUG - 2024-12-03 17:12:01 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-12-03 17:12:01 --> Input Class Initialized
+INFO - 2024-12-03 17:12:01 --> Language Class Initialized
+INFO - 2024-12-03 17:12:01 --> Loader Class Initialized
+DEBUG - 2024-12-03 23:12:01 --> Config file loaded: D:\xampp\htdocs\aska\application\config/Hris.php
+INFO - 2024-12-03 23:12:01 --> Helper loaded: form_helper
+INFO - 2024-12-03 23:12:01 --> Helper loaded: url_helper
+INFO - 2024-12-03 23:12:01 --> Helper loaded: date_helper
+INFO - 2024-12-03 23:12:01 --> Helper loaded: file_helper
+INFO - 2024-12-03 23:12:01 --> Helper loaded: directory_helper
+INFO - 2024-12-03 23:12:01 --> Helper loaded: path_helper
+INFO - 2024-12-03 23:12:01 --> Helper loaded: download_helper
+INFO - 2024-12-03 23:12:01 --> Helper loaded: logactivity_helper
+INFO - 2024-12-03 23:12:01 --> Helper loaded: tools_helper
+INFO - 2024-12-03 23:12:01 --> Database Driver Class Initialized
+INFO - 2024-12-03 23:12:01 --> Email Class Initialized
+INFO - 2024-12-03 23:12:01 --> Form Validation Class Initialized
+INFO - 2024-12-03 23:12:01 --> Table Class Initialized
+INFO - 2024-12-03 23:12:01 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2024-12-03 23:12:01 --> Pagination Class Initialized
+DEBUG - 2024-12-03 23:12:01 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-12-03 23:12:01 --> Session: Class initialized using 'files' driver.
+DEBUG - 2024-12-03 23:12:01 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2024-12-03 23:12:01 --> Form_validation class already loaded. Second attempt ignored.
+INFO - 2024-12-03 23:12:01 --> Helper loaded: captcha_helper
+INFO - 2024-12-03 23:12:01 --> Helper loaded: security_helper
+INFO - 2024-12-03 23:12:01 --> Controller Class Initialized
+INFO - 2024-12-03 23:12:01 --> Language file loaded: language/english/form_validation_lang.php
+INFO - 2024-12-03 17:12:02 --> Config Class Initialized
+INFO - 2024-12-03 17:12:02 --> Hooks Class Initialized
+DEBUG - 2024-12-03 17:12:02 --> UTF-8 Support Enabled
+INFO - 2024-12-03 17:12:02 --> Utf8 Class Initialized
+INFO - 2024-12-03 17:12:02 --> URI Class Initialized
+INFO - 2024-12-03 17:12:02 --> Router Class Initialized
+INFO - 2024-12-03 17:12:02 --> Output Class Initialized
+INFO - 2024-12-03 17:12:02 --> Security Class Initialized
+DEBUG - 2024-12-03 17:12:02 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-12-03 17:12:02 --> Input Class Initialized
+INFO - 2024-12-03 17:12:02 --> Language Class Initialized
+INFO - 2024-12-03 17:12:02 --> Loader Class Initialized
+DEBUG - 2024-12-03 23:12:02 --> Config file loaded: D:\xampp\htdocs\aska\application\config/Hris.php
+INFO - 2024-12-03 23:12:02 --> Helper loaded: form_helper
+INFO - 2024-12-03 23:12:02 --> Helper loaded: url_helper
+INFO - 2024-12-03 23:12:02 --> Helper loaded: date_helper
+INFO - 2024-12-03 23:12:02 --> Helper loaded: file_helper
+INFO - 2024-12-03 23:12:02 --> Helper loaded: directory_helper
+INFO - 2024-12-03 23:12:02 --> Helper loaded: path_helper
+INFO - 2024-12-03 23:12:02 --> Helper loaded: download_helper
+INFO - 2024-12-03 23:12:02 --> Helper loaded: logactivity_helper
+INFO - 2024-12-03 23:12:02 --> Helper loaded: tools_helper
+INFO - 2024-12-03 23:12:02 --> Database Driver Class Initialized
+INFO - 2024-12-03 23:12:02 --> Email Class Initialized
+INFO - 2024-12-03 23:12:02 --> Form Validation Class Initialized
+INFO - 2024-12-03 23:12:02 --> Table Class Initialized
+INFO - 2024-12-03 23:12:02 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2024-12-03 23:12:02 --> Pagination Class Initialized
+DEBUG - 2024-12-03 23:12:02 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-12-03 23:12:02 --> Session: Class initialized using 'files' driver.
+DEBUG - 2024-12-03 23:12:02 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2024-12-03 23:12:02 --> Form_validation class already loaded. Second attempt ignored.
+INFO - 2024-12-03 23:12:02 --> Helper loaded: captcha_helper
+INFO - 2024-12-03 23:12:02 --> Helper loaded: security_helper
+INFO - 2024-12-03 23:12:02 --> Controller Class Initialized
+INFO - 2024-12-03 23:12:02 --> Model "HomeModel" initialized
+INFO - 2024-12-03 23:12:02 --> File loaded: D:\xampp\htdocs\aska\application\views\layouts/dashboard/navbar.php
+INFO - 2024-12-03 23:12:02 --> File loaded: D:\xampp\htdocs\aska\application\views\layouts/dashboard/header.php
+INFO - 2024-12-03 23:12:02 --> File loaded: D:\xampp\htdocs\aska\application\views\dashboard/home.php
+INFO - 2024-12-03 23:12:02 --> File loaded: D:\xampp\htdocs\aska\application\views\layouts/dashboard/main.php
+INFO - 2024-12-03 23:12:02 --> Final output sent to browser
+DEBUG - 2024-12-03 23:12:02 --> Total execution time: 0.0637
+INFO - 2024-12-03 17:12:10 --> Config Class Initialized
+INFO - 2024-12-03 17:12:10 --> Hooks Class Initialized
+DEBUG - 2024-12-03 17:12:10 --> UTF-8 Support Enabled
+INFO - 2024-12-03 17:12:10 --> Utf8 Class Initialized
+INFO - 2024-12-03 17:12:10 --> URI Class Initialized
+INFO - 2024-12-03 17:12:10 --> Router Class Initialized
+INFO - 2024-12-03 17:12:10 --> Output Class Initialized
+INFO - 2024-12-03 17:12:10 --> Security Class Initialized
+DEBUG - 2024-12-03 17:12:10 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-12-03 17:12:10 --> Input Class Initialized
+INFO - 2024-12-03 17:12:10 --> Language Class Initialized
+INFO - 2024-12-03 17:12:10 --> Loader Class Initialized
+DEBUG - 2024-12-03 23:12:10 --> Config file loaded: D:\xampp\htdocs\aska\application\config/Hris.php
+INFO - 2024-12-03 23:12:10 --> Helper loaded: form_helper
+INFO - 2024-12-03 23:12:10 --> Helper loaded: url_helper
+INFO - 2024-12-03 23:12:11 --> Helper loaded: date_helper
+INFO - 2024-12-03 23:12:11 --> Helper loaded: file_helper
+INFO - 2024-12-03 23:12:11 --> Helper loaded: directory_helper
+INFO - 2024-12-03 23:12:11 --> Helper loaded: path_helper
+INFO - 2024-12-03 23:12:11 --> Helper loaded: download_helper
+INFO - 2024-12-03 23:12:11 --> Helper loaded: logactivity_helper
+INFO - 2024-12-03 23:12:11 --> Helper loaded: tools_helper
+INFO - 2024-12-03 23:12:11 --> Database Driver Class Initialized
+INFO - 2024-12-03 23:12:11 --> Email Class Initialized
+INFO - 2024-12-03 23:12:11 --> Form Validation Class Initialized
+INFO - 2024-12-03 23:12:11 --> Table Class Initialized
+INFO - 2024-12-03 23:12:11 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2024-12-03 23:12:11 --> Pagination Class Initialized
+DEBUG - 2024-12-03 23:12:11 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-12-03 23:12:11 --> Session: Class initialized using 'files' driver.
+DEBUG - 2024-12-03 23:12:11 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2024-12-03 23:12:11 --> Form_validation class already loaded. Second attempt ignored.
+INFO - 2024-12-03 23:12:11 --> Helper loaded: captcha_helper
+INFO - 2024-12-03 23:12:11 --> Helper loaded: security_helper
+INFO - 2024-12-03 23:12:11 --> Controller Class Initialized
+INFO - 2024-12-03 17:12:11 --> Config Class Initialized
+INFO - 2024-12-03 17:12:11 --> Hooks Class Initialized
+DEBUG - 2024-12-03 17:12:11 --> UTF-8 Support Enabled
+INFO - 2024-12-03 17:12:11 --> Utf8 Class Initialized
+INFO - 2024-12-03 17:12:11 --> URI Class Initialized
+DEBUG - 2024-12-03 17:12:11 --> No URI present. Default controller set.
+INFO - 2024-12-03 17:12:11 --> Router Class Initialized
+INFO - 2024-12-03 17:12:11 --> Output Class Initialized
+INFO - 2024-12-03 17:12:11 --> Security Class Initialized
+DEBUG - 2024-12-03 17:12:11 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-12-03 17:12:11 --> Input Class Initialized
+INFO - 2024-12-03 17:12:11 --> Language Class Initialized
+INFO - 2024-12-03 17:12:11 --> Loader Class Initialized
+DEBUG - 2024-12-03 23:12:11 --> Config file loaded: D:\xampp\htdocs\aska\application\config/Hris.php
+INFO - 2024-12-03 23:12:11 --> Helper loaded: form_helper
+INFO - 2024-12-03 23:12:11 --> Helper loaded: url_helper
+INFO - 2024-12-03 23:12:11 --> Helper loaded: date_helper
+INFO - 2024-12-03 23:12:11 --> Helper loaded: file_helper
+INFO - 2024-12-03 23:12:11 --> Helper loaded: directory_helper
+INFO - 2024-12-03 23:12:11 --> Helper loaded: path_helper
+INFO - 2024-12-03 23:12:11 --> Helper loaded: download_helper
+INFO - 2024-12-03 23:12:11 --> Helper loaded: logactivity_helper
+INFO - 2024-12-03 23:12:11 --> Helper loaded: tools_helper
+INFO - 2024-12-03 23:12:11 --> Database Driver Class Initialized
+INFO - 2024-12-03 23:12:11 --> Email Class Initialized
+INFO - 2024-12-03 23:12:11 --> Form Validation Class Initialized
+INFO - 2024-12-03 23:12:11 --> Table Class Initialized
+INFO - 2024-12-03 23:12:11 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2024-12-03 23:12:11 --> Pagination Class Initialized
+DEBUG - 2024-12-03 23:12:11 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-12-03 23:12:11 --> Session: Class initialized using 'files' driver.
+DEBUG - 2024-12-03 23:12:11 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2024-12-03 23:12:11 --> Form_validation class already loaded. Second attempt ignored.
+INFO - 2024-12-03 23:12:11 --> Helper loaded: captcha_helper
+INFO - 2024-12-03 23:12:11 --> Helper loaded: security_helper
+INFO - 2024-12-03 23:12:11 --> Controller Class Initialized
+INFO - 2024-12-03 23:12:11 --> File loaded: D:\xampp\htdocs\aska\application\views\authentication/signin.php
+INFO - 2024-12-03 23:12:11 --> File loaded: D:\xampp\htdocs\aska\application\views\layouts/authentication/accounts.php
+INFO - 2024-12-03 23:12:11 --> Final output sent to browser
+DEBUG - 2024-12-03 23:12:11 --> Total execution time: 0.0647
+INFO - 2024-12-03 17:12:12 --> Config Class Initialized
+INFO - 2024-12-03 17:12:12 --> Hooks Class Initialized
+DEBUG - 2024-12-03 17:12:12 --> UTF-8 Support Enabled
+INFO - 2024-12-03 17:12:12 --> Utf8 Class Initialized
+INFO - 2024-12-03 17:12:12 --> URI Class Initialized
+INFO - 2024-12-03 17:12:12 --> Router Class Initialized
+INFO - 2024-12-03 17:12:12 --> Output Class Initialized
+INFO - 2024-12-03 17:12:12 --> Security Class Initialized
+DEBUG - 2024-12-03 17:12:12 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-12-03 17:12:12 --> Input Class Initialized
+INFO - 2024-12-03 17:12:12 --> Language Class Initialized
+INFO - 2024-12-03 17:12:12 --> Loader Class Initialized
+DEBUG - 2024-12-03 23:12:12 --> Config file loaded: D:\xampp\htdocs\aska\application\config/Hris.php
+INFO - 2024-12-03 23:12:12 --> Helper loaded: form_helper
+INFO - 2024-12-03 23:12:12 --> Helper loaded: url_helper
+INFO - 2024-12-03 23:12:12 --> Helper loaded: date_helper
+INFO - 2024-12-03 23:12:12 --> Helper loaded: file_helper
+INFO - 2024-12-03 23:12:12 --> Helper loaded: directory_helper
+INFO - 2024-12-03 23:12:12 --> Helper loaded: path_helper
+INFO - 2024-12-03 23:12:12 --> Helper loaded: download_helper
+INFO - 2024-12-03 23:12:12 --> Helper loaded: logactivity_helper
+INFO - 2024-12-03 23:12:12 --> Helper loaded: tools_helper
+INFO - 2024-12-03 23:12:12 --> Database Driver Class Initialized
+INFO - 2024-12-03 23:12:12 --> Email Class Initialized
+INFO - 2024-12-03 23:12:12 --> Form Validation Class Initialized
+INFO - 2024-12-03 23:12:12 --> Table Class Initialized
+INFO - 2024-12-03 23:12:12 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2024-12-03 23:12:12 --> Pagination Class Initialized
+DEBUG - 2024-12-03 23:12:12 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-12-03 23:12:12 --> Session: Class initialized using 'files' driver.
+DEBUG - 2024-12-03 23:12:12 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2024-12-03 23:12:12 --> Form_validation class already loaded. Second attempt ignored.
+INFO - 2024-12-03 23:12:12 --> Helper loaded: captcha_helper
+INFO - 2024-12-03 23:12:12 --> Helper loaded: security_helper
+INFO - 2024-12-03 23:12:12 --> Controller Class Initialized
+INFO - 2024-12-03 17:12:12 --> Config Class Initialized
+INFO - 2024-12-03 17:12:12 --> Hooks Class Initialized
+DEBUG - 2024-12-03 17:12:12 --> UTF-8 Support Enabled
+INFO - 2024-12-03 17:12:12 --> Utf8 Class Initialized
+INFO - 2024-12-03 17:12:12 --> URI Class Initialized
+DEBUG - 2024-12-03 17:12:12 --> No URI present. Default controller set.
+INFO - 2024-12-03 17:12:12 --> Router Class Initialized
+INFO - 2024-12-03 17:12:12 --> Output Class Initialized
+INFO - 2024-12-03 17:12:12 --> Security Class Initialized
+DEBUG - 2024-12-03 17:12:12 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-12-03 17:12:12 --> Input Class Initialized
+INFO - 2024-12-03 17:12:12 --> Language Class Initialized
+INFO - 2024-12-03 17:12:12 --> Loader Class Initialized
+DEBUG - 2024-12-03 23:12:12 --> Config file loaded: D:\xampp\htdocs\aska\application\config/Hris.php
+INFO - 2024-12-03 23:12:12 --> Helper loaded: form_helper
+INFO - 2024-12-03 23:12:12 --> Helper loaded: url_helper
+INFO - 2024-12-03 23:12:12 --> Helper loaded: date_helper
+INFO - 2024-12-03 23:12:12 --> Helper loaded: file_helper
+INFO - 2024-12-03 23:12:12 --> Helper loaded: directory_helper
+INFO - 2024-12-03 23:12:12 --> Helper loaded: path_helper
+INFO - 2024-12-03 23:12:12 --> Helper loaded: download_helper
+INFO - 2024-12-03 23:12:12 --> Helper loaded: logactivity_helper
+INFO - 2024-12-03 23:12:12 --> Helper loaded: tools_helper
+INFO - 2024-12-03 23:12:12 --> Database Driver Class Initialized
+INFO - 2024-12-03 23:12:12 --> Email Class Initialized
+INFO - 2024-12-03 23:12:12 --> Form Validation Class Initialized
+INFO - 2024-12-03 23:12:12 --> Table Class Initialized
+INFO - 2024-12-03 23:12:12 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2024-12-03 23:12:12 --> Pagination Class Initialized
+DEBUG - 2024-12-03 23:12:12 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-12-03 23:12:12 --> Session: Class initialized using 'files' driver.
+DEBUG - 2024-12-03 23:12:12 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2024-12-03 23:12:12 --> Form_validation class already loaded. Second attempt ignored.
+INFO - 2024-12-03 23:12:12 --> Helper loaded: captcha_helper
+INFO - 2024-12-03 23:12:12 --> Helper loaded: security_helper
+INFO - 2024-12-03 23:12:12 --> Controller Class Initialized
+INFO - 2024-12-03 23:12:12 --> File loaded: D:\xampp\htdocs\aska\application\views\authentication/signin.php
+INFO - 2024-12-03 23:12:12 --> File loaded: D:\xampp\htdocs\aska\application\views\layouts/authentication/accounts.php
+INFO - 2024-12-03 23:12:12 --> Final output sent to browser
+DEBUG - 2024-12-03 23:12:12 --> Total execution time: 0.0499
+INFO - 2024-12-03 17:12:39 --> Config Class Initialized
+INFO - 2024-12-03 17:12:39 --> Hooks Class Initialized
+DEBUG - 2024-12-03 17:12:39 --> UTF-8 Support Enabled
+INFO - 2024-12-03 17:12:39 --> Utf8 Class Initialized
+INFO - 2024-12-03 17:12:39 --> URI Class Initialized
+DEBUG - 2024-12-03 17:12:39 --> No URI present. Default controller set.
+INFO - 2024-12-03 17:12:39 --> Router Class Initialized
+INFO - 2024-12-03 17:12:39 --> Output Class Initialized
+INFO - 2024-12-03 17:12:39 --> Security Class Initialized
+DEBUG - 2024-12-03 17:12:39 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-12-03 17:12:39 --> Input Class Initialized
+INFO - 2024-12-03 17:12:39 --> Language Class Initialized
+INFO - 2024-12-03 17:12:39 --> Loader Class Initialized
+DEBUG - 2024-12-03 23:12:39 --> Config file loaded: D:\xampp\htdocs\aska\application\config/Hris.php
+INFO - 2024-12-03 23:12:39 --> Helper loaded: form_helper
+INFO - 2024-12-03 23:12:39 --> Helper loaded: url_helper
+INFO - 2024-12-03 23:12:39 --> Helper loaded: date_helper
+INFO - 2024-12-03 23:12:39 --> Helper loaded: file_helper
+INFO - 2024-12-03 23:12:39 --> Helper loaded: directory_helper
+INFO - 2024-12-03 23:12:39 --> Helper loaded: path_helper
+INFO - 2024-12-03 23:12:39 --> Helper loaded: download_helper
+INFO - 2024-12-03 23:12:39 --> Helper loaded: logactivity_helper
+INFO - 2024-12-03 23:12:39 --> Helper loaded: tools_helper
+INFO - 2024-12-03 23:12:39 --> Database Driver Class Initialized
+INFO - 2024-12-03 23:12:39 --> Email Class Initialized
+INFO - 2024-12-03 23:12:39 --> Form Validation Class Initialized
+INFO - 2024-12-03 23:12:39 --> Table Class Initialized
+INFO - 2024-12-03 23:12:39 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2024-12-03 23:12:39 --> Pagination Class Initialized
+DEBUG - 2024-12-03 23:12:39 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-12-03 23:12:39 --> Session: Class initialized using 'files' driver.
+DEBUG - 2024-12-03 23:12:39 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2024-12-03 23:12:39 --> Form_validation class already loaded. Second attempt ignored.
+INFO - 2024-12-03 23:12:39 --> Helper loaded: captcha_helper
+INFO - 2024-12-03 23:12:39 --> Helper loaded: security_helper
+INFO - 2024-12-03 23:12:39 --> Controller Class Initialized
+INFO - 2024-12-03 23:12:39 --> Language file loaded: language/english/form_validation_lang.php
+INFO - 2024-12-03 17:12:40 --> Config Class Initialized
+INFO - 2024-12-03 17:12:40 --> Hooks Class Initialized
+DEBUG - 2024-12-03 17:12:40 --> UTF-8 Support Enabled
+INFO - 2024-12-03 17:12:40 --> Utf8 Class Initialized
+INFO - 2024-12-03 17:12:40 --> URI Class Initialized
+INFO - 2024-12-03 17:12:40 --> Router Class Initialized
+INFO - 2024-12-03 17:12:40 --> Output Class Initialized
+INFO - 2024-12-03 17:12:40 --> Security Class Initialized
+DEBUG - 2024-12-03 17:12:40 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-12-03 17:12:40 --> Input Class Initialized
+INFO - 2024-12-03 17:12:40 --> Language Class Initialized
+INFO - 2024-12-03 17:12:40 --> Loader Class Initialized
+DEBUG - 2024-12-03 23:12:40 --> Config file loaded: D:\xampp\htdocs\aska\application\config/Hris.php
+INFO - 2024-12-03 23:12:40 --> Helper loaded: form_helper
+INFO - 2024-12-03 23:12:40 --> Helper loaded: url_helper
+INFO - 2024-12-03 23:12:40 --> Helper loaded: date_helper
+INFO - 2024-12-03 23:12:40 --> Helper loaded: file_helper
+INFO - 2024-12-03 23:12:40 --> Helper loaded: directory_helper
+INFO - 2024-12-03 23:12:40 --> Helper loaded: path_helper
+INFO - 2024-12-03 23:12:40 --> Helper loaded: download_helper
+INFO - 2024-12-03 23:12:40 --> Helper loaded: logactivity_helper
+INFO - 2024-12-03 23:12:40 --> Helper loaded: tools_helper
+INFO - 2024-12-03 23:12:40 --> Database Driver Class Initialized
+INFO - 2024-12-03 23:12:40 --> Email Class Initialized
+INFO - 2024-12-03 23:12:40 --> Form Validation Class Initialized
+INFO - 2024-12-03 23:12:40 --> Table Class Initialized
+INFO - 2024-12-03 23:12:40 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2024-12-03 23:12:40 --> Pagination Class Initialized
+DEBUG - 2024-12-03 23:12:40 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-12-03 23:12:40 --> Session: Class initialized using 'files' driver.
+DEBUG - 2024-12-03 23:12:40 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2024-12-03 23:12:40 --> Form_validation class already loaded. Second attempt ignored.
+INFO - 2024-12-03 23:12:40 --> Helper loaded: captcha_helper
+INFO - 2024-12-03 23:12:40 --> Helper loaded: security_helper
+INFO - 2024-12-03 23:12:40 --> Controller Class Initialized
+INFO - 2024-12-03 23:12:40 --> Model "HomeModel" initialized
+INFO - 2024-12-03 23:12:40 --> File loaded: D:\xampp\htdocs\aska\application\views\layouts/dashboard/navbar.php
+INFO - 2024-12-03 23:12:40 --> File loaded: D:\xampp\htdocs\aska\application\views\layouts/dashboard/header.php
+INFO - 2024-12-03 23:12:40 --> File loaded: D:\xampp\htdocs\aska\application\views\dashboard/home.php
+INFO - 2024-12-03 23:12:40 --> File loaded: D:\xampp\htdocs\aska\application\views\layouts/dashboard/main.php
+INFO - 2024-12-03 23:12:40 --> Final output sent to browser
+DEBUG - 2024-12-03 23:12:40 --> Total execution time: 0.0500
+INFO - 2024-12-03 17:12:47 --> Config Class Initialized
+INFO - 2024-12-03 17:12:47 --> Hooks Class Initialized
+DEBUG - 2024-12-03 17:12:47 --> UTF-8 Support Enabled
+INFO - 2024-12-03 17:12:47 --> Utf8 Class Initialized
+INFO - 2024-12-03 17:12:47 --> URI Class Initialized
+INFO - 2024-12-03 17:12:47 --> Router Class Initialized
+INFO - 2024-12-03 17:12:47 --> Output Class Initialized
+INFO - 2024-12-03 17:12:47 --> Security Class Initialized
+DEBUG - 2024-12-03 17:12:47 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-12-03 17:12:47 --> Input Class Initialized
+INFO - 2024-12-03 17:12:47 --> Language Class Initialized
+INFO - 2024-12-03 17:12:47 --> Loader Class Initialized
+DEBUG - 2024-12-03 23:12:47 --> Config file loaded: D:\xampp\htdocs\aska\application\config/Hris.php
+INFO - 2024-12-03 23:12:47 --> Helper loaded: form_helper
+INFO - 2024-12-03 23:12:47 --> Helper loaded: url_helper
+INFO - 2024-12-03 23:12:47 --> Helper loaded: date_helper
+INFO - 2024-12-03 23:12:47 --> Helper loaded: file_helper
+INFO - 2024-12-03 23:12:47 --> Helper loaded: directory_helper
+INFO - 2024-12-03 23:12:47 --> Helper loaded: path_helper
+INFO - 2024-12-03 23:12:47 --> Helper loaded: download_helper
+INFO - 2024-12-03 23:12:47 --> Helper loaded: logactivity_helper
+INFO - 2024-12-03 23:12:47 --> Helper loaded: tools_helper
+INFO - 2024-12-03 23:12:47 --> Database Driver Class Initialized
+INFO - 2024-12-03 23:12:47 --> Email Class Initialized
+INFO - 2024-12-03 23:12:47 --> Form Validation Class Initialized
+INFO - 2024-12-03 23:12:47 --> Table Class Initialized
+INFO - 2024-12-03 23:12:47 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2024-12-03 23:12:47 --> Pagination Class Initialized
+DEBUG - 2024-12-03 23:12:47 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-12-03 23:12:47 --> Session: Class initialized using 'files' driver.
+DEBUG - 2024-12-03 23:12:47 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2024-12-03 23:12:47 --> Form_validation class already loaded. Second attempt ignored.
+INFO - 2024-12-03 23:12:47 --> Helper loaded: captcha_helper
+INFO - 2024-12-03 23:12:47 --> Helper loaded: security_helper
+INFO - 2024-12-03 23:12:47 --> Controller Class Initialized
+INFO - 2024-12-03 23:12:47 --> Model "HomeModel" initialized
+INFO - 2024-12-03 23:12:47 --> File loaded: D:\xampp\htdocs\aska\application\views\layouts/dashboard/navbar.php
+INFO - 2024-12-03 23:12:47 --> File loaded: D:\xampp\htdocs\aska\application\views\layouts/dashboard/header.php
+INFO - 2024-12-03 23:12:47 --> File loaded: D:\xampp\htdocs\aska\application\views\dashboard/home.php
+INFO - 2024-12-03 23:12:47 --> File loaded: D:\xampp\htdocs\aska\application\views\layouts/dashboard/main.php
+INFO - 2024-12-03 23:12:47 --> Final output sent to browser
+DEBUG - 2024-12-03 23:12:47 --> Total execution time: 0.0513
+INFO - 2024-12-03 17:12:52 --> Config Class Initialized
+INFO - 2024-12-03 17:12:52 --> Hooks Class Initialized
+DEBUG - 2024-12-03 17:12:52 --> UTF-8 Support Enabled
+INFO - 2024-12-03 17:12:52 --> Utf8 Class Initialized
+INFO - 2024-12-03 17:12:52 --> URI Class Initialized
+INFO - 2024-12-03 17:12:52 --> Router Class Initialized
+INFO - 2024-12-03 17:12:52 --> Output Class Initialized
+INFO - 2024-12-03 17:12:52 --> Security Class Initialized
+DEBUG - 2024-12-03 17:12:52 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-12-03 17:12:52 --> Input Class Initialized
+INFO - 2024-12-03 17:12:52 --> Language Class Initialized
+INFO - 2024-12-03 17:12:52 --> Loader Class Initialized
+DEBUG - 2024-12-03 23:12:52 --> Config file loaded: D:\xampp\htdocs\aska\application\config/Hris.php
+INFO - 2024-12-03 23:12:52 --> Helper loaded: form_helper
+INFO - 2024-12-03 23:12:52 --> Helper loaded: url_helper
+INFO - 2024-12-03 23:12:52 --> Helper loaded: date_helper
+INFO - 2024-12-03 23:12:52 --> Helper loaded: file_helper
+INFO - 2024-12-03 23:12:52 --> Helper loaded: directory_helper
+INFO - 2024-12-03 23:12:52 --> Helper loaded: path_helper
+INFO - 2024-12-03 23:12:52 --> Helper loaded: download_helper
+INFO - 2024-12-03 23:12:52 --> Helper loaded: logactivity_helper
+INFO - 2024-12-03 23:12:52 --> Helper loaded: tools_helper
+INFO - 2024-12-03 23:12:52 --> Database Driver Class Initialized
+INFO - 2024-12-03 23:12:52 --> Email Class Initialized
+INFO - 2024-12-03 23:12:52 --> Form Validation Class Initialized
+INFO - 2024-12-03 23:12:52 --> Table Class Initialized
+INFO - 2024-12-03 23:12:52 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2024-12-03 23:12:52 --> Pagination Class Initialized
+DEBUG - 2024-12-03 23:12:52 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-12-03 23:12:52 --> Session: Class initialized using 'files' driver.
+DEBUG - 2024-12-03 23:12:52 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2024-12-03 23:12:52 --> Form_validation class already loaded. Second attempt ignored.
+INFO - 2024-12-03 23:12:52 --> Helper loaded: captcha_helper
+INFO - 2024-12-03 23:12:52 --> Helper loaded: security_helper
+INFO - 2024-12-03 23:12:52 --> Controller Class Initialized
+INFO - 2024-12-03 23:12:52 --> Model "UserModel" initialized
+INFO - 2024-12-03 23:12:52 --> File loaded: D:\xampp\htdocs\aska\application\views\layouts/dashboard/navbar.php
+INFO - 2024-12-03 23:12:52 --> File loaded: D:\xampp\htdocs\aska\application\views\layouts/dashboard/header.php
+INFO - 2024-12-03 23:12:52 --> File loaded: D:\xampp\htdocs\aska\application\views\dashboard/setting/user.php
+INFO - 2024-12-03 23:12:52 --> File loaded: D:\xampp\htdocs\aska\application\views\layouts/dashboard/main.php
+INFO - 2024-12-03 23:12:52 --> Final output sent to browser
+DEBUG - 2024-12-03 23:12:52 --> Total execution time: 0.0486
+INFO - 2024-12-03 17:12:52 --> Config Class Initialized
+INFO - 2024-12-03 17:12:52 --> Hooks Class Initialized
+DEBUG - 2024-12-03 17:12:52 --> UTF-8 Support Enabled
+INFO - 2024-12-03 17:12:52 --> Utf8 Class Initialized
+INFO - 2024-12-03 17:12:52 --> URI Class Initialized
+INFO - 2024-12-03 17:12:52 --> Router Class Initialized
+INFO - 2024-12-03 17:12:52 --> Output Class Initialized
+INFO - 2024-12-03 17:12:52 --> Security Class Initialized
+DEBUG - 2024-12-03 17:12:52 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-12-03 17:12:52 --> Input Class Initialized
+INFO - 2024-12-03 17:12:52 --> Language Class Initialized
+INFO - 2024-12-03 17:12:52 --> Loader Class Initialized
+DEBUG - 2024-12-03 23:12:52 --> Config file loaded: D:\xampp\htdocs\aska\application\config/Hris.php
+INFO - 2024-12-03 23:12:52 --> Helper loaded: form_helper
+INFO - 2024-12-03 23:12:52 --> Helper loaded: url_helper
+INFO - 2024-12-03 23:12:52 --> Helper loaded: date_helper
+INFO - 2024-12-03 23:12:52 --> Helper loaded: file_helper
+INFO - 2024-12-03 23:12:52 --> Helper loaded: directory_helper
+INFO - 2024-12-03 23:12:52 --> Helper loaded: path_helper
+INFO - 2024-12-03 23:12:52 --> Helper loaded: download_helper
+INFO - 2024-12-03 23:12:52 --> Helper loaded: logactivity_helper
+INFO - 2024-12-03 23:12:52 --> Helper loaded: tools_helper
+INFO - 2024-12-03 23:12:52 --> Database Driver Class Initialized
+INFO - 2024-12-03 23:12:52 --> Email Class Initialized
+INFO - 2024-12-03 23:12:52 --> Form Validation Class Initialized
+INFO - 2024-12-03 23:12:52 --> Table Class Initialized
+INFO - 2024-12-03 23:12:52 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2024-12-03 23:12:52 --> Pagination Class Initialized
+DEBUG - 2024-12-03 23:12:52 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-12-03 23:12:52 --> Session: Class initialized using 'files' driver.
+DEBUG - 2024-12-03 23:12:52 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2024-12-03 23:12:52 --> Form_validation class already loaded. Second attempt ignored.
+INFO - 2024-12-03 23:12:52 --> Helper loaded: captcha_helper
+INFO - 2024-12-03 23:12:52 --> Helper loaded: security_helper
+INFO - 2024-12-03 23:12:52 --> Controller Class Initialized
+INFO - 2024-12-03 23:12:52 --> Model "UserModel" initialized
+INFO - 2024-12-03 17:12:59 --> Config Class Initialized
+INFO - 2024-12-03 17:12:59 --> Hooks Class Initialized
+DEBUG - 2024-12-03 17:12:59 --> UTF-8 Support Enabled
+INFO - 2024-12-03 17:12:59 --> Utf8 Class Initialized
+INFO - 2024-12-03 17:12:59 --> URI Class Initialized
+INFO - 2024-12-03 17:12:59 --> Router Class Initialized
+INFO - 2024-12-03 17:12:59 --> Output Class Initialized
+INFO - 2024-12-03 17:12:59 --> Security Class Initialized
+DEBUG - 2024-12-03 17:12:59 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-12-03 17:12:59 --> Input Class Initialized
+INFO - 2024-12-03 17:12:59 --> Language Class Initialized
+INFO - 2024-12-03 17:12:59 --> Loader Class Initialized
+DEBUG - 2024-12-03 23:12:59 --> Config file loaded: D:\xampp\htdocs\aska\application\config/Hris.php
+INFO - 2024-12-03 23:12:59 --> Helper loaded: form_helper
+INFO - 2024-12-03 23:12:59 --> Helper loaded: url_helper
+INFO - 2024-12-03 23:12:59 --> Helper loaded: date_helper
+INFO - 2024-12-03 23:12:59 --> Helper loaded: file_helper
+INFO - 2024-12-03 23:12:59 --> Helper loaded: directory_helper
+INFO - 2024-12-03 23:12:59 --> Helper loaded: path_helper
+INFO - 2024-12-03 23:12:59 --> Helper loaded: download_helper
+INFO - 2024-12-03 23:12:59 --> Helper loaded: logactivity_helper
+INFO - 2024-12-03 23:12:59 --> Helper loaded: tools_helper
+INFO - 2024-12-03 23:12:59 --> Database Driver Class Initialized
+INFO - 2024-12-03 23:12:59 --> Email Class Initialized
+INFO - 2024-12-03 23:12:59 --> Form Validation Class Initialized
+INFO - 2024-12-03 23:12:59 --> Table Class Initialized
+INFO - 2024-12-03 23:12:59 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2024-12-03 23:12:59 --> Pagination Class Initialized
+DEBUG - 2024-12-03 23:12:59 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-12-03 23:12:59 --> Session: Class initialized using 'files' driver.
+DEBUG - 2024-12-03 23:12:59 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2024-12-03 23:12:59 --> Form_validation class already loaded. Second attempt ignored.
+INFO - 2024-12-03 23:12:59 --> Helper loaded: captcha_helper
+INFO - 2024-12-03 23:12:59 --> Helper loaded: security_helper
+INFO - 2024-12-03 23:12:59 --> Controller Class Initialized
+INFO - 2024-12-03 17:12:59 --> Config Class Initialized
+INFO - 2024-12-03 17:12:59 --> Hooks Class Initialized
+DEBUG - 2024-12-03 17:12:59 --> UTF-8 Support Enabled
+INFO - 2024-12-03 17:12:59 --> Utf8 Class Initialized
+INFO - 2024-12-03 17:12:59 --> URI Class Initialized
+DEBUG - 2024-12-03 17:12:59 --> No URI present. Default controller set.
+INFO - 2024-12-03 17:12:59 --> Router Class Initialized
+INFO - 2024-12-03 17:12:59 --> Output Class Initialized
+INFO - 2024-12-03 17:12:59 --> Security Class Initialized
+DEBUG - 2024-12-03 17:12:59 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-12-03 17:12:59 --> Input Class Initialized
+INFO - 2024-12-03 17:12:59 --> Language Class Initialized
+INFO - 2024-12-03 17:12:59 --> Loader Class Initialized
+DEBUG - 2024-12-03 23:12:59 --> Config file loaded: D:\xampp\htdocs\aska\application\config/Hris.php
+INFO - 2024-12-03 23:12:59 --> Helper loaded: form_helper
+INFO - 2024-12-03 23:12:59 --> Helper loaded: url_helper
+INFO - 2024-12-03 23:12:59 --> Helper loaded: date_helper
+INFO - 2024-12-03 23:12:59 --> Helper loaded: file_helper
+INFO - 2024-12-03 23:12:59 --> Helper loaded: directory_helper
+INFO - 2024-12-03 23:12:59 --> Helper loaded: path_helper
+INFO - 2024-12-03 23:12:59 --> Helper loaded: download_helper
+INFO - 2024-12-03 23:12:59 --> Helper loaded: logactivity_helper
+INFO - 2024-12-03 23:12:59 --> Helper loaded: tools_helper
+INFO - 2024-12-03 23:12:59 --> Database Driver Class Initialized
+INFO - 2024-12-03 23:12:59 --> Email Class Initialized
+INFO - 2024-12-03 23:12:59 --> Form Validation Class Initialized
+INFO - 2024-12-03 23:12:59 --> Table Class Initialized
+INFO - 2024-12-03 23:12:59 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2024-12-03 23:12:59 --> Pagination Class Initialized
+DEBUG - 2024-12-03 23:12:59 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-12-03 23:12:59 --> Session: Class initialized using 'files' driver.
+DEBUG - 2024-12-03 23:12:59 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2024-12-03 23:12:59 --> Form_validation class already loaded. Second attempt ignored.
+INFO - 2024-12-03 23:12:59 --> Helper loaded: captcha_helper
+INFO - 2024-12-03 23:12:59 --> Helper loaded: security_helper
+INFO - 2024-12-03 23:12:59 --> Controller Class Initialized
+INFO - 2024-12-03 23:12:59 --> File loaded: D:\xampp\htdocs\aska\application\views\authentication/signin.php
+INFO - 2024-12-03 23:12:59 --> File loaded: D:\xampp\htdocs\aska\application\views\layouts/authentication/accounts.php
+INFO - 2024-12-03 23:12:59 --> Final output sent to browser
+DEBUG - 2024-12-03 23:12:59 --> Total execution time: 0.0637
+INFO - 2024-12-03 17:13:05 --> Config Class Initialized
+INFO - 2024-12-03 17:13:05 --> Hooks Class Initialized
+DEBUG - 2024-12-03 17:13:05 --> UTF-8 Support Enabled
+INFO - 2024-12-03 17:13:05 --> Utf8 Class Initialized
+INFO - 2024-12-03 17:13:05 --> URI Class Initialized
+DEBUG - 2024-12-03 17:13:05 --> No URI present. Default controller set.
+INFO - 2024-12-03 17:13:05 --> Router Class Initialized
+INFO - 2024-12-03 17:13:05 --> Output Class Initialized
+INFO - 2024-12-03 17:13:05 --> Security Class Initialized
+DEBUG - 2024-12-03 17:13:05 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-12-03 17:13:05 --> Input Class Initialized
+INFO - 2024-12-03 17:13:05 --> Language Class Initialized
+INFO - 2024-12-03 17:13:05 --> Loader Class Initialized
+DEBUG - 2024-12-03 23:13:05 --> Config file loaded: D:\xampp\htdocs\aska\application\config/Hris.php
+INFO - 2024-12-03 23:13:05 --> Helper loaded: form_helper
+INFO - 2024-12-03 23:13:05 --> Helper loaded: url_helper
+INFO - 2024-12-03 23:13:05 --> Helper loaded: date_helper
+INFO - 2024-12-03 23:13:05 --> Helper loaded: file_helper
+INFO - 2024-12-03 23:13:05 --> Helper loaded: directory_helper
+INFO - 2024-12-03 23:13:05 --> Helper loaded: path_helper
+INFO - 2024-12-03 23:13:05 --> Helper loaded: download_helper
+INFO - 2024-12-03 23:13:05 --> Helper loaded: logactivity_helper
+INFO - 2024-12-03 23:13:05 --> Helper loaded: tools_helper
+INFO - 2024-12-03 23:13:05 --> Database Driver Class Initialized
+INFO - 2024-12-03 23:13:05 --> Email Class Initialized
+INFO - 2024-12-03 23:13:05 --> Form Validation Class Initialized
+INFO - 2024-12-03 23:13:05 --> Table Class Initialized
+INFO - 2024-12-03 23:13:05 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2024-12-03 23:13:05 --> Pagination Class Initialized
+DEBUG - 2024-12-03 23:13:05 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-12-03 23:13:05 --> Session: Class initialized using 'files' driver.
+DEBUG - 2024-12-03 23:13:05 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2024-12-03 23:13:05 --> Form_validation class already loaded. Second attempt ignored.
+INFO - 2024-12-03 23:13:05 --> Helper loaded: captcha_helper
+INFO - 2024-12-03 23:13:05 --> Helper loaded: security_helper
+INFO - 2024-12-03 23:13:05 --> Controller Class Initialized
+INFO - 2024-12-03 23:13:05 --> Language file loaded: language/english/form_validation_lang.php
+INFO - 2024-12-03 17:13:09 --> Config Class Initialized
+INFO - 2024-12-03 17:13:09 --> Hooks Class Initialized
+DEBUG - 2024-12-03 17:13:09 --> UTF-8 Support Enabled
+INFO - 2024-12-03 17:13:09 --> Utf8 Class Initialized
+INFO - 2024-12-03 17:13:09 --> URI Class Initialized
+INFO - 2024-12-03 17:13:09 --> Router Class Initialized
+INFO - 2024-12-03 17:13:09 --> Output Class Initialized
+INFO - 2024-12-03 17:13:09 --> Security Class Initialized
+DEBUG - 2024-12-03 17:13:09 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-12-03 17:13:09 --> Input Class Initialized
+INFO - 2024-12-03 17:13:09 --> Language Class Initialized
+INFO - 2024-12-03 17:13:09 --> Loader Class Initialized
+DEBUG - 2024-12-03 23:13:09 --> Config file loaded: D:\xampp\htdocs\aska\application\config/Hris.php
+INFO - 2024-12-03 23:13:09 --> Helper loaded: form_helper
+INFO - 2024-12-03 23:13:09 --> Helper loaded: url_helper
+INFO - 2024-12-03 23:13:09 --> Helper loaded: date_helper
+INFO - 2024-12-03 23:13:09 --> Helper loaded: file_helper
+INFO - 2024-12-03 23:13:09 --> Helper loaded: directory_helper
+INFO - 2024-12-03 23:13:09 --> Helper loaded: path_helper
+INFO - 2024-12-03 23:13:09 --> Helper loaded: download_helper
+INFO - 2024-12-03 23:13:09 --> Helper loaded: logactivity_helper
+INFO - 2024-12-03 23:13:09 --> Helper loaded: tools_helper
+INFO - 2024-12-03 23:13:09 --> Database Driver Class Initialized
+INFO - 2024-12-03 23:13:09 --> Email Class Initialized
+INFO - 2024-12-03 23:13:09 --> Form Validation Class Initialized
+INFO - 2024-12-03 23:13:09 --> Table Class Initialized
+INFO - 2024-12-03 23:13:09 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2024-12-03 23:13:09 --> Pagination Class Initialized
+DEBUG - 2024-12-03 23:13:09 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-12-03 23:13:09 --> Session: Class initialized using 'files' driver.
+DEBUG - 2024-12-03 23:13:09 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2024-12-03 23:13:09 --> Form_validation class already loaded. Second attempt ignored.
+INFO - 2024-12-03 23:13:09 --> Helper loaded: captcha_helper
+INFO - 2024-12-03 23:13:09 --> Helper loaded: security_helper
+INFO - 2024-12-03 23:13:09 --> Controller Class Initialized
+INFO - 2024-12-03 23:13:09 --> Model "HomeModel" initialized
+INFO - 2024-12-03 23:13:09 --> File loaded: D:\xampp\htdocs\aska\application\views\layouts/dashboard/navbar.php
+INFO - 2024-12-03 23:13:09 --> File loaded: D:\xampp\htdocs\aska\application\views\layouts/dashboard/header.php
+INFO - 2024-12-03 23:13:09 --> File loaded: D:\xampp\htdocs\aska\application\views\dashboard/home.php
+INFO - 2024-12-03 23:13:09 --> File loaded: D:\xampp\htdocs\aska\application\views\layouts/dashboard/main.php
+INFO - 2024-12-03 23:13:09 --> Final output sent to browser
+DEBUG - 2024-12-03 23:13:09 --> Total execution time: 0.1410
+INFO - 2024-12-03 17:19:54 --> Config Class Initialized
+INFO - 2024-12-03 17:19:54 --> Hooks Class Initialized
+DEBUG - 2024-12-03 17:19:54 --> UTF-8 Support Enabled
+INFO - 2024-12-03 17:19:54 --> Utf8 Class Initialized
+INFO - 2024-12-03 17:19:54 --> URI Class Initialized
+INFO - 2024-12-03 17:19:54 --> Router Class Initialized
+INFO - 2024-12-03 17:19:54 --> Output Class Initialized
+INFO - 2024-12-03 17:19:54 --> Security Class Initialized
+DEBUG - 2024-12-03 17:19:54 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-12-03 17:19:54 --> Input Class Initialized
+INFO - 2024-12-03 17:19:54 --> Language Class Initialized
+INFO - 2024-12-03 17:19:54 --> Loader Class Initialized
+DEBUG - 2024-12-03 23:19:54 --> Config file loaded: D:\xampp\htdocs\aska\application\config/Hris.php
+INFO - 2024-12-03 23:19:54 --> Helper loaded: form_helper
+INFO - 2024-12-03 23:19:54 --> Helper loaded: url_helper
+INFO - 2024-12-03 23:19:54 --> Helper loaded: date_helper
+INFO - 2024-12-03 23:19:54 --> Helper loaded: file_helper
+INFO - 2024-12-03 23:19:54 --> Helper loaded: directory_helper
+INFO - 2024-12-03 23:19:54 --> Helper loaded: path_helper
+INFO - 2024-12-03 23:19:54 --> Helper loaded: download_helper
+INFO - 2024-12-03 23:19:54 --> Helper loaded: logactivity_helper
+INFO - 2024-12-03 23:19:54 --> Helper loaded: tools_helper
+INFO - 2024-12-03 23:19:54 --> Database Driver Class Initialized
+INFO - 2024-12-03 23:19:54 --> Email Class Initialized
+INFO - 2024-12-03 23:19:54 --> Form Validation Class Initialized
+INFO - 2024-12-03 23:19:54 --> Table Class Initialized
+INFO - 2024-12-03 23:19:54 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2024-12-03 23:19:54 --> Pagination Class Initialized
+DEBUG - 2024-12-03 23:19:54 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-12-03 23:19:54 --> Session: Class initialized using 'files' driver.
+DEBUG - 2024-12-03 23:19:54 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2024-12-03 23:19:54 --> Form_validation class already loaded. Second attempt ignored.
+INFO - 2024-12-03 23:19:54 --> Helper loaded: captcha_helper
+INFO - 2024-12-03 23:19:54 --> Helper loaded: security_helper
+INFO - 2024-12-03 23:19:54 --> Controller Class Initialized
+INFO - 2024-12-03 17:19:54 --> Config Class Initialized
+INFO - 2024-12-03 17:19:54 --> Hooks Class Initialized
+DEBUG - 2024-12-03 17:19:54 --> UTF-8 Support Enabled
+INFO - 2024-12-03 17:19:54 --> Utf8 Class Initialized
+INFO - 2024-12-03 17:19:54 --> URI Class Initialized
+DEBUG - 2024-12-03 17:19:54 --> No URI present. Default controller set.
+INFO - 2024-12-03 17:19:54 --> Router Class Initialized
+INFO - 2024-12-03 17:19:54 --> Output Class Initialized
+INFO - 2024-12-03 17:19:54 --> Security Class Initialized
+DEBUG - 2024-12-03 17:19:54 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-12-03 17:19:54 --> Input Class Initialized
+INFO - 2024-12-03 17:19:54 --> Language Class Initialized
+INFO - 2024-12-03 17:19:54 --> Loader Class Initialized
+DEBUG - 2024-12-03 23:19:54 --> Config file loaded: D:\xampp\htdocs\aska\application\config/Hris.php
+INFO - 2024-12-03 23:19:54 --> Helper loaded: form_helper
+INFO - 2024-12-03 23:19:54 --> Helper loaded: url_helper
+INFO - 2024-12-03 23:19:54 --> Helper loaded: date_helper
+INFO - 2024-12-03 23:19:54 --> Helper loaded: file_helper
+INFO - 2024-12-03 23:19:54 --> Helper loaded: directory_helper
+INFO - 2024-12-03 23:19:54 --> Helper loaded: path_helper
+INFO - 2024-12-03 23:19:54 --> Helper loaded: download_helper
+INFO - 2024-12-03 23:19:54 --> Helper loaded: logactivity_helper
+INFO - 2024-12-03 23:19:54 --> Helper loaded: tools_helper
+INFO - 2024-12-03 23:19:54 --> Database Driver Class Initialized
+INFO - 2024-12-03 23:19:54 --> Email Class Initialized
+INFO - 2024-12-03 23:19:54 --> Form Validation Class Initialized
+INFO - 2024-12-03 23:19:54 --> Table Class Initialized
+INFO - 2024-12-03 23:19:54 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2024-12-03 23:19:54 --> Pagination Class Initialized
+DEBUG - 2024-12-03 23:19:54 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-12-03 23:19:54 --> Session: Class initialized using 'files' driver.
+DEBUG - 2024-12-03 23:19:54 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2024-12-03 23:19:54 --> Form_validation class already loaded. Second attempt ignored.
+INFO - 2024-12-03 23:19:54 --> Helper loaded: captcha_helper
+INFO - 2024-12-03 23:19:54 --> Helper loaded: security_helper
+INFO - 2024-12-03 23:19:54 --> Controller Class Initialized
+INFO - 2024-12-03 23:19:54 --> File loaded: D:\xampp\htdocs\aska\application\views\authentication/signin.php
+INFO - 2024-12-03 23:19:54 --> File loaded: D:\xampp\htdocs\aska\application\views\layouts/authentication/accounts.php
+INFO - 2024-12-03 23:19:54 --> Final output sent to browser
+DEBUG - 2024-12-03 23:19:54 --> Total execution time: 0.0480
+INFO - 2024-12-03 17:19:58 --> Config Class Initialized
+INFO - 2024-12-03 17:19:58 --> Hooks Class Initialized
+DEBUG - 2024-12-03 17:19:58 --> UTF-8 Support Enabled
+INFO - 2024-12-03 17:19:58 --> Utf8 Class Initialized
+INFO - 2024-12-03 17:19:58 --> URI Class Initialized
+DEBUG - 2024-12-03 17:19:58 --> No URI present. Default controller set.
+INFO - 2024-12-03 17:19:58 --> Router Class Initialized
+INFO - 2024-12-03 17:19:58 --> Output Class Initialized
+INFO - 2024-12-03 17:19:58 --> Security Class Initialized
+DEBUG - 2024-12-03 17:19:58 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-12-03 17:19:58 --> Input Class Initialized
+INFO - 2024-12-03 17:19:58 --> Language Class Initialized
+INFO - 2024-12-03 17:19:58 --> Loader Class Initialized
+DEBUG - 2024-12-03 23:19:58 --> Config file loaded: D:\xampp\htdocs\aska\application\config/Hris.php
+INFO - 2024-12-03 23:19:58 --> Helper loaded: form_helper
+INFO - 2024-12-03 23:19:58 --> Helper loaded: url_helper
+INFO - 2024-12-03 23:19:58 --> Helper loaded: date_helper
+INFO - 2024-12-03 23:19:58 --> Helper loaded: file_helper
+INFO - 2024-12-03 23:19:58 --> Helper loaded: directory_helper
+INFO - 2024-12-03 23:19:58 --> Helper loaded: path_helper
+INFO - 2024-12-03 23:19:58 --> Helper loaded: download_helper
+INFO - 2024-12-03 23:19:58 --> Helper loaded: logactivity_helper
+INFO - 2024-12-03 23:19:58 --> Helper loaded: tools_helper
+INFO - 2024-12-03 23:19:58 --> Database Driver Class Initialized
+INFO - 2024-12-03 23:19:58 --> Email Class Initialized
+INFO - 2024-12-03 23:19:58 --> Form Validation Class Initialized
+INFO - 2024-12-03 23:19:58 --> Table Class Initialized
+INFO - 2024-12-03 23:19:58 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2024-12-03 23:19:58 --> Pagination Class Initialized
+DEBUG - 2024-12-03 23:19:58 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-12-03 23:19:58 --> Session: Class initialized using 'files' driver.
+DEBUG - 2024-12-03 23:19:58 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2024-12-03 23:19:58 --> Form_validation class already loaded. Second attempt ignored.
+INFO - 2024-12-03 23:19:58 --> Helper loaded: captcha_helper
+INFO - 2024-12-03 23:19:58 --> Helper loaded: security_helper
+INFO - 2024-12-03 23:19:58 --> Controller Class Initialized
+INFO - 2024-12-03 23:19:58 --> Language file loaded: language/english/form_validation_lang.php
+INFO - 2024-12-03 17:19:58 --> Config Class Initialized
+INFO - 2024-12-03 17:19:58 --> Hooks Class Initialized
+DEBUG - 2024-12-03 17:19:58 --> UTF-8 Support Enabled
+INFO - 2024-12-03 17:19:58 --> Utf8 Class Initialized
+INFO - 2024-12-03 17:19:58 --> URI Class Initialized
+INFO - 2024-12-03 17:19:58 --> Router Class Initialized
+INFO - 2024-12-03 17:19:58 --> Output Class Initialized
+INFO - 2024-12-03 17:19:58 --> Security Class Initialized
+DEBUG - 2024-12-03 17:19:58 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-12-03 17:19:58 --> Input Class Initialized
+INFO - 2024-12-03 17:19:58 --> Language Class Initialized
+INFO - 2024-12-03 17:19:58 --> Loader Class Initialized
+DEBUG - 2024-12-03 23:19:58 --> Config file loaded: D:\xampp\htdocs\aska\application\config/Hris.php
+INFO - 2024-12-03 23:19:58 --> Helper loaded: form_helper
+INFO - 2024-12-03 23:19:58 --> Helper loaded: url_helper
+INFO - 2024-12-03 23:19:58 --> Helper loaded: date_helper
+INFO - 2024-12-03 23:19:58 --> Helper loaded: file_helper
+INFO - 2024-12-03 23:19:58 --> Helper loaded: directory_helper
+INFO - 2024-12-03 23:19:58 --> Helper loaded: path_helper
+INFO - 2024-12-03 23:19:58 --> Helper loaded: download_helper
+INFO - 2024-12-03 23:19:58 --> Helper loaded: logactivity_helper
+INFO - 2024-12-03 23:19:58 --> Helper loaded: tools_helper
+INFO - 2024-12-03 23:19:58 --> Database Driver Class Initialized
+INFO - 2024-12-03 23:19:58 --> Email Class Initialized
+INFO - 2024-12-03 23:19:58 --> Form Validation Class Initialized
+INFO - 2024-12-03 23:19:58 --> Table Class Initialized
+INFO - 2024-12-03 23:19:58 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2024-12-03 23:19:58 --> Pagination Class Initialized
+DEBUG - 2024-12-03 23:19:58 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-12-03 23:19:58 --> Session: Class initialized using 'files' driver.
+DEBUG - 2024-12-03 23:19:58 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2024-12-03 23:19:58 --> Form_validation class already loaded. Second attempt ignored.
+INFO - 2024-12-03 23:19:58 --> Helper loaded: captcha_helper
+INFO - 2024-12-03 23:19:58 --> Helper loaded: security_helper
+INFO - 2024-12-03 23:19:58 --> Controller Class Initialized
+INFO - 2024-12-03 23:19:58 --> Model "HomeModel" initialized
+INFO - 2024-12-03 23:19:58 --> File loaded: D:\xampp\htdocs\aska\application\views\layouts/dashboard/navbar.php
+INFO - 2024-12-03 23:19:58 --> File loaded: D:\xampp\htdocs\aska\application\views\layouts/dashboard/header.php
+INFO - 2024-12-03 23:19:58 --> File loaded: D:\xampp\htdocs\aska\application\views\dashboard/home.php
+INFO - 2024-12-03 23:19:58 --> File loaded: D:\xampp\htdocs\aska\application\views\layouts/dashboard/main.php
+INFO - 2024-12-03 23:19:58 --> Final output sent to browser
+DEBUG - 2024-12-03 23:19:58 --> Total execution time: 0.0461
+INFO - 2024-12-03 17:29:53 --> Config Class Initialized
+INFO - 2024-12-03 17:29:53 --> Hooks Class Initialized
+DEBUG - 2024-12-03 17:29:53 --> UTF-8 Support Enabled
+INFO - 2024-12-03 17:29:53 --> Utf8 Class Initialized
+INFO - 2024-12-03 17:29:53 --> URI Class Initialized
+INFO - 2024-12-03 17:29:53 --> Router Class Initialized
+INFO - 2024-12-03 17:29:53 --> Output Class Initialized
+INFO - 2024-12-03 17:29:53 --> Security Class Initialized
+DEBUG - 2024-12-03 17:29:53 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-12-03 17:29:53 --> Input Class Initialized
+INFO - 2024-12-03 17:29:53 --> Language Class Initialized
+ERROR - 2024-12-03 17:29:53 --> 404 Page Not Found: Referensi_unit_kerja/index
+INFO - 2024-12-03 17:29:55 --> Config Class Initialized
+INFO - 2024-12-03 17:29:55 --> Hooks Class Initialized
+DEBUG - 2024-12-03 17:29:55 --> UTF-8 Support Enabled
+INFO - 2024-12-03 17:29:55 --> Utf8 Class Initialized
+INFO - 2024-12-03 17:29:55 --> URI Class Initialized
+INFO - 2024-12-03 17:29:55 --> Router Class Initialized
+INFO - 2024-12-03 17:29:55 --> Output Class Initialized
+INFO - 2024-12-03 17:29:55 --> Security Class Initialized
+DEBUG - 2024-12-03 17:29:55 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-12-03 17:29:55 --> Input Class Initialized
+INFO - 2024-12-03 17:29:55 --> Language Class Initialized
+INFO - 2024-12-03 17:29:55 --> Loader Class Initialized
+DEBUG - 2024-12-03 23:29:55 --> Config file loaded: D:\xampp\htdocs\aska\application\config/Hris.php
+INFO - 2024-12-03 23:29:55 --> Helper loaded: form_helper
+INFO - 2024-12-03 23:29:55 --> Helper loaded: url_helper
+INFO - 2024-12-03 23:29:55 --> Helper loaded: date_helper
+INFO - 2024-12-03 23:29:55 --> Helper loaded: file_helper
+INFO - 2024-12-03 23:29:55 --> Helper loaded: directory_helper
+INFO - 2024-12-03 23:29:55 --> Helper loaded: path_helper
+INFO - 2024-12-03 23:29:55 --> Helper loaded: download_helper
+INFO - 2024-12-03 23:29:55 --> Helper loaded: logactivity_helper
+INFO - 2024-12-03 23:29:55 --> Helper loaded: tools_helper
+INFO - 2024-12-03 23:29:55 --> Database Driver Class Initialized
+INFO - 2024-12-03 23:29:55 --> Email Class Initialized
+INFO - 2024-12-03 23:29:55 --> Form Validation Class Initialized
+INFO - 2024-12-03 23:29:55 --> Table Class Initialized
+INFO - 2024-12-03 23:29:55 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2024-12-03 23:29:55 --> Pagination Class Initialized
+DEBUG - 2024-12-03 23:29:55 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-12-03 23:29:55 --> Session: Class initialized using 'files' driver.
+DEBUG - 2024-12-03 23:29:55 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2024-12-03 23:29:55 --> Form_validation class already loaded. Second attempt ignored.
+INFO - 2024-12-03 23:29:55 --> Helper loaded: captcha_helper
+INFO - 2024-12-03 23:29:55 --> Helper loaded: security_helper
+INFO - 2024-12-03 23:29:55 --> Controller Class Initialized
+INFO - 2024-12-03 23:29:55 --> Model "HomeModel" initialized
+INFO - 2024-12-03 23:29:55 --> File loaded: D:\xampp\htdocs\aska\application\views\layouts/dashboard/navbar.php
+INFO - 2024-12-03 23:29:55 --> File loaded: D:\xampp\htdocs\aska\application\views\layouts/dashboard/header.php
+INFO - 2024-12-03 23:29:55 --> File loaded: D:\xampp\htdocs\aska\application\views\dashboard/home.php
+INFO - 2024-12-03 23:29:55 --> File loaded: D:\xampp\htdocs\aska\application\views\layouts/dashboard/main.php
+INFO - 2024-12-03 23:29:55 --> Final output sent to browser
+DEBUG - 2024-12-03 23:29:55 --> Total execution time: 0.0606
+INFO - 2024-12-03 17:48:05 --> Config Class Initialized
+INFO - 2024-12-03 17:48:05 --> Hooks Class Initialized
+DEBUG - 2024-12-03 17:48:05 --> UTF-8 Support Enabled
+INFO - 2024-12-03 17:48:05 --> Utf8 Class Initialized
+INFO - 2024-12-03 17:48:05 --> URI Class Initialized
+INFO - 2024-12-03 17:48:05 --> Router Class Initialized
+INFO - 2024-12-03 17:48:05 --> Output Class Initialized
+INFO - 2024-12-03 17:48:05 --> Security Class Initialized
+DEBUG - 2024-12-03 17:48:05 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-12-03 17:48:05 --> Input Class Initialized
+INFO - 2024-12-03 17:48:05 --> Language Class Initialized
+INFO - 2024-12-03 17:48:05 --> Loader Class Initialized
+DEBUG - 2024-12-03 23:48:05 --> Config file loaded: D:\xampp\htdocs\aska\application\config/Hris.php
+INFO - 2024-12-03 23:48:05 --> Helper loaded: form_helper
+INFO - 2024-12-03 23:48:05 --> Helper loaded: url_helper
+INFO - 2024-12-03 23:48:05 --> Helper loaded: date_helper
+INFO - 2024-12-03 23:48:05 --> Helper loaded: file_helper
+INFO - 2024-12-03 23:48:05 --> Helper loaded: directory_helper
+INFO - 2024-12-03 23:48:05 --> Helper loaded: path_helper
+INFO - 2024-12-03 23:48:05 --> Helper loaded: download_helper
+INFO - 2024-12-03 23:48:05 --> Helper loaded: logactivity_helper
+INFO - 2024-12-03 23:48:05 --> Helper loaded: tools_helper
+INFO - 2024-12-03 23:48:05 --> Database Driver Class Initialized
+INFO - 2024-12-03 23:48:05 --> Email Class Initialized
+INFO - 2024-12-03 23:48:05 --> Form Validation Class Initialized
+INFO - 2024-12-03 23:48:05 --> Table Class Initialized
+INFO - 2024-12-03 23:48:05 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2024-12-03 23:48:05 --> Pagination Class Initialized
+DEBUG - 2024-12-03 23:48:05 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-12-03 23:48:05 --> Session: Class initialized using 'files' driver.
+DEBUG - 2024-12-03 23:48:05 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2024-12-03 23:48:05 --> Form_validation class already loaded. Second attempt ignored.
+INFO - 2024-12-03 23:48:05 --> Helper loaded: captcha_helper
+INFO - 2024-12-03 23:48:05 --> Helper loaded: security_helper
+INFO - 2024-12-03 23:48:05 --> Controller Class Initialized
+INFO - 2024-12-03 23:48:05 --> Model "HomeModel" initialized
+INFO - 2024-12-03 23:48:05 --> File loaded: D:\xampp\htdocs\aska\application\views\layouts/dashboard/navbar.php
+INFO - 2024-12-03 23:48:05 --> File loaded: D:\xampp\htdocs\aska\application\views\layouts/dashboard/header.php
+INFO - 2024-12-03 23:48:05 --> File loaded: D:\xampp\htdocs\aska\application\views\dashboard/home.php
+INFO - 2024-12-03 23:48:05 --> File loaded: D:\xampp\htdocs\aska\application\views\layouts/dashboard/main.php
+INFO - 2024-12-03 23:48:05 --> Final output sent to browser
+DEBUG - 2024-12-03 23:48:05 --> Total execution time: 0.0505
+INFO - 2024-12-03 17:48:08 --> Config Class Initialized
+INFO - 2024-12-03 17:48:08 --> Hooks Class Initialized
+DEBUG - 2024-12-03 17:48:08 --> UTF-8 Support Enabled
+INFO - 2024-12-03 17:48:08 --> Utf8 Class Initialized
+INFO - 2024-12-03 17:48:08 --> URI Class Initialized
+INFO - 2024-12-03 17:48:08 --> Router Class Initialized
+INFO - 2024-12-03 17:48:08 --> Output Class Initialized
+INFO - 2024-12-03 17:48:08 --> Security Class Initialized
+DEBUG - 2024-12-03 17:48:08 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-12-03 17:48:08 --> Input Class Initialized
+INFO - 2024-12-03 17:48:08 --> Language Class Initialized
+INFO - 2024-12-03 17:48:08 --> Loader Class Initialized
+DEBUG - 2024-12-03 23:48:08 --> Config file loaded: D:\xampp\htdocs\aska\application\config/Hris.php
+INFO - 2024-12-03 23:48:08 --> Helper loaded: form_helper
+INFO - 2024-12-03 23:48:08 --> Helper loaded: url_helper
+INFO - 2024-12-03 23:48:08 --> Helper loaded: date_helper
+INFO - 2024-12-03 23:48:08 --> Helper loaded: file_helper
+INFO - 2024-12-03 23:48:08 --> Helper loaded: directory_helper
+INFO - 2024-12-03 23:48:08 --> Helper loaded: path_helper
+INFO - 2024-12-03 23:48:08 --> Helper loaded: download_helper
+INFO - 2024-12-03 23:48:08 --> Helper loaded: logactivity_helper
+INFO - 2024-12-03 23:48:08 --> Helper loaded: tools_helper
+INFO - 2024-12-03 23:48:08 --> Database Driver Class Initialized
+INFO - 2024-12-03 23:48:08 --> Email Class Initialized
+INFO - 2024-12-03 23:48:08 --> Form Validation Class Initialized
+INFO - 2024-12-03 23:48:08 --> Table Class Initialized
+INFO - 2024-12-03 23:48:08 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2024-12-03 23:48:08 --> Pagination Class Initialized
+DEBUG - 2024-12-03 23:48:08 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-12-03 23:48:08 --> Session: Class initialized using 'files' driver.
+DEBUG - 2024-12-03 23:48:08 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2024-12-03 23:48:08 --> Form_validation class already loaded. Second attempt ignored.
+INFO - 2024-12-03 23:48:08 --> Helper loaded: captcha_helper
+INFO - 2024-12-03 23:48:08 --> Helper loaded: security_helper
+INFO - 2024-12-03 23:48:08 --> Controller Class Initialized
+INFO - 2024-12-03 17:48:08 --> Config Class Initialized
+INFO - 2024-12-03 17:48:08 --> Hooks Class Initialized
+DEBUG - 2024-12-03 17:48:08 --> UTF-8 Support Enabled
+INFO - 2024-12-03 17:48:08 --> Utf8 Class Initialized
+INFO - 2024-12-03 17:48:08 --> URI Class Initialized
+DEBUG - 2024-12-03 17:48:08 --> No URI present. Default controller set.
+INFO - 2024-12-03 17:48:08 --> Router Class Initialized
+INFO - 2024-12-03 17:48:08 --> Output Class Initialized
+INFO - 2024-12-03 17:48:08 --> Security Class Initialized
+DEBUG - 2024-12-03 17:48:08 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-12-03 17:48:08 --> Input Class Initialized
+INFO - 2024-12-03 17:48:08 --> Language Class Initialized
+INFO - 2024-12-03 17:48:08 --> Loader Class Initialized
+DEBUG - 2024-12-03 23:48:08 --> Config file loaded: D:\xampp\htdocs\aska\application\config/Hris.php
+INFO - 2024-12-03 23:48:08 --> Helper loaded: form_helper
+INFO - 2024-12-03 23:48:08 --> Helper loaded: url_helper
+INFO - 2024-12-03 23:48:08 --> Helper loaded: date_helper
+INFO - 2024-12-03 23:48:08 --> Helper loaded: file_helper
+INFO - 2024-12-03 23:48:08 --> Helper loaded: directory_helper
+INFO - 2024-12-03 23:48:08 --> Helper loaded: path_helper
+INFO - 2024-12-03 23:48:08 --> Helper loaded: download_helper
+INFO - 2024-12-03 23:48:08 --> Helper loaded: logactivity_helper
+INFO - 2024-12-03 23:48:08 --> Helper loaded: tools_helper
+INFO - 2024-12-03 23:48:08 --> Database Driver Class Initialized
+INFO - 2024-12-03 23:48:08 --> Email Class Initialized
+INFO - 2024-12-03 23:48:08 --> Form Validation Class Initialized
+INFO - 2024-12-03 23:48:08 --> Table Class Initialized
+INFO - 2024-12-03 23:48:08 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2024-12-03 23:48:08 --> Pagination Class Initialized
+DEBUG - 2024-12-03 23:48:08 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-12-03 23:48:08 --> Session: Class initialized using 'files' driver.
+DEBUG - 2024-12-03 23:48:08 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2024-12-03 23:48:08 --> Form_validation class already loaded. Second attempt ignored.
+INFO - 2024-12-03 23:48:08 --> Helper loaded: captcha_helper
+INFO - 2024-12-03 23:48:08 --> Helper loaded: security_helper
+INFO - 2024-12-03 23:48:08 --> Controller Class Initialized
+INFO - 2024-12-03 23:48:08 --> File loaded: D:\xampp\htdocs\aska\application\views\authentication/signin.php
+INFO - 2024-12-03 23:48:08 --> File loaded: D:\xampp\htdocs\aska\application\views\layouts/authentication/accounts.php
+INFO - 2024-12-03 23:48:08 --> Final output sent to browser
+DEBUG - 2024-12-03 23:48:08 --> Total execution time: 0.0527
+INFO - 2024-12-03 17:48:11 --> Config Class Initialized
+INFO - 2024-12-03 17:48:11 --> Hooks Class Initialized
+DEBUG - 2024-12-03 17:48:11 --> UTF-8 Support Enabled
+INFO - 2024-12-03 17:48:11 --> Utf8 Class Initialized
+INFO - 2024-12-03 17:48:11 --> URI Class Initialized
+DEBUG - 2024-12-03 17:48:11 --> No URI present. Default controller set.
+INFO - 2024-12-03 17:48:11 --> Router Class Initialized
+INFO - 2024-12-03 17:48:11 --> Output Class Initialized
+INFO - 2024-12-03 17:48:11 --> Security Class Initialized
+DEBUG - 2024-12-03 17:48:11 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-12-03 17:48:11 --> Input Class Initialized
+INFO - 2024-12-03 17:48:11 --> Language Class Initialized
+INFO - 2024-12-03 17:48:11 --> Loader Class Initialized
+DEBUG - 2024-12-03 23:48:11 --> Config file loaded: D:\xampp\htdocs\aska\application\config/Hris.php
+INFO - 2024-12-03 23:48:11 --> Helper loaded: form_helper
+INFO - 2024-12-03 23:48:11 --> Helper loaded: url_helper
+INFO - 2024-12-03 23:48:11 --> Helper loaded: date_helper
+INFO - 2024-12-03 23:48:11 --> Helper loaded: file_helper
+INFO - 2024-12-03 23:48:11 --> Helper loaded: directory_helper
+INFO - 2024-12-03 23:48:11 --> Helper loaded: path_helper
+INFO - 2024-12-03 23:48:11 --> Helper loaded: download_helper
+INFO - 2024-12-03 23:48:11 --> Helper loaded: logactivity_helper
+INFO - 2024-12-03 23:48:11 --> Helper loaded: tools_helper
+INFO - 2024-12-03 23:48:11 --> Database Driver Class Initialized
+INFO - 2024-12-03 23:48:11 --> Email Class Initialized
+INFO - 2024-12-03 23:48:11 --> Form Validation Class Initialized
+INFO - 2024-12-03 23:48:11 --> Table Class Initialized
+INFO - 2024-12-03 23:48:11 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2024-12-03 23:48:11 --> Pagination Class Initialized
+DEBUG - 2024-12-03 23:48:11 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-12-03 23:48:11 --> Session: Class initialized using 'files' driver.
+DEBUG - 2024-12-03 23:48:11 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2024-12-03 23:48:11 --> Form_validation class already loaded. Second attempt ignored.
+INFO - 2024-12-03 23:48:11 --> Helper loaded: captcha_helper
+INFO - 2024-12-03 23:48:11 --> Helper loaded: security_helper
+INFO - 2024-12-03 23:48:11 --> Controller Class Initialized
+INFO - 2024-12-03 23:48:11 --> File loaded: D:\xampp\htdocs\aska\application\views\authentication/signin.php
+INFO - 2024-12-03 23:48:11 --> File loaded: D:\xampp\htdocs\aska\application\views\layouts/authentication/accounts.php
+INFO - 2024-12-03 23:48:11 --> Final output sent to browser
+DEBUG - 2024-12-03 23:48:11 --> Total execution time: 0.0472
+INFO - 2024-12-03 17:48:13 --> Config Class Initialized
+INFO - 2024-12-03 17:48:13 --> Hooks Class Initialized
+DEBUG - 2024-12-03 17:48:13 --> UTF-8 Support Enabled
+INFO - 2024-12-03 17:48:13 --> Utf8 Class Initialized
+INFO - 2024-12-03 17:48:13 --> URI Class Initialized
+DEBUG - 2024-12-03 17:48:13 --> No URI present. Default controller set.
+INFO - 2024-12-03 17:48:13 --> Router Class Initialized
+INFO - 2024-12-03 17:48:13 --> Output Class Initialized
+INFO - 2024-12-03 17:48:13 --> Security Class Initialized
+DEBUG - 2024-12-03 17:48:13 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-12-03 17:48:13 --> Input Class Initialized
+INFO - 2024-12-03 17:48:13 --> Language Class Initialized
+INFO - 2024-12-03 17:48:13 --> Loader Class Initialized
+DEBUG - 2024-12-03 23:48:14 --> Config file loaded: D:\xampp\htdocs\aska\application\config/Hris.php
+INFO - 2024-12-03 23:48:14 --> Helper loaded: form_helper
+INFO - 2024-12-03 23:48:14 --> Helper loaded: url_helper
+INFO - 2024-12-03 23:48:14 --> Helper loaded: date_helper
+INFO - 2024-12-03 23:48:14 --> Helper loaded: file_helper
+INFO - 2024-12-03 23:48:14 --> Helper loaded: directory_helper
+INFO - 2024-12-03 23:48:14 --> Helper loaded: path_helper
+INFO - 2024-12-03 23:48:14 --> Helper loaded: download_helper
+INFO - 2024-12-03 23:48:14 --> Helper loaded: logactivity_helper
+INFO - 2024-12-03 23:48:14 --> Helper loaded: tools_helper
+INFO - 2024-12-03 23:48:14 --> Database Driver Class Initialized
+INFO - 2024-12-03 23:48:14 --> Email Class Initialized
+INFO - 2024-12-03 23:48:14 --> Form Validation Class Initialized
+INFO - 2024-12-03 23:48:14 --> Table Class Initialized
+INFO - 2024-12-03 23:48:14 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2024-12-03 23:48:14 --> Pagination Class Initialized
+DEBUG - 2024-12-03 23:48:14 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-12-03 23:48:14 --> Session: Class initialized using 'files' driver.
+DEBUG - 2024-12-03 23:48:14 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2024-12-03 23:48:14 --> Form_validation class already loaded. Second attempt ignored.
+INFO - 2024-12-03 23:48:14 --> Helper loaded: captcha_helper
+INFO - 2024-12-03 23:48:14 --> Helper loaded: security_helper
+INFO - 2024-12-03 23:48:14 --> Controller Class Initialized
+INFO - 2024-12-03 23:48:14 --> Language file loaded: language/english/form_validation_lang.php
+INFO - 2024-12-03 17:48:14 --> Config Class Initialized
+INFO - 2024-12-03 17:48:14 --> Hooks Class Initialized
+DEBUG - 2024-12-03 17:48:14 --> UTF-8 Support Enabled
+INFO - 2024-12-03 17:48:14 --> Utf8 Class Initialized
+INFO - 2024-12-03 17:48:14 --> URI Class Initialized
+INFO - 2024-12-03 17:48:14 --> Router Class Initialized
+INFO - 2024-12-03 17:48:14 --> Output Class Initialized
+INFO - 2024-12-03 17:48:14 --> Security Class Initialized
+DEBUG - 2024-12-03 17:48:14 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-12-03 17:48:14 --> Input Class Initialized
+INFO - 2024-12-03 17:48:14 --> Language Class Initialized
+INFO - 2024-12-03 17:48:14 --> Loader Class Initialized
+DEBUG - 2024-12-03 23:48:14 --> Config file loaded: D:\xampp\htdocs\aska\application\config/Hris.php
+INFO - 2024-12-03 23:48:14 --> Helper loaded: form_helper
+INFO - 2024-12-03 23:48:14 --> Helper loaded: url_helper
+INFO - 2024-12-03 23:48:14 --> Helper loaded: date_helper
+INFO - 2024-12-03 23:48:14 --> Helper loaded: file_helper
+INFO - 2024-12-03 23:48:14 --> Helper loaded: directory_helper
+INFO - 2024-12-03 23:48:14 --> Helper loaded: path_helper
+INFO - 2024-12-03 23:48:14 --> Helper loaded: download_helper
+INFO - 2024-12-03 23:48:14 --> Helper loaded: logactivity_helper
+INFO - 2024-12-03 23:48:14 --> Helper loaded: tools_helper
+INFO - 2024-12-03 23:48:14 --> Database Driver Class Initialized
+INFO - 2024-12-03 23:48:14 --> Email Class Initialized
+INFO - 2024-12-03 23:48:14 --> Form Validation Class Initialized
+INFO - 2024-12-03 23:48:14 --> Table Class Initialized
+INFO - 2024-12-03 23:48:14 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2024-12-03 23:48:14 --> Pagination Class Initialized
+DEBUG - 2024-12-03 23:48:14 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-12-03 23:48:14 --> Session: Class initialized using 'files' driver.
+DEBUG - 2024-12-03 23:48:14 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2024-12-03 23:48:14 --> Form_validation class already loaded. Second attempt ignored.
+INFO - 2024-12-03 23:48:14 --> Helper loaded: captcha_helper
+INFO - 2024-12-03 23:48:14 --> Helper loaded: security_helper
+INFO - 2024-12-03 23:48:14 --> Controller Class Initialized
+INFO - 2024-12-03 23:48:14 --> Model "HomeModel" initialized
+INFO - 2024-12-03 23:48:14 --> File loaded: D:\xampp\htdocs\aska\application\views\layouts/dashboard/navbar.php
+INFO - 2024-12-03 23:48:14 --> File loaded: D:\xampp\htdocs\aska\application\views\layouts/dashboard/header.php
+INFO - 2024-12-03 23:48:14 --> File loaded: D:\xampp\htdocs\aska\application\views\dashboard/home.php
+INFO - 2024-12-03 23:48:14 --> File loaded: D:\xampp\htdocs\aska\application\views\layouts/dashboard/main.php
+INFO - 2024-12-03 23:48:14 --> Final output sent to browser
+DEBUG - 2024-12-03 23:48:14 --> Total execution time: 0.0430
+INFO - 2024-12-03 17:48:17 --> Config Class Initialized
+INFO - 2024-12-03 17:48:17 --> Hooks Class Initialized
+DEBUG - 2024-12-03 17:48:17 --> UTF-8 Support Enabled
+INFO - 2024-12-03 17:48:17 --> Utf8 Class Initialized
+INFO - 2024-12-03 17:48:17 --> URI Class Initialized
+INFO - 2024-12-03 17:48:17 --> Router Class Initialized
+INFO - 2024-12-03 17:48:17 --> Output Class Initialized
+INFO - 2024-12-03 17:48:17 --> Security Class Initialized
+DEBUG - 2024-12-03 17:48:17 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-12-03 17:48:17 --> Input Class Initialized
+INFO - 2024-12-03 17:48:17 --> Language Class Initialized
+INFO - 2024-12-03 17:48:17 --> Loader Class Initialized
+DEBUG - 2024-12-03 23:48:17 --> Config file loaded: D:\xampp\htdocs\aska\application\config/Hris.php
+INFO - 2024-12-03 23:48:17 --> Helper loaded: form_helper
+INFO - 2024-12-03 23:48:17 --> Helper loaded: url_helper
+INFO - 2024-12-03 23:48:17 --> Helper loaded: date_helper
+INFO - 2024-12-03 23:48:17 --> Helper loaded: file_helper
+INFO - 2024-12-03 23:48:17 --> Helper loaded: directory_helper
+INFO - 2024-12-03 23:48:17 --> Helper loaded: path_helper
+INFO - 2024-12-03 23:48:17 --> Helper loaded: download_helper
+INFO - 2024-12-03 23:48:17 --> Helper loaded: logactivity_helper
+INFO - 2024-12-03 23:48:17 --> Helper loaded: tools_helper
+INFO - 2024-12-03 23:48:17 --> Database Driver Class Initialized
+INFO - 2024-12-03 23:48:17 --> Email Class Initialized
+INFO - 2024-12-03 23:48:17 --> Form Validation Class Initialized
+INFO - 2024-12-03 23:48:17 --> Table Class Initialized
+INFO - 2024-12-03 23:48:17 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2024-12-03 23:48:17 --> Pagination Class Initialized
+DEBUG - 2024-12-03 23:48:17 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-12-03 23:48:17 --> Session: Class initialized using 'files' driver.
+DEBUG - 2024-12-03 23:48:17 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2024-12-03 23:48:17 --> Form_validation class already loaded. Second attempt ignored.
+INFO - 2024-12-03 23:48:17 --> Helper loaded: captcha_helper
+INFO - 2024-12-03 23:48:17 --> Helper loaded: security_helper
+INFO - 2024-12-03 23:48:17 --> Controller Class Initialized
+INFO - 2024-12-03 23:48:17 --> Model "GolonganModel" initialized
+INFO - 2024-12-03 23:48:17 --> File loaded: D:\xampp\htdocs\aska\application\views\layouts/dashboard/navbar.php
+INFO - 2024-12-03 23:48:17 --> File loaded: D:\xampp\htdocs\aska\application\views\layouts/dashboard/header.php
+INFO - 2024-12-03 23:48:17 --> File loaded: D:\xampp\htdocs\aska\application\views\dashboard/referensi/golongan.php
+INFO - 2024-12-03 23:48:17 --> File loaded: D:\xampp\htdocs\aska\application\views\layouts/dashboard/main.php
+INFO - 2024-12-03 23:48:17 --> Final output sent to browser
+DEBUG - 2024-12-03 23:48:17 --> Total execution time: 0.0518
+INFO - 2024-12-03 17:48:18 --> Config Class Initialized
+INFO - 2024-12-03 17:48:18 --> Hooks Class Initialized
+DEBUG - 2024-12-03 17:48:18 --> UTF-8 Support Enabled
+INFO - 2024-12-03 17:48:18 --> Utf8 Class Initialized
+INFO - 2024-12-03 17:48:18 --> URI Class Initialized
+INFO - 2024-12-03 17:48:18 --> Router Class Initialized
+INFO - 2024-12-03 17:48:18 --> Output Class Initialized
+INFO - 2024-12-03 17:48:18 --> Security Class Initialized
+DEBUG - 2024-12-03 17:48:18 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-12-03 17:48:18 --> Input Class Initialized
+INFO - 2024-12-03 17:48:18 --> Language Class Initialized
+INFO - 2024-12-03 17:48:18 --> Loader Class Initialized
+DEBUG - 2024-12-03 23:48:18 --> Config file loaded: D:\xampp\htdocs\aska\application\config/Hris.php
+INFO - 2024-12-03 23:48:18 --> Helper loaded: form_helper
+INFO - 2024-12-03 23:48:18 --> Helper loaded: url_helper
+INFO - 2024-12-03 23:48:18 --> Helper loaded: date_helper
+INFO - 2024-12-03 23:48:18 --> Helper loaded: file_helper
+INFO - 2024-12-03 23:48:18 --> Helper loaded: directory_helper
+INFO - 2024-12-03 23:48:18 --> Helper loaded: path_helper
+INFO - 2024-12-03 23:48:18 --> Helper loaded: download_helper
+INFO - 2024-12-03 23:48:18 --> Helper loaded: logactivity_helper
+INFO - 2024-12-03 23:48:18 --> Helper loaded: tools_helper
+INFO - 2024-12-03 23:48:18 --> Database Driver Class Initialized
+INFO - 2024-12-03 23:48:18 --> Email Class Initialized
+INFO - 2024-12-03 23:48:18 --> Form Validation Class Initialized
+INFO - 2024-12-03 23:48:18 --> Table Class Initialized
+INFO - 2024-12-03 23:48:18 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2024-12-03 23:48:18 --> Pagination Class Initialized
+DEBUG - 2024-12-03 23:48:18 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-12-03 23:48:18 --> Session: Class initialized using 'files' driver.
+DEBUG - 2024-12-03 23:48:18 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2024-12-03 23:48:18 --> Form_validation class already loaded. Second attempt ignored.
+INFO - 2024-12-03 23:48:18 --> Helper loaded: captcha_helper
+INFO - 2024-12-03 23:48:18 --> Helper loaded: security_helper
+INFO - 2024-12-03 23:48:18 --> Controller Class Initialized
+INFO - 2024-12-03 23:48:18 --> Model "GolonganModel" initialized
+INFO - 2024-12-03 17:48:22 --> Config Class Initialized
+INFO - 2024-12-03 17:48:22 --> Hooks Class Initialized
+DEBUG - 2024-12-03 17:48:22 --> UTF-8 Support Enabled
+INFO - 2024-12-03 17:48:22 --> Utf8 Class Initialized
+INFO - 2024-12-03 17:48:22 --> URI Class Initialized
+INFO - 2024-12-03 17:48:22 --> Router Class Initialized
+INFO - 2024-12-03 17:48:22 --> Output Class Initialized
+INFO - 2024-12-03 17:48:22 --> Security Class Initialized
+DEBUG - 2024-12-03 17:48:22 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-12-03 17:48:22 --> Input Class Initialized
+INFO - 2024-12-03 17:48:22 --> Language Class Initialized
+INFO - 2024-12-03 17:48:22 --> Loader Class Initialized
+DEBUG - 2024-12-03 23:48:22 --> Config file loaded: D:\xampp\htdocs\aska\application\config/Hris.php
+INFO - 2024-12-03 23:48:22 --> Helper loaded: form_helper
+INFO - 2024-12-03 23:48:22 --> Helper loaded: url_helper
+INFO - 2024-12-03 23:48:22 --> Helper loaded: date_helper
+INFO - 2024-12-03 23:48:22 --> Helper loaded: file_helper
+INFO - 2024-12-03 23:48:22 --> Helper loaded: directory_helper
+INFO - 2024-12-03 23:48:22 --> Helper loaded: path_helper
+INFO - 2024-12-03 23:48:22 --> Helper loaded: download_helper
+INFO - 2024-12-03 23:48:22 --> Helper loaded: logactivity_helper
+INFO - 2024-12-03 23:48:22 --> Helper loaded: tools_helper
+INFO - 2024-12-03 23:48:22 --> Database Driver Class Initialized
+INFO - 2024-12-03 23:48:22 --> Email Class Initialized
+INFO - 2024-12-03 23:48:22 --> Form Validation Class Initialized
+INFO - 2024-12-03 23:48:22 --> Table Class Initialized
+INFO - 2024-12-03 23:48:22 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2024-12-03 23:48:22 --> Pagination Class Initialized
+DEBUG - 2024-12-03 23:48:22 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-12-03 23:48:22 --> Session: Class initialized using 'files' driver.
+DEBUG - 2024-12-03 23:48:22 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2024-12-03 23:48:22 --> Form_validation class already loaded. Second attempt ignored.
+INFO - 2024-12-03 23:48:22 --> Helper loaded: captcha_helper
+INFO - 2024-12-03 23:48:22 --> Helper loaded: security_helper
+INFO - 2024-12-03 23:48:22 --> Controller Class Initialized
+INFO - 2024-12-03 23:48:22 --> Model "UserModel" initialized
+INFO - 2024-12-03 23:48:22 --> File loaded: D:\xampp\htdocs\aska\application\views\layouts/dashboard/navbar.php
+INFO - 2024-12-03 23:48:22 --> File loaded: D:\xampp\htdocs\aska\application\views\layouts/dashboard/header.php
+INFO - 2024-12-03 23:48:22 --> File loaded: D:\xampp\htdocs\aska\application\views\dashboard/setting/user.php
+INFO - 2024-12-03 23:48:22 --> File loaded: D:\xampp\htdocs\aska\application\views\layouts/dashboard/main.php
+INFO - 2024-12-03 23:48:22 --> Final output sent to browser
+DEBUG - 2024-12-03 23:48:22 --> Total execution time: 0.0444
+INFO - 2024-12-03 17:48:23 --> Config Class Initialized
+INFO - 2024-12-03 17:48:23 --> Hooks Class Initialized
+DEBUG - 2024-12-03 17:48:23 --> UTF-8 Support Enabled
+INFO - 2024-12-03 17:48:23 --> Utf8 Class Initialized
+INFO - 2024-12-03 17:48:23 --> URI Class Initialized
+INFO - 2024-12-03 17:48:23 --> Router Class Initialized
+INFO - 2024-12-03 17:48:23 --> Output Class Initialized
+INFO - 2024-12-03 17:48:23 --> Security Class Initialized
+DEBUG - 2024-12-03 17:48:23 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-12-03 17:48:23 --> Input Class Initialized
+INFO - 2024-12-03 17:48:23 --> Language Class Initialized
+INFO - 2024-12-03 17:48:23 --> Loader Class Initialized
+DEBUG - 2024-12-03 23:48:23 --> Config file loaded: D:\xampp\htdocs\aska\application\config/Hris.php
+INFO - 2024-12-03 23:48:23 --> Helper loaded: form_helper
+INFO - 2024-12-03 23:48:23 --> Helper loaded: url_helper
+INFO - 2024-12-03 23:48:23 --> Helper loaded: date_helper
+INFO - 2024-12-03 23:48:23 --> Helper loaded: file_helper
+INFO - 2024-12-03 23:48:23 --> Helper loaded: directory_helper
+INFO - 2024-12-03 23:48:23 --> Helper loaded: path_helper
+INFO - 2024-12-03 23:48:23 --> Helper loaded: download_helper
+INFO - 2024-12-03 23:48:23 --> Helper loaded: logactivity_helper
+INFO - 2024-12-03 23:48:23 --> Helper loaded: tools_helper
+INFO - 2024-12-03 23:48:23 --> Database Driver Class Initialized
+INFO - 2024-12-03 23:48:23 --> Email Class Initialized
+INFO - 2024-12-03 23:48:23 --> Form Validation Class Initialized
+INFO - 2024-12-03 23:48:23 --> Table Class Initialized
+INFO - 2024-12-03 23:48:23 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2024-12-03 23:48:23 --> Pagination Class Initialized
+DEBUG - 2024-12-03 23:48:23 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-12-03 23:48:23 --> Session: Class initialized using 'files' driver.
+DEBUG - 2024-12-03 23:48:23 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2024-12-03 23:48:23 --> Form_validation class already loaded. Second attempt ignored.
+INFO - 2024-12-03 23:48:23 --> Helper loaded: captcha_helper
+INFO - 2024-12-03 23:48:23 --> Helper loaded: security_helper
+INFO - 2024-12-03 23:48:23 --> Controller Class Initialized
+INFO - 2024-12-03 23:48:23 --> Model "UserModel" initialized
+INFO - 2024-12-03 17:48:28 --> Config Class Initialized
+INFO - 2024-12-03 17:48:28 --> Hooks Class Initialized
+DEBUG - 2024-12-03 17:48:28 --> UTF-8 Support Enabled
+INFO - 2024-12-03 17:48:28 --> Utf8 Class Initialized
+INFO - 2024-12-03 17:48:28 --> URI Class Initialized
+INFO - 2024-12-03 17:48:28 --> Router Class Initialized
+INFO - 2024-12-03 17:48:28 --> Output Class Initialized
+INFO - 2024-12-03 17:48:28 --> Security Class Initialized
+DEBUG - 2024-12-03 17:48:28 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-12-03 17:48:28 --> Input Class Initialized
+INFO - 2024-12-03 17:48:28 --> Language Class Initialized
+INFO - 2024-12-03 17:48:28 --> Loader Class Initialized
+DEBUG - 2024-12-03 23:48:28 --> Config file loaded: D:\xampp\htdocs\aska\application\config/Hris.php
+INFO - 2024-12-03 23:48:28 --> Helper loaded: form_helper
+INFO - 2024-12-03 23:48:28 --> Helper loaded: url_helper
+INFO - 2024-12-03 23:48:28 --> Helper loaded: date_helper
+INFO - 2024-12-03 23:48:28 --> Helper loaded: file_helper
+INFO - 2024-12-03 23:48:28 --> Helper loaded: directory_helper
+INFO - 2024-12-03 23:48:28 --> Helper loaded: path_helper
+INFO - 2024-12-03 23:48:28 --> Helper loaded: download_helper
+INFO - 2024-12-03 23:48:28 --> Helper loaded: logactivity_helper
+INFO - 2024-12-03 23:48:28 --> Helper loaded: tools_helper
+INFO - 2024-12-03 23:48:28 --> Database Driver Class Initialized
+INFO - 2024-12-03 23:48:28 --> Email Class Initialized
+INFO - 2024-12-03 23:48:28 --> Form Validation Class Initialized
+INFO - 2024-12-03 23:48:28 --> Table Class Initialized
+INFO - 2024-12-03 23:48:28 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2024-12-03 23:48:28 --> Pagination Class Initialized
+DEBUG - 2024-12-03 23:48:28 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-12-03 23:48:28 --> Session: Class initialized using 'files' driver.
+DEBUG - 2024-12-03 23:48:28 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2024-12-03 23:48:28 --> Form_validation class already loaded. Second attempt ignored.
+INFO - 2024-12-03 23:48:28 --> Helper loaded: captcha_helper
+INFO - 2024-12-03 23:48:28 --> Helper loaded: security_helper
+INFO - 2024-12-03 23:48:28 --> Controller Class Initialized
+INFO - 2024-12-03 23:48:28 --> Model "UserModel" initialized
+INFO - 2024-12-03 23:48:28 --> Final output sent to browser
+DEBUG - 2024-12-03 23:48:28 --> Total execution time: 0.0651
+INFO - 2024-12-03 17:48:38 --> Config Class Initialized
+INFO - 2024-12-03 17:48:38 --> Hooks Class Initialized
+DEBUG - 2024-12-03 17:48:38 --> UTF-8 Support Enabled
+INFO - 2024-12-03 17:48:38 --> Utf8 Class Initialized
+INFO - 2024-12-03 17:48:38 --> URI Class Initialized
+INFO - 2024-12-03 17:48:38 --> Router Class Initialized
+INFO - 2024-12-03 17:48:38 --> Output Class Initialized
+INFO - 2024-12-03 17:48:38 --> Security Class Initialized
+DEBUG - 2024-12-03 17:48:38 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-12-03 17:48:38 --> Input Class Initialized
+INFO - 2024-12-03 17:48:38 --> Language Class Initialized
+INFO - 2024-12-03 17:48:38 --> Loader Class Initialized
+DEBUG - 2024-12-03 23:48:38 --> Config file loaded: D:\xampp\htdocs\aska\application\config/Hris.php
+INFO - 2024-12-03 23:48:38 --> Helper loaded: form_helper
+INFO - 2024-12-03 23:48:38 --> Helper loaded: url_helper
+INFO - 2024-12-03 23:48:38 --> Helper loaded: date_helper
+INFO - 2024-12-03 23:48:38 --> Helper loaded: file_helper
+INFO - 2024-12-03 23:48:38 --> Helper loaded: directory_helper
+INFO - 2024-12-03 23:48:38 --> Helper loaded: path_helper
+INFO - 2024-12-03 23:48:38 --> Helper loaded: download_helper
+INFO - 2024-12-03 23:48:38 --> Helper loaded: logactivity_helper
+INFO - 2024-12-03 23:48:38 --> Helper loaded: tools_helper
+INFO - 2024-12-03 23:48:38 --> Database Driver Class Initialized
+INFO - 2024-12-03 23:48:38 --> Email Class Initialized
+INFO - 2024-12-03 23:48:38 --> Form Validation Class Initialized
+INFO - 2024-12-03 23:48:38 --> Table Class Initialized
+INFO - 2024-12-03 23:48:38 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2024-12-03 23:48:38 --> Pagination Class Initialized
+DEBUG - 2024-12-03 23:48:38 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-12-03 23:48:38 --> Session: Class initialized using 'files' driver.
+DEBUG - 2024-12-03 23:48:38 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2024-12-03 23:48:38 --> Form_validation class already loaded. Second attempt ignored.
+INFO - 2024-12-03 23:48:38 --> Helper loaded: captcha_helper
+INFO - 2024-12-03 23:48:38 --> Helper loaded: security_helper
+INFO - 2024-12-03 23:48:38 --> Controller Class Initialized
+INFO - 2024-12-03 23:48:38 --> Model "UserModel" initialized
+INFO - 2024-12-03 23:48:38 --> Final output sent to browser
+DEBUG - 2024-12-03 23:48:38 --> Total execution time: 0.2091
+INFO - 2024-12-03 17:48:40 --> Config Class Initialized
+INFO - 2024-12-03 17:48:40 --> Hooks Class Initialized
+DEBUG - 2024-12-03 17:48:40 --> UTF-8 Support Enabled
+INFO - 2024-12-03 17:48:40 --> Utf8 Class Initialized
+INFO - 2024-12-03 17:48:40 --> URI Class Initialized
+INFO - 2024-12-03 17:48:40 --> Router Class Initialized
+INFO - 2024-12-03 17:48:40 --> Output Class Initialized
+INFO - 2024-12-03 17:48:40 --> Security Class Initialized
+DEBUG - 2024-12-03 17:48:40 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-12-03 17:48:40 --> Input Class Initialized
+INFO - 2024-12-03 17:48:40 --> Language Class Initialized
+INFO - 2024-12-03 17:48:40 --> Loader Class Initialized
+DEBUG - 2024-12-03 23:48:40 --> Config file loaded: D:\xampp\htdocs\aska\application\config/Hris.php
+INFO - 2024-12-03 23:48:40 --> Helper loaded: form_helper
+INFO - 2024-12-03 23:48:40 --> Helper loaded: url_helper
+INFO - 2024-12-03 23:48:40 --> Helper loaded: date_helper
+INFO - 2024-12-03 23:48:40 --> Helper loaded: file_helper
+INFO - 2024-12-03 23:48:40 --> Helper loaded: directory_helper
+INFO - 2024-12-03 23:48:40 --> Helper loaded: path_helper
+INFO - 2024-12-03 23:48:40 --> Helper loaded: download_helper
+INFO - 2024-12-03 23:48:40 --> Helper loaded: logactivity_helper
+INFO - 2024-12-03 23:48:40 --> Helper loaded: tools_helper
+INFO - 2024-12-03 23:48:40 --> Database Driver Class Initialized
+INFO - 2024-12-03 23:48:40 --> Email Class Initialized
+INFO - 2024-12-03 23:48:40 --> Form Validation Class Initialized
+INFO - 2024-12-03 23:48:40 --> Table Class Initialized
+INFO - 2024-12-03 23:48:40 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2024-12-03 23:48:40 --> Pagination Class Initialized
+DEBUG - 2024-12-03 23:48:40 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-12-03 23:48:40 --> Session: Class initialized using 'files' driver.
+DEBUG - 2024-12-03 23:48:40 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2024-12-03 23:48:40 --> Form_validation class already loaded. Second attempt ignored.
+INFO - 2024-12-03 23:48:40 --> Helper loaded: captcha_helper
+INFO - 2024-12-03 23:48:40 --> Helper loaded: security_helper
+INFO - 2024-12-03 23:48:40 --> Controller Class Initialized
+INFO - 2024-12-03 23:48:40 --> Model "UserModel" initialized
+INFO - 2024-12-03 17:48:58 --> Config Class Initialized
+INFO - 2024-12-03 17:48:58 --> Hooks Class Initialized
+DEBUG - 2024-12-03 17:48:58 --> UTF-8 Support Enabled
+INFO - 2024-12-03 17:48:58 --> Utf8 Class Initialized
+INFO - 2024-12-03 17:48:58 --> URI Class Initialized
+INFO - 2024-12-03 17:48:58 --> Router Class Initialized
+INFO - 2024-12-03 17:48:58 --> Output Class Initialized
+INFO - 2024-12-03 17:48:58 --> Security Class Initialized
+DEBUG - 2024-12-03 17:48:58 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-12-03 17:48:58 --> Input Class Initialized
+INFO - 2024-12-03 17:48:58 --> Language Class Initialized
+INFO - 2024-12-03 17:48:58 --> Loader Class Initialized
+DEBUG - 2024-12-03 23:48:58 --> Config file loaded: D:\xampp\htdocs\aska\application\config/Hris.php
+INFO - 2024-12-03 23:48:58 --> Helper loaded: form_helper
+INFO - 2024-12-03 23:48:58 --> Helper loaded: url_helper
+INFO - 2024-12-03 23:48:58 --> Helper loaded: date_helper
+INFO - 2024-12-03 23:48:58 --> Helper loaded: file_helper
+INFO - 2024-12-03 23:48:58 --> Helper loaded: directory_helper
+INFO - 2024-12-03 23:48:58 --> Helper loaded: path_helper
+INFO - 2024-12-03 23:48:58 --> Helper loaded: download_helper
+INFO - 2024-12-03 23:48:58 --> Helper loaded: logactivity_helper
+INFO - 2024-12-03 23:48:58 --> Helper loaded: tools_helper
+INFO - 2024-12-03 23:48:58 --> Database Driver Class Initialized
+INFO - 2024-12-03 23:48:58 --> Email Class Initialized
+INFO - 2024-12-03 23:48:58 --> Form Validation Class Initialized
+INFO - 2024-12-03 23:48:58 --> Table Class Initialized
+INFO - 2024-12-03 23:48:58 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2024-12-03 23:48:58 --> Pagination Class Initialized
+DEBUG - 2024-12-03 23:48:58 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-12-03 23:48:58 --> Session: Class initialized using 'files' driver.
+DEBUG - 2024-12-03 23:48:58 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2024-12-03 23:48:58 --> Form_validation class already loaded. Second attempt ignored.
+INFO - 2024-12-03 23:48:58 --> Helper loaded: captcha_helper
+INFO - 2024-12-03 23:48:58 --> Helper loaded: security_helper
+INFO - 2024-12-03 23:48:58 --> Controller Class Initialized
+INFO - 2024-12-03 23:48:58 --> Model "UserModel" initialized
+INFO - 2024-12-03 23:48:58 --> Final output sent to browser
+DEBUG - 2024-12-03 23:48:58 --> Total execution time: 0.0715
+INFO - 2024-12-03 17:49:05 --> Config Class Initialized
+INFO - 2024-12-03 17:49:05 --> Hooks Class Initialized
+DEBUG - 2024-12-03 17:49:05 --> UTF-8 Support Enabled
+INFO - 2024-12-03 17:49:05 --> Utf8 Class Initialized
+INFO - 2024-12-03 17:49:05 --> URI Class Initialized
+INFO - 2024-12-03 17:49:05 --> Router Class Initialized
+INFO - 2024-12-03 17:49:05 --> Output Class Initialized
+INFO - 2024-12-03 17:49:05 --> Security Class Initialized
+DEBUG - 2024-12-03 17:49:05 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-12-03 17:49:05 --> Input Class Initialized
+INFO - 2024-12-03 17:49:05 --> Language Class Initialized
+INFO - 2024-12-03 17:49:05 --> Loader Class Initialized
+DEBUG - 2024-12-03 23:49:05 --> Config file loaded: D:\xampp\htdocs\aska\application\config/Hris.php
+INFO - 2024-12-03 23:49:05 --> Helper loaded: form_helper
+INFO - 2024-12-03 23:49:05 --> Helper loaded: url_helper
+INFO - 2024-12-03 23:49:05 --> Helper loaded: date_helper
+INFO - 2024-12-03 23:49:05 --> Helper loaded: file_helper
+INFO - 2024-12-03 23:49:05 --> Helper loaded: directory_helper
+INFO - 2024-12-03 23:49:05 --> Helper loaded: path_helper
+INFO - 2024-12-03 23:49:05 --> Helper loaded: download_helper
+INFO - 2024-12-03 23:49:05 --> Helper loaded: logactivity_helper
+INFO - 2024-12-03 23:49:05 --> Helper loaded: tools_helper
+INFO - 2024-12-03 23:49:05 --> Database Driver Class Initialized
+INFO - 2024-12-03 23:49:05 --> Email Class Initialized
+INFO - 2024-12-03 23:49:05 --> Form Validation Class Initialized
+INFO - 2024-12-03 23:49:05 --> Table Class Initialized
+INFO - 2024-12-03 23:49:05 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2024-12-03 23:49:05 --> Pagination Class Initialized
+DEBUG - 2024-12-03 23:49:05 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-12-03 23:49:05 --> Session: Class initialized using 'files' driver.
+DEBUG - 2024-12-03 23:49:05 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2024-12-03 23:49:05 --> Form_validation class already loaded. Second attempt ignored.
+INFO - 2024-12-03 23:49:05 --> Helper loaded: captcha_helper
+INFO - 2024-12-03 23:49:05 --> Helper loaded: security_helper
+INFO - 2024-12-03 23:49:05 --> Controller Class Initialized
+INFO - 2024-12-03 23:49:05 --> Model "UserModel" initialized
+INFO - 2024-12-03 23:49:05 --> Final output sent to browser
+DEBUG - 2024-12-03 23:49:05 --> Total execution time: 0.2174
+INFO - 2024-12-03 17:49:07 --> Config Class Initialized
+INFO - 2024-12-03 17:49:07 --> Hooks Class Initialized
+DEBUG - 2024-12-03 17:49:07 --> UTF-8 Support Enabled
+INFO - 2024-12-03 17:49:07 --> Utf8 Class Initialized
+INFO - 2024-12-03 17:49:07 --> URI Class Initialized
+INFO - 2024-12-03 17:49:07 --> Router Class Initialized
+INFO - 2024-12-03 17:49:07 --> Output Class Initialized
+INFO - 2024-12-03 17:49:07 --> Security Class Initialized
+DEBUG - 2024-12-03 17:49:07 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-12-03 17:49:07 --> Input Class Initialized
+INFO - 2024-12-03 17:49:07 --> Language Class Initialized
+INFO - 2024-12-03 17:49:07 --> Loader Class Initialized
+DEBUG - 2024-12-03 23:49:07 --> Config file loaded: D:\xampp\htdocs\aska\application\config/Hris.php
+INFO - 2024-12-03 23:49:07 --> Helper loaded: form_helper
+INFO - 2024-12-03 23:49:07 --> Helper loaded: url_helper
+INFO - 2024-12-03 23:49:07 --> Helper loaded: date_helper
+INFO - 2024-12-03 23:49:07 --> Helper loaded: file_helper
+INFO - 2024-12-03 23:49:07 --> Helper loaded: directory_helper
+INFO - 2024-12-03 23:49:07 --> Helper loaded: path_helper
+INFO - 2024-12-03 23:49:07 --> Helper loaded: download_helper
+INFO - 2024-12-03 23:49:07 --> Helper loaded: logactivity_helper
+INFO - 2024-12-03 23:49:07 --> Helper loaded: tools_helper
+INFO - 2024-12-03 23:49:07 --> Database Driver Class Initialized
+INFO - 2024-12-03 23:49:07 --> Email Class Initialized
+INFO - 2024-12-03 23:49:07 --> Form Validation Class Initialized
+INFO - 2024-12-03 23:49:07 --> Table Class Initialized
+INFO - 2024-12-03 23:49:07 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2024-12-03 23:49:07 --> Pagination Class Initialized
+DEBUG - 2024-12-03 23:49:07 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-12-03 23:49:07 --> Session: Class initialized using 'files' driver.
+DEBUG - 2024-12-03 23:49:07 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2024-12-03 23:49:07 --> Form_validation class already loaded. Second attempt ignored.
+INFO - 2024-12-03 23:49:07 --> Helper loaded: captcha_helper
+INFO - 2024-12-03 23:49:07 --> Helper loaded: security_helper
+INFO - 2024-12-03 23:49:07 --> Controller Class Initialized
+INFO - 2024-12-03 23:49:07 --> Model "UserModel" initialized
+INFO - 2024-12-03 17:51:38 --> Config Class Initialized
+INFO - 2024-12-03 17:51:38 --> Hooks Class Initialized
+DEBUG - 2024-12-03 17:51:38 --> UTF-8 Support Enabled
+INFO - 2024-12-03 17:51:38 --> Utf8 Class Initialized
+INFO - 2024-12-03 17:51:38 --> URI Class Initialized
+INFO - 2024-12-03 17:51:38 --> Router Class Initialized
+INFO - 2024-12-03 17:51:38 --> Output Class Initialized
+INFO - 2024-12-03 17:51:38 --> Security Class Initialized
+DEBUG - 2024-12-03 17:51:38 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-12-03 17:51:38 --> Input Class Initialized
+INFO - 2024-12-03 17:51:38 --> Language Class Initialized
+INFO - 2024-12-03 17:51:38 --> Loader Class Initialized
+DEBUG - 2024-12-03 23:51:38 --> Config file loaded: D:\xampp\htdocs\aska\application\config/Hris.php
+INFO - 2024-12-03 23:51:38 --> Helper loaded: form_helper
+INFO - 2024-12-03 23:51:38 --> Helper loaded: url_helper
+INFO - 2024-12-03 23:51:38 --> Helper loaded: date_helper
+INFO - 2024-12-03 23:51:38 --> Helper loaded: file_helper
+INFO - 2024-12-03 23:51:38 --> Helper loaded: directory_helper
+INFO - 2024-12-03 23:51:38 --> Helper loaded: path_helper
+INFO - 2024-12-03 23:51:38 --> Helper loaded: download_helper
+INFO - 2024-12-03 23:51:38 --> Helper loaded: logactivity_helper
+INFO - 2024-12-03 23:51:38 --> Helper loaded: tools_helper
+INFO - 2024-12-03 23:51:38 --> Database Driver Class Initialized
+INFO - 2024-12-03 23:51:38 --> Email Class Initialized
+INFO - 2024-12-03 23:51:38 --> Form Validation Class Initialized
+INFO - 2024-12-03 23:51:38 --> Table Class Initialized
+INFO - 2024-12-03 23:51:38 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2024-12-03 23:51:38 --> Pagination Class Initialized
+DEBUG - 2024-12-03 23:51:38 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-12-03 23:51:38 --> Session: Class initialized using 'files' driver.
+DEBUG - 2024-12-03 23:51:38 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2024-12-03 23:51:38 --> Form_validation class already loaded. Second attempt ignored.
+INFO - 2024-12-03 23:51:38 --> Helper loaded: captcha_helper
+INFO - 2024-12-03 23:51:38 --> Helper loaded: security_helper
+INFO - 2024-12-03 23:51:38 --> Controller Class Initialized
+INFO - 2024-12-03 23:51:38 --> Model "UserModel" initialized
+INFO - 2024-12-03 23:51:38 --> Final output sent to browser
+DEBUG - 2024-12-03 23:51:38 --> Total execution time: 0.0885
+INFO - 2024-12-03 17:52:35 --> Config Class Initialized
+INFO - 2024-12-03 17:52:35 --> Hooks Class Initialized
+DEBUG - 2024-12-03 17:52:35 --> UTF-8 Support Enabled
+INFO - 2024-12-03 17:52:35 --> Utf8 Class Initialized
+INFO - 2024-12-03 17:52:35 --> URI Class Initialized
+INFO - 2024-12-03 17:52:35 --> Router Class Initialized
+INFO - 2024-12-03 17:52:35 --> Output Class Initialized
+INFO - 2024-12-03 17:52:35 --> Security Class Initialized
+DEBUG - 2024-12-03 17:52:35 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-12-03 17:52:35 --> Input Class Initialized
+INFO - 2024-12-03 17:52:35 --> Language Class Initialized
+INFO - 2024-12-03 17:52:35 --> Loader Class Initialized
+DEBUG - 2024-12-03 23:52:35 --> Config file loaded: D:\xampp\htdocs\aska\application\config/Hris.php
+INFO - 2024-12-03 23:52:35 --> Helper loaded: form_helper
+INFO - 2024-12-03 23:52:35 --> Helper loaded: url_helper
+INFO - 2024-12-03 23:52:35 --> Helper loaded: date_helper
+INFO - 2024-12-03 23:52:35 --> Helper loaded: file_helper
+INFO - 2024-12-03 23:52:35 --> Helper loaded: directory_helper
+INFO - 2024-12-03 23:52:35 --> Helper loaded: path_helper
+INFO - 2024-12-03 23:52:35 --> Helper loaded: download_helper
+INFO - 2024-12-03 23:52:35 --> Helper loaded: logactivity_helper
+INFO - 2024-12-03 23:52:35 --> Helper loaded: tools_helper
+INFO - 2024-12-03 23:52:35 --> Database Driver Class Initialized
+INFO - 2024-12-03 23:52:35 --> Email Class Initialized
+INFO - 2024-12-03 23:52:35 --> Form Validation Class Initialized
+INFO - 2024-12-03 23:52:35 --> Table Class Initialized
+INFO - 2024-12-03 23:52:35 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2024-12-03 23:52:35 --> Pagination Class Initialized
+DEBUG - 2024-12-03 23:52:35 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-12-03 23:52:35 --> Session: Class initialized using 'files' driver.
+DEBUG - 2024-12-03 23:52:35 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2024-12-03 23:52:35 --> Form_validation class already loaded. Second attempt ignored.
+INFO - 2024-12-03 23:52:35 --> Helper loaded: captcha_helper
+INFO - 2024-12-03 23:52:35 --> Helper loaded: security_helper
+INFO - 2024-12-03 23:52:35 --> Controller Class Initialized
+INFO - 2024-12-03 23:52:35 --> Model "UserModel" initialized
+INFO - 2024-12-03 23:52:36 --> Final output sent to browser
+DEBUG - 2024-12-03 23:52:36 --> Total execution time: 0.1749
+INFO - 2024-12-03 17:52:38 --> Config Class Initialized
+INFO - 2024-12-03 17:52:38 --> Hooks Class Initialized
+DEBUG - 2024-12-03 17:52:38 --> UTF-8 Support Enabled
+INFO - 2024-12-03 17:52:38 --> Utf8 Class Initialized
+INFO - 2024-12-03 17:52:38 --> URI Class Initialized
+INFO - 2024-12-03 17:52:38 --> Router Class Initialized
+INFO - 2024-12-03 17:52:38 --> Output Class Initialized
+INFO - 2024-12-03 17:52:38 --> Security Class Initialized
+DEBUG - 2024-12-03 17:52:38 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-12-03 17:52:38 --> Input Class Initialized
+INFO - 2024-12-03 17:52:38 --> Language Class Initialized
+INFO - 2024-12-03 17:52:38 --> Loader Class Initialized
+DEBUG - 2024-12-03 23:52:38 --> Config file loaded: D:\xampp\htdocs\aska\application\config/Hris.php
+INFO - 2024-12-03 23:52:38 --> Helper loaded: form_helper
+INFO - 2024-12-03 23:52:38 --> Helper loaded: url_helper
+INFO - 2024-12-03 23:52:38 --> Helper loaded: date_helper
+INFO - 2024-12-03 23:52:38 --> Helper loaded: file_helper
+INFO - 2024-12-03 23:52:38 --> Helper loaded: directory_helper
+INFO - 2024-12-03 23:52:38 --> Helper loaded: path_helper
+INFO - 2024-12-03 23:52:38 --> Helper loaded: download_helper
+INFO - 2024-12-03 23:52:38 --> Helper loaded: logactivity_helper
+INFO - 2024-12-03 23:52:38 --> Helper loaded: tools_helper
+INFO - 2024-12-03 23:52:38 --> Database Driver Class Initialized
+INFO - 2024-12-03 23:52:38 --> Email Class Initialized
+INFO - 2024-12-03 23:52:38 --> Form Validation Class Initialized
+INFO - 2024-12-03 23:52:38 --> Table Class Initialized
+INFO - 2024-12-03 23:52:38 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2024-12-03 23:52:38 --> Pagination Class Initialized
+DEBUG - 2024-12-03 23:52:38 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-12-03 23:52:38 --> Session: Class initialized using 'files' driver.
+DEBUG - 2024-12-03 23:52:38 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2024-12-03 23:52:38 --> Form_validation class already loaded. Second attempt ignored.
+INFO - 2024-12-03 23:52:38 --> Helper loaded: captcha_helper
+INFO - 2024-12-03 23:52:38 --> Helper loaded: security_helper
+INFO - 2024-12-03 23:52:38 --> Controller Class Initialized
+INFO - 2024-12-03 23:52:38 --> Model "UserModel" initialized
+INFO - 2024-12-03 17:52:58 --> Config Class Initialized
+INFO - 2024-12-03 17:52:58 --> Hooks Class Initialized
+DEBUG - 2024-12-03 17:52:58 --> UTF-8 Support Enabled
+INFO - 2024-12-03 17:52:58 --> Utf8 Class Initialized
+INFO - 2024-12-03 17:52:58 --> URI Class Initialized
+INFO - 2024-12-03 17:52:58 --> Router Class Initialized
+INFO - 2024-12-03 17:52:58 --> Output Class Initialized
+INFO - 2024-12-03 17:52:58 --> Security Class Initialized
+DEBUG - 2024-12-03 17:52:58 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-12-03 17:52:58 --> Input Class Initialized
+INFO - 2024-12-03 17:52:58 --> Language Class Initialized
+INFO - 2024-12-03 17:52:58 --> Loader Class Initialized
+DEBUG - 2024-12-03 23:52:58 --> Config file loaded: D:\xampp\htdocs\aska\application\config/Hris.php
+INFO - 2024-12-03 23:52:58 --> Helper loaded: form_helper
+INFO - 2024-12-03 23:52:58 --> Helper loaded: url_helper
+INFO - 2024-12-03 23:52:58 --> Helper loaded: date_helper
+INFO - 2024-12-03 23:52:58 --> Helper loaded: file_helper
+INFO - 2024-12-03 23:52:58 --> Helper loaded: directory_helper
+INFO - 2024-12-03 23:52:58 --> Helper loaded: path_helper
+INFO - 2024-12-03 23:52:58 --> Helper loaded: download_helper
+INFO - 2024-12-03 23:52:58 --> Helper loaded: logactivity_helper
+INFO - 2024-12-03 23:52:58 --> Helper loaded: tools_helper
+INFO - 2024-12-03 23:52:58 --> Database Driver Class Initialized
+INFO - 2024-12-03 23:52:58 --> Email Class Initialized
+INFO - 2024-12-03 23:52:58 --> Form Validation Class Initialized
+INFO - 2024-12-03 23:52:58 --> Table Class Initialized
+INFO - 2024-12-03 23:52:58 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2024-12-03 23:52:58 --> Pagination Class Initialized
+DEBUG - 2024-12-03 23:52:58 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-12-03 23:52:58 --> Session: Class initialized using 'files' driver.
+DEBUG - 2024-12-03 23:52:58 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2024-12-03 23:52:58 --> Form_validation class already loaded. Second attempt ignored.
+INFO - 2024-12-03 23:52:58 --> Helper loaded: captcha_helper
+INFO - 2024-12-03 23:52:58 --> Helper loaded: security_helper
+INFO - 2024-12-03 23:52:58 --> Controller Class Initialized
+INFO - 2024-12-03 23:52:58 --> Model "UserModel" initialized
+INFO - 2024-12-03 23:52:58 --> Final output sent to browser
+DEBUG - 2024-12-03 23:52:58 --> Total execution time: 0.2415
+INFO - 2024-12-03 17:53:02 --> Config Class Initialized
+INFO - 2024-12-03 17:53:02 --> Hooks Class Initialized
+DEBUG - 2024-12-03 17:53:02 --> UTF-8 Support Enabled
+INFO - 2024-12-03 17:53:02 --> Utf8 Class Initialized
+INFO - 2024-12-03 17:53:02 --> URI Class Initialized
+INFO - 2024-12-03 17:53:02 --> Router Class Initialized
+INFO - 2024-12-03 17:53:02 --> Output Class Initialized
+INFO - 2024-12-03 17:53:02 --> Security Class Initialized
+DEBUG - 2024-12-03 17:53:02 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-12-03 17:53:02 --> Input Class Initialized
+INFO - 2024-12-03 17:53:02 --> Language Class Initialized
+INFO - 2024-12-03 17:53:02 --> Loader Class Initialized
+DEBUG - 2024-12-03 23:53:02 --> Config file loaded: D:\xampp\htdocs\aska\application\config/Hris.php
+INFO - 2024-12-03 23:53:02 --> Helper loaded: form_helper
+INFO - 2024-12-03 23:53:02 --> Helper loaded: url_helper
+INFO - 2024-12-03 23:53:02 --> Helper loaded: date_helper
+INFO - 2024-12-03 23:53:02 --> Helper loaded: file_helper
+INFO - 2024-12-03 23:53:02 --> Helper loaded: directory_helper
+INFO - 2024-12-03 23:53:02 --> Helper loaded: path_helper
+INFO - 2024-12-03 23:53:02 --> Helper loaded: download_helper
+INFO - 2024-12-03 23:53:02 --> Helper loaded: logactivity_helper
+INFO - 2024-12-03 23:53:02 --> Helper loaded: tools_helper
+INFO - 2024-12-03 23:53:02 --> Database Driver Class Initialized
+INFO - 2024-12-03 23:53:02 --> Email Class Initialized
+INFO - 2024-12-03 23:53:02 --> Form Validation Class Initialized
+INFO - 2024-12-03 23:53:02 --> Table Class Initialized
+INFO - 2024-12-03 23:53:02 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2024-12-03 23:53:02 --> Pagination Class Initialized
+DEBUG - 2024-12-03 23:53:02 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-12-03 23:53:02 --> Session: Class initialized using 'files' driver.
+DEBUG - 2024-12-03 23:53:02 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2024-12-03 23:53:02 --> Form_validation class already loaded. Second attempt ignored.
+INFO - 2024-12-03 23:53:02 --> Helper loaded: captcha_helper
+INFO - 2024-12-03 23:53:02 --> Helper loaded: security_helper
+INFO - 2024-12-03 23:53:02 --> Controller Class Initialized
+INFO - 2024-12-03 23:53:02 --> Model "UserModel" initialized
+INFO - 2024-12-03 17:55:51 --> Config Class Initialized
+INFO - 2024-12-03 17:55:51 --> Hooks Class Initialized
+DEBUG - 2024-12-03 17:55:51 --> UTF-8 Support Enabled
+INFO - 2024-12-03 17:55:51 --> Utf8 Class Initialized
+INFO - 2024-12-03 17:55:51 --> URI Class Initialized
+INFO - 2024-12-03 17:55:51 --> Router Class Initialized
+INFO - 2024-12-03 17:55:51 --> Output Class Initialized
+INFO - 2024-12-03 17:55:51 --> Security Class Initialized
+DEBUG - 2024-12-03 17:55:51 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-12-03 17:55:51 --> Input Class Initialized
+INFO - 2024-12-03 17:55:51 --> Language Class Initialized
+INFO - 2024-12-03 17:55:51 --> Loader Class Initialized
+DEBUG - 2024-12-03 23:55:51 --> Config file loaded: D:\xampp\htdocs\aska\application\config/Hris.php
+INFO - 2024-12-03 23:55:51 --> Helper loaded: form_helper
+INFO - 2024-12-03 23:55:51 --> Helper loaded: url_helper
+INFO - 2024-12-03 23:55:51 --> Helper loaded: date_helper
+INFO - 2024-12-03 23:55:51 --> Helper loaded: file_helper
+INFO - 2024-12-03 23:55:51 --> Helper loaded: directory_helper
+INFO - 2024-12-03 23:55:51 --> Helper loaded: path_helper
+INFO - 2024-12-03 23:55:51 --> Helper loaded: download_helper
+INFO - 2024-12-03 23:55:51 --> Helper loaded: logactivity_helper
+INFO - 2024-12-03 23:55:51 --> Helper loaded: tools_helper
+INFO - 2024-12-03 23:55:51 --> Database Driver Class Initialized
+INFO - 2024-12-03 23:55:51 --> Email Class Initialized
+INFO - 2024-12-03 23:55:51 --> Form Validation Class Initialized
+INFO - 2024-12-03 23:55:51 --> Table Class Initialized
+INFO - 2024-12-03 23:55:51 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2024-12-03 23:55:51 --> Pagination Class Initialized
+DEBUG - 2024-12-03 23:55:51 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-12-03 23:55:51 --> Session: Class initialized using 'files' driver.
+DEBUG - 2024-12-03 23:55:51 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2024-12-03 23:55:51 --> Form_validation class already loaded. Second attempt ignored.
+INFO - 2024-12-03 23:55:51 --> Helper loaded: captcha_helper
+INFO - 2024-12-03 23:55:51 --> Helper loaded: security_helper
+INFO - 2024-12-03 23:55:51 --> Controller Class Initialized
+INFO - 2024-12-03 23:55:51 --> Model "UserModel" initialized
+INFO - 2024-12-03 23:55:51 --> File loaded: D:\xampp\htdocs\aska\application\views\layouts/dashboard/navbar.php
+INFO - 2024-12-03 23:55:51 --> File loaded: D:\xampp\htdocs\aska\application\views\layouts/dashboard/header.php
+INFO - 2024-12-03 23:55:51 --> File loaded: D:\xampp\htdocs\aska\application\views\dashboard/setting/user.php
+INFO - 2024-12-03 23:55:51 --> File loaded: D:\xampp\htdocs\aska\application\views\layouts/dashboard/main.php
+INFO - 2024-12-03 23:55:51 --> Final output sent to browser
+DEBUG - 2024-12-03 23:55:51 --> Total execution time: 0.0600
+INFO - 2024-12-03 17:55:52 --> Config Class Initialized
+INFO - 2024-12-03 17:55:52 --> Hooks Class Initialized
+DEBUG - 2024-12-03 17:55:52 --> UTF-8 Support Enabled
+INFO - 2024-12-03 17:55:52 --> Utf8 Class Initialized
+INFO - 2024-12-03 17:55:52 --> URI Class Initialized
+INFO - 2024-12-03 17:55:52 --> Router Class Initialized
+INFO - 2024-12-03 17:55:52 --> Output Class Initialized
+INFO - 2024-12-03 17:55:52 --> Security Class Initialized
+DEBUG - 2024-12-03 17:55:52 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-12-03 17:55:52 --> Input Class Initialized
+INFO - 2024-12-03 17:55:52 --> Language Class Initialized
+INFO - 2024-12-03 17:55:52 --> Loader Class Initialized
+DEBUG - 2024-12-03 23:55:52 --> Config file loaded: D:\xampp\htdocs\aska\application\config/Hris.php
+INFO - 2024-12-03 23:55:52 --> Helper loaded: form_helper
+INFO - 2024-12-03 23:55:52 --> Helper loaded: url_helper
+INFO - 2024-12-03 23:55:52 --> Helper loaded: date_helper
+INFO - 2024-12-03 23:55:52 --> Helper loaded: file_helper
+INFO - 2024-12-03 23:55:52 --> Helper loaded: directory_helper
+INFO - 2024-12-03 23:55:52 --> Helper loaded: path_helper
+INFO - 2024-12-03 23:55:52 --> Helper loaded: download_helper
+INFO - 2024-12-03 23:55:52 --> Helper loaded: logactivity_helper
+INFO - 2024-12-03 23:55:52 --> Helper loaded: tools_helper
+INFO - 2024-12-03 23:55:52 --> Database Driver Class Initialized
+INFO - 2024-12-03 23:55:52 --> Email Class Initialized
+INFO - 2024-12-03 23:55:52 --> Form Validation Class Initialized
+INFO - 2024-12-03 23:55:52 --> Table Class Initialized
+INFO - 2024-12-03 23:55:52 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2024-12-03 23:55:52 --> Pagination Class Initialized
+DEBUG - 2024-12-03 23:55:52 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-12-03 23:55:52 --> Session: Class initialized using 'files' driver.
+DEBUG - 2024-12-03 23:55:52 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2024-12-03 23:55:52 --> Form_validation class already loaded. Second attempt ignored.
+INFO - 2024-12-03 23:55:52 --> Helper loaded: captcha_helper
+INFO - 2024-12-03 23:55:52 --> Helper loaded: security_helper
+INFO - 2024-12-03 23:55:52 --> Controller Class Initialized
+INFO - 2024-12-03 23:55:52 --> Model "UserModel" initialized
+INFO - 2024-12-03 17:55:55 --> Config Class Initialized
+INFO - 2024-12-03 17:55:55 --> Hooks Class Initialized
+DEBUG - 2024-12-03 17:55:55 --> UTF-8 Support Enabled
+INFO - 2024-12-03 17:55:55 --> Utf8 Class Initialized
+INFO - 2024-12-03 17:55:55 --> URI Class Initialized
+INFO - 2024-12-03 17:55:55 --> Router Class Initialized
+INFO - 2024-12-03 17:55:55 --> Output Class Initialized
+INFO - 2024-12-03 17:55:55 --> Security Class Initialized
+DEBUG - 2024-12-03 17:55:55 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-12-03 17:55:55 --> Input Class Initialized
+INFO - 2024-12-03 17:55:55 --> Language Class Initialized
+INFO - 2024-12-03 17:55:55 --> Loader Class Initialized
+DEBUG - 2024-12-03 23:55:55 --> Config file loaded: D:\xampp\htdocs\aska\application\config/Hris.php
+INFO - 2024-12-03 23:55:55 --> Helper loaded: form_helper
+INFO - 2024-12-03 23:55:55 --> Helper loaded: url_helper
+INFO - 2024-12-03 23:55:55 --> Helper loaded: date_helper
+INFO - 2024-12-03 23:55:55 --> Helper loaded: file_helper
+INFO - 2024-12-03 23:55:55 --> Helper loaded: directory_helper
+INFO - 2024-12-03 23:55:55 --> Helper loaded: path_helper
+INFO - 2024-12-03 23:55:55 --> Helper loaded: download_helper
+INFO - 2024-12-03 23:55:55 --> Helper loaded: logactivity_helper
+INFO - 2024-12-03 23:55:55 --> Helper loaded: tools_helper
+INFO - 2024-12-03 23:55:55 --> Database Driver Class Initialized
+INFO - 2024-12-03 23:55:55 --> Email Class Initialized
+INFO - 2024-12-03 23:55:55 --> Form Validation Class Initialized
+INFO - 2024-12-03 23:55:55 --> Table Class Initialized
+INFO - 2024-12-03 23:55:55 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2024-12-03 23:55:55 --> Pagination Class Initialized
+DEBUG - 2024-12-03 23:55:55 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-12-03 23:55:55 --> Session: Class initialized using 'files' driver.
+DEBUG - 2024-12-03 23:55:55 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2024-12-03 23:55:55 --> Form_validation class already loaded. Second attempt ignored.
+INFO - 2024-12-03 23:55:55 --> Helper loaded: captcha_helper
+INFO - 2024-12-03 23:55:55 --> Helper loaded: security_helper
+INFO - 2024-12-03 23:55:55 --> Controller Class Initialized
+INFO - 2024-12-03 23:55:55 --> Model "UserModel" initialized
+INFO - 2024-12-03 23:55:55 --> Final output sent to browser
+DEBUG - 2024-12-03 23:55:55 --> Total execution time: 0.0637
+INFO - 2024-12-03 17:56:02 --> Config Class Initialized
+INFO - 2024-12-03 17:56:02 --> Hooks Class Initialized
+DEBUG - 2024-12-03 17:56:02 --> UTF-8 Support Enabled
+INFO - 2024-12-03 17:56:02 --> Utf8 Class Initialized
+INFO - 2024-12-03 17:56:02 --> URI Class Initialized
+INFO - 2024-12-03 17:56:02 --> Router Class Initialized
+INFO - 2024-12-03 17:56:02 --> Output Class Initialized
+INFO - 2024-12-03 17:56:02 --> Security Class Initialized
+DEBUG - 2024-12-03 17:56:02 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-12-03 17:56:02 --> Input Class Initialized
+INFO - 2024-12-03 17:56:02 --> Language Class Initialized
+INFO - 2024-12-03 17:56:02 --> Loader Class Initialized
+DEBUG - 2024-12-03 23:56:02 --> Config file loaded: D:\xampp\htdocs\aska\application\config/Hris.php
+INFO - 2024-12-03 23:56:02 --> Helper loaded: form_helper
+INFO - 2024-12-03 23:56:02 --> Helper loaded: url_helper
+INFO - 2024-12-03 23:56:02 --> Helper loaded: date_helper
+INFO - 2024-12-03 23:56:02 --> Helper loaded: file_helper
+INFO - 2024-12-03 23:56:02 --> Helper loaded: directory_helper
+INFO - 2024-12-03 23:56:02 --> Helper loaded: path_helper
+INFO - 2024-12-03 23:56:02 --> Helper loaded: download_helper
+INFO - 2024-12-03 23:56:02 --> Helper loaded: logactivity_helper
+INFO - 2024-12-03 23:56:02 --> Helper loaded: tools_helper
+INFO - 2024-12-03 23:56:02 --> Database Driver Class Initialized
+INFO - 2024-12-03 23:56:02 --> Email Class Initialized
+INFO - 2024-12-03 23:56:02 --> Form Validation Class Initialized
+INFO - 2024-12-03 23:56:02 --> Table Class Initialized
+INFO - 2024-12-03 23:56:02 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2024-12-03 23:56:02 --> Pagination Class Initialized
+DEBUG - 2024-12-03 23:56:02 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-12-03 23:56:02 --> Session: Class initialized using 'files' driver.
+DEBUG - 2024-12-03 23:56:02 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2024-12-03 23:56:02 --> Form_validation class already loaded. Second attempt ignored.
+INFO - 2024-12-03 23:56:02 --> Helper loaded: captcha_helper
+INFO - 2024-12-03 23:56:02 --> Helper loaded: security_helper
+INFO - 2024-12-03 23:56:02 --> Controller Class Initialized
+INFO - 2024-12-03 23:56:02 --> Model "UserModel" initialized
+INFO - 2024-12-03 23:56:02 --> Final output sent to browser
+DEBUG - 2024-12-03 23:56:02 --> Total execution time: 0.0588
+INFO - 2024-12-03 17:56:08 --> Config Class Initialized
+INFO - 2024-12-03 17:56:08 --> Hooks Class Initialized
+DEBUG - 2024-12-03 17:56:08 --> UTF-8 Support Enabled
+INFO - 2024-12-03 17:56:08 --> Utf8 Class Initialized
+INFO - 2024-12-03 17:56:08 --> URI Class Initialized
+INFO - 2024-12-03 17:56:08 --> Router Class Initialized
+INFO - 2024-12-03 17:56:08 --> Output Class Initialized
+INFO - 2024-12-03 17:56:08 --> Security Class Initialized
+DEBUG - 2024-12-03 17:56:08 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-12-03 17:56:08 --> Input Class Initialized
+INFO - 2024-12-03 17:56:08 --> Language Class Initialized
+INFO - 2024-12-03 17:56:08 --> Loader Class Initialized
+DEBUG - 2024-12-03 23:56:08 --> Config file loaded: D:\xampp\htdocs\aska\application\config/Hris.php
+INFO - 2024-12-03 23:56:08 --> Helper loaded: form_helper
+INFO - 2024-12-03 23:56:08 --> Helper loaded: url_helper
+INFO - 2024-12-03 23:56:08 --> Helper loaded: date_helper
+INFO - 2024-12-03 23:56:08 --> Helper loaded: file_helper
+INFO - 2024-12-03 23:56:08 --> Helper loaded: directory_helper
+INFO - 2024-12-03 23:56:08 --> Helper loaded: path_helper
+INFO - 2024-12-03 23:56:08 --> Helper loaded: download_helper
+INFO - 2024-12-03 23:56:08 --> Helper loaded: logactivity_helper
+INFO - 2024-12-03 23:56:08 --> Helper loaded: tools_helper
+INFO - 2024-12-03 23:56:08 --> Database Driver Class Initialized
+INFO - 2024-12-03 23:56:08 --> Email Class Initialized
+INFO - 2024-12-03 23:56:08 --> Form Validation Class Initialized
+INFO - 2024-12-03 23:56:08 --> Table Class Initialized
+INFO - 2024-12-03 23:56:08 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2024-12-03 23:56:08 --> Pagination Class Initialized
+DEBUG - 2024-12-03 23:56:08 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-12-03 23:56:08 --> Session: Class initialized using 'files' driver.
+DEBUG - 2024-12-03 23:56:08 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2024-12-03 23:56:08 --> Form_validation class already loaded. Second attempt ignored.
+INFO - 2024-12-03 23:56:08 --> Helper loaded: captcha_helper
+INFO - 2024-12-03 23:56:08 --> Helper loaded: security_helper
+INFO - 2024-12-03 23:56:08 --> Controller Class Initialized
+INFO - 2024-12-03 23:56:08 --> Model "UserModel" initialized
+INFO - 2024-12-03 23:56:08 --> Final output sent to browser
+DEBUG - 2024-12-03 23:56:08 --> Total execution time: 0.2048
+INFO - 2024-12-03 17:56:11 --> Config Class Initialized
+INFO - 2024-12-03 17:56:11 --> Hooks Class Initialized
+DEBUG - 2024-12-03 17:56:11 --> UTF-8 Support Enabled
+INFO - 2024-12-03 17:56:11 --> Utf8 Class Initialized
+INFO - 2024-12-03 17:56:11 --> URI Class Initialized
+INFO - 2024-12-03 17:56:11 --> Router Class Initialized
+INFO - 2024-12-03 17:56:11 --> Output Class Initialized
+INFO - 2024-12-03 17:56:11 --> Security Class Initialized
+DEBUG - 2024-12-03 17:56:11 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-12-03 17:56:11 --> Input Class Initialized
+INFO - 2024-12-03 17:56:11 --> Language Class Initialized
+INFO - 2024-12-03 17:56:11 --> Loader Class Initialized
+DEBUG - 2024-12-03 23:56:11 --> Config file loaded: D:\xampp\htdocs\aska\application\config/Hris.php
+INFO - 2024-12-03 23:56:11 --> Helper loaded: form_helper
+INFO - 2024-12-03 23:56:11 --> Helper loaded: url_helper
+INFO - 2024-12-03 23:56:11 --> Helper loaded: date_helper
+INFO - 2024-12-03 23:56:11 --> Helper loaded: file_helper
+INFO - 2024-12-03 23:56:11 --> Helper loaded: directory_helper
+INFO - 2024-12-03 23:56:11 --> Helper loaded: path_helper
+INFO - 2024-12-03 23:56:11 --> Helper loaded: download_helper
+INFO - 2024-12-03 23:56:11 --> Helper loaded: logactivity_helper
+INFO - 2024-12-03 23:56:11 --> Helper loaded: tools_helper
+INFO - 2024-12-03 23:56:11 --> Database Driver Class Initialized
+INFO - 2024-12-03 23:56:11 --> Email Class Initialized
+INFO - 2024-12-03 23:56:11 --> Form Validation Class Initialized
+INFO - 2024-12-03 23:56:11 --> Table Class Initialized
+INFO - 2024-12-03 23:56:11 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2024-12-03 23:56:11 --> Pagination Class Initialized
+DEBUG - 2024-12-03 23:56:11 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-12-03 23:56:11 --> Session: Class initialized using 'files' driver.
+DEBUG - 2024-12-03 23:56:11 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2024-12-03 23:56:11 --> Form_validation class already loaded. Second attempt ignored.
+INFO - 2024-12-03 23:56:11 --> Helper loaded: captcha_helper
+INFO - 2024-12-03 23:56:11 --> Helper loaded: security_helper
+INFO - 2024-12-03 23:56:11 --> Controller Class Initialized
+INFO - 2024-12-03 23:56:11 --> Model "UserModel" initialized
+INFO - 2024-12-03 17:56:21 --> Config Class Initialized
+INFO - 2024-12-03 17:56:21 --> Hooks Class Initialized
+DEBUG - 2024-12-03 17:56:21 --> UTF-8 Support Enabled
+INFO - 2024-12-03 17:56:21 --> Utf8 Class Initialized
+INFO - 2024-12-03 17:56:21 --> URI Class Initialized
+INFO - 2024-12-03 17:56:21 --> Router Class Initialized
+INFO - 2024-12-03 17:56:21 --> Output Class Initialized
+INFO - 2024-12-03 17:56:21 --> Security Class Initialized
+DEBUG - 2024-12-03 17:56:21 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-12-03 17:56:21 --> Input Class Initialized
+INFO - 2024-12-03 17:56:21 --> Language Class Initialized
+INFO - 2024-12-03 17:56:21 --> Loader Class Initialized
+DEBUG - 2024-12-03 23:56:21 --> Config file loaded: D:\xampp\htdocs\aska\application\config/Hris.php
+INFO - 2024-12-03 23:56:21 --> Helper loaded: form_helper
+INFO - 2024-12-03 23:56:21 --> Helper loaded: url_helper
+INFO - 2024-12-03 23:56:21 --> Helper loaded: date_helper
+INFO - 2024-12-03 23:56:21 --> Helper loaded: file_helper
+INFO - 2024-12-03 23:56:21 --> Helper loaded: directory_helper
+INFO - 2024-12-03 23:56:21 --> Helper loaded: path_helper
+INFO - 2024-12-03 23:56:21 --> Helper loaded: download_helper
+INFO - 2024-12-03 23:56:21 --> Helper loaded: logactivity_helper
+INFO - 2024-12-03 23:56:21 --> Helper loaded: tools_helper
+INFO - 2024-12-03 23:56:21 --> Database Driver Class Initialized
+INFO - 2024-12-03 23:56:21 --> Email Class Initialized
+INFO - 2024-12-03 23:56:21 --> Form Validation Class Initialized
+INFO - 2024-12-03 23:56:21 --> Table Class Initialized
+INFO - 2024-12-03 23:56:21 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2024-12-03 23:56:21 --> Pagination Class Initialized
+DEBUG - 2024-12-03 23:56:21 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-12-03 23:56:21 --> Session: Class initialized using 'files' driver.
+DEBUG - 2024-12-03 23:56:21 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2024-12-03 23:56:21 --> Form_validation class already loaded. Second attempt ignored.
+INFO - 2024-12-03 23:56:21 --> Helper loaded: captcha_helper
+INFO - 2024-12-03 23:56:21 --> Helper loaded: security_helper
+INFO - 2024-12-03 23:56:21 --> Controller Class Initialized
+INFO - 2024-12-03 23:56:21 --> Model "UserModel" initialized
+INFO - 2024-12-03 23:56:21 --> Final output sent to browser
+DEBUG - 2024-12-03 23:56:21 --> Total execution time: 0.0654
+INFO - 2024-12-03 17:56:28 --> Config Class Initialized
+INFO - 2024-12-03 17:56:28 --> Hooks Class Initialized
+DEBUG - 2024-12-03 17:56:28 --> UTF-8 Support Enabled
+INFO - 2024-12-03 17:56:28 --> Utf8 Class Initialized
+INFO - 2024-12-03 17:56:28 --> URI Class Initialized
+INFO - 2024-12-03 17:56:28 --> Router Class Initialized
+INFO - 2024-12-03 17:56:28 --> Output Class Initialized
+INFO - 2024-12-03 17:56:28 --> Security Class Initialized
+DEBUG - 2024-12-03 17:56:28 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-12-03 17:56:28 --> Input Class Initialized
+INFO - 2024-12-03 17:56:28 --> Language Class Initialized
+INFO - 2024-12-03 17:56:28 --> Loader Class Initialized
+DEBUG - 2024-12-03 23:56:28 --> Config file loaded: D:\xampp\htdocs\aska\application\config/Hris.php
+INFO - 2024-12-03 23:56:28 --> Helper loaded: form_helper
+INFO - 2024-12-03 23:56:28 --> Helper loaded: url_helper
+INFO - 2024-12-03 23:56:28 --> Helper loaded: date_helper
+INFO - 2024-12-03 23:56:28 --> Helper loaded: file_helper
+INFO - 2024-12-03 23:56:28 --> Helper loaded: directory_helper
+INFO - 2024-12-03 23:56:28 --> Helper loaded: path_helper
+INFO - 2024-12-03 23:56:28 --> Helper loaded: download_helper
+INFO - 2024-12-03 23:56:28 --> Helper loaded: logactivity_helper
+INFO - 2024-12-03 23:56:28 --> Helper loaded: tools_helper
+INFO - 2024-12-03 23:56:28 --> Database Driver Class Initialized
+INFO - 2024-12-03 23:56:28 --> Email Class Initialized
+INFO - 2024-12-03 23:56:28 --> Form Validation Class Initialized
+INFO - 2024-12-03 23:56:28 --> Table Class Initialized
+INFO - 2024-12-03 23:56:28 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2024-12-03 23:56:28 --> Pagination Class Initialized
+DEBUG - 2024-12-03 23:56:28 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-12-03 23:56:28 --> Session: Class initialized using 'files' driver.
+DEBUG - 2024-12-03 23:56:28 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2024-12-03 23:56:28 --> Form_validation class already loaded. Second attempt ignored.
+INFO - 2024-12-03 23:56:28 --> Helper loaded: captcha_helper
+INFO - 2024-12-03 23:56:28 --> Helper loaded: security_helper
+INFO - 2024-12-03 23:56:28 --> Controller Class Initialized
+INFO - 2024-12-03 23:56:28 --> Model "UserModel" initialized
+INFO - 2024-12-03 23:56:28 --> Final output sent to browser
+DEBUG - 2024-12-03 23:56:28 --> Total execution time: 0.2164
+INFO - 2024-12-03 17:56:30 --> Config Class Initialized
+INFO - 2024-12-03 17:56:30 --> Hooks Class Initialized
+DEBUG - 2024-12-03 17:56:30 --> UTF-8 Support Enabled
+INFO - 2024-12-03 17:56:30 --> Utf8 Class Initialized
+INFO - 2024-12-03 17:56:30 --> URI Class Initialized
+INFO - 2024-12-03 17:56:30 --> Router Class Initialized
+INFO - 2024-12-03 17:56:30 --> Output Class Initialized
+INFO - 2024-12-03 17:56:30 --> Security Class Initialized
+DEBUG - 2024-12-03 17:56:30 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-12-03 17:56:30 --> Input Class Initialized
+INFO - 2024-12-03 17:56:30 --> Language Class Initialized
+INFO - 2024-12-03 17:56:30 --> Loader Class Initialized
+DEBUG - 2024-12-03 23:56:30 --> Config file loaded: D:\xampp\htdocs\aska\application\config/Hris.php
+INFO - 2024-12-03 23:56:30 --> Helper loaded: form_helper
+INFO - 2024-12-03 23:56:30 --> Helper loaded: url_helper
+INFO - 2024-12-03 23:56:30 --> Helper loaded: date_helper
+INFO - 2024-12-03 23:56:30 --> Helper loaded: file_helper
+INFO - 2024-12-03 23:56:30 --> Helper loaded: directory_helper
+INFO - 2024-12-03 23:56:30 --> Helper loaded: path_helper
+INFO - 2024-12-03 23:56:30 --> Helper loaded: download_helper
+INFO - 2024-12-03 23:56:30 --> Helper loaded: logactivity_helper
+INFO - 2024-12-03 23:56:30 --> Helper loaded: tools_helper
+INFO - 2024-12-03 23:56:30 --> Database Driver Class Initialized
+INFO - 2024-12-03 23:56:30 --> Email Class Initialized
+INFO - 2024-12-03 23:56:30 --> Form Validation Class Initialized
+INFO - 2024-12-03 23:56:30 --> Table Class Initialized
+INFO - 2024-12-03 23:56:30 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2024-12-03 23:56:30 --> Pagination Class Initialized
+DEBUG - 2024-12-03 23:56:30 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-12-03 23:56:30 --> Session: Class initialized using 'files' driver.
+DEBUG - 2024-12-03 23:56:30 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2024-12-03 23:56:30 --> Form_validation class already loaded. Second attempt ignored.
+INFO - 2024-12-03 23:56:30 --> Helper loaded: captcha_helper
+INFO - 2024-12-03 23:56:30 --> Helper loaded: security_helper
+INFO - 2024-12-03 23:56:30 --> Controller Class Initialized
+INFO - 2024-12-03 23:56:30 --> Model "UserModel" initialized
+INFO - 2024-12-03 20:25:53 --> Config Class Initialized
+INFO - 2024-12-03 20:25:54 --> Hooks Class Initialized
+DEBUG - 2024-12-03 20:25:54 --> UTF-8 Support Enabled
+INFO - 2024-12-03 20:25:54 --> Utf8 Class Initialized
+INFO - 2024-12-03 20:25:54 --> URI Class Initialized
+INFO - 2024-12-03 20:25:54 --> Router Class Initialized
+INFO - 2024-12-03 20:25:54 --> Output Class Initialized
+INFO - 2024-12-03 20:25:55 --> Security Class Initialized
+DEBUG - 2024-12-03 20:25:56 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-12-03 20:25:57 --> Input Class Initialized
+INFO - 2024-12-03 20:25:57 --> Language Class Initialized
+INFO - 2024-12-03 20:25:58 --> Loader Class Initialized
+INFO - 2024-12-03 20:26:21 --> Config Class Initialized
+INFO - 2024-12-03 20:26:21 --> Hooks Class Initialized
+DEBUG - 2024-12-03 20:26:21 --> UTF-8 Support Enabled
+INFO - 2024-12-03 20:26:21 --> Utf8 Class Initialized
+INFO - 2024-12-03 20:26:21 --> URI Class Initialized
+DEBUG - 2024-12-03 20:26:21 --> No URI present. Default controller set.
+INFO - 2024-12-03 20:26:21 --> Router Class Initialized
+INFO - 2024-12-03 20:26:21 --> Output Class Initialized
+INFO - 2024-12-03 20:26:21 --> Security Class Initialized
+DEBUG - 2024-12-03 20:26:21 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-12-03 20:26:21 --> Input Class Initialized
+INFO - 2024-12-03 20:26:21 --> Language Class Initialized
+INFO - 2024-12-03 20:26:22 --> Loader Class Initialized
+INFO - 2024-12-03 20:26:24 --> Config Class Initialized
+INFO - 2024-12-03 20:26:24 --> Hooks Class Initialized
+DEBUG - 2024-12-03 20:26:24 --> UTF-8 Support Enabled
+INFO - 2024-12-03 20:26:24 --> Utf8 Class Initialized
+INFO - 2024-12-03 20:26:24 --> URI Class Initialized
+INFO - 2024-12-03 20:26:24 --> Router Class Initialized
+INFO - 2024-12-03 20:26:24 --> Output Class Initialized
+INFO - 2024-12-03 20:26:24 --> Security Class Initialized
+DEBUG - 2024-12-03 20:26:24 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-12-03 20:26:24 --> Input Class Initialized
+INFO - 2024-12-03 20:26:24 --> Language Class Initialized
+INFO - 2024-12-03 20:26:24 --> Loader Class Initialized
+INFO - 2024-12-03 20:26:29 --> Config Class Initialized
+INFO - 2024-12-03 20:26:29 --> Hooks Class Initialized
+DEBUG - 2024-12-03 20:26:29 --> UTF-8 Support Enabled
+INFO - 2024-12-03 20:26:29 --> Utf8 Class Initialized
+INFO - 2024-12-03 20:26:29 --> URI Class Initialized
+INFO - 2024-12-03 20:26:29 --> Router Class Initialized
+INFO - 2024-12-03 20:26:29 --> Output Class Initialized
+INFO - 2024-12-03 20:26:29 --> Security Class Initialized
+DEBUG - 2024-12-03 20:26:29 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-12-03 20:26:29 --> Input Class Initialized
+INFO - 2024-12-03 20:26:29 --> Language Class Initialized
+ERROR - 2024-12-03 20:26:29 --> 404 Page Not Found: Dashboard/Referensi/Cuti/index
+INFO - 2024-12-03 20:28:07 --> Config Class Initialized
+INFO - 2024-12-03 20:28:07 --> Hooks Class Initialized
+DEBUG - 2024-12-03 20:28:07 --> UTF-8 Support Enabled
+INFO - 2024-12-03 20:28:07 --> Utf8 Class Initialized
+INFO - 2024-12-03 20:28:07 --> URI Class Initialized
+INFO - 2024-12-03 20:28:07 --> Router Class Initialized
+INFO - 2024-12-03 20:28:07 --> Output Class Initialized
+INFO - 2024-12-03 20:28:07 --> Security Class Initialized
+DEBUG - 2024-12-03 20:28:07 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-12-03 20:28:07 --> Input Class Initialized
+INFO - 2024-12-03 20:28:07 --> Language Class Initialized
+INFO - 2024-12-03 20:28:07 --> Loader Class Initialized
+INFO - 2024-12-03 20:28:14 --> Config Class Initialized
+INFO - 2024-12-03 20:28:14 --> Hooks Class Initialized
+DEBUG - 2024-12-03 20:28:14 --> UTF-8 Support Enabled
+INFO - 2024-12-03 20:28:14 --> Utf8 Class Initialized
+INFO - 2024-12-03 20:28:15 --> URI Class Initialized
+INFO - 2024-12-03 20:28:15 --> Router Class Initialized
+INFO - 2024-12-03 20:28:15 --> Output Class Initialized
+INFO - 2024-12-03 20:28:15 --> Security Class Initialized
+DEBUG - 2024-12-03 20:28:15 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-12-03 20:28:15 --> Input Class Initialized
+INFO - 2024-12-03 20:28:15 --> Language Class Initialized
+ERROR - 2024-12-03 20:28:15 --> 404 Page Not Found: Dashboard/Referensi/Cuti/index
+INFO - 2024-12-03 20:28:20 --> Config Class Initialized
+INFO - 2024-12-03 20:28:20 --> Hooks Class Initialized
+DEBUG - 2024-12-03 20:28:20 --> UTF-8 Support Enabled
+INFO - 2024-12-03 20:28:20 --> Utf8 Class Initialized
+INFO - 2024-12-03 20:28:20 --> URI Class Initialized
+INFO - 2024-12-03 20:28:20 --> Router Class Initialized
+INFO - 2024-12-03 20:28:20 --> Output Class Initialized
+INFO - 2024-12-03 20:28:20 --> Security Class Initialized
+DEBUG - 2024-12-03 20:28:20 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-12-03 20:28:20 --> Input Class Initialized
+INFO - 2024-12-03 20:28:20 --> Language Class Initialized
+INFO - 2024-12-03 20:28:20 --> Loader Class Initialized
+INFO - 2024-12-03 20:28:23 --> Config Class Initialized
+INFO - 2024-12-03 20:28:23 --> Hooks Class Initialized
+DEBUG - 2024-12-03 20:28:23 --> UTF-8 Support Enabled
+INFO - 2024-12-03 20:28:23 --> Utf8 Class Initialized
+INFO - 2024-12-03 20:28:23 --> URI Class Initialized
+INFO - 2024-12-03 20:28:23 --> Router Class Initialized
+INFO - 2024-12-03 20:28:23 --> Output Class Initialized
+INFO - 2024-12-03 20:28:23 --> Security Class Initialized
+DEBUG - 2024-12-03 20:28:23 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-12-03 20:28:23 --> Input Class Initialized
+INFO - 2024-12-03 20:28:23 --> Language Class Initialized
+ERROR - 2024-12-03 20:28:23 --> 404 Page Not Found: Referensi_golongan/index
+INFO - 2024-12-03 20:28:26 --> Config Class Initialized
+INFO - 2024-12-03 20:28:26 --> Hooks Class Initialized
+DEBUG - 2024-12-03 20:28:26 --> UTF-8 Support Enabled
+INFO - 2024-12-03 20:28:26 --> Utf8 Class Initialized
+INFO - 2024-12-03 20:28:26 --> URI Class Initialized
+INFO - 2024-12-03 20:28:26 --> Router Class Initialized
+INFO - 2024-12-03 20:28:26 --> Output Class Initialized
+INFO - 2024-12-03 20:28:26 --> Security Class Initialized
+DEBUG - 2024-12-03 20:28:26 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-12-03 20:28:26 --> Input Class Initialized
+INFO - 2024-12-03 20:28:26 --> Language Class Initialized
+INFO - 2024-12-03 20:28:26 --> Loader Class Initialized
+INFO - 2024-12-03 20:28:29 --> Config Class Initialized
+INFO - 2024-12-03 20:28:29 --> Hooks Class Initialized
+DEBUG - 2024-12-03 20:28:29 --> UTF-8 Support Enabled
+INFO - 2024-12-03 20:28:29 --> Utf8 Class Initialized
+INFO - 2024-12-03 20:28:29 --> URI Class Initialized
+INFO - 2024-12-03 20:28:29 --> Router Class Initialized
+INFO - 2024-12-03 20:28:29 --> Output Class Initialized
+INFO - 2024-12-03 20:28:29 --> Security Class Initialized
+DEBUG - 2024-12-03 20:28:29 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-12-03 20:28:29 --> Input Class Initialized
+INFO - 2024-12-03 20:28:29 --> Language Class Initialized
+ERROR - 2024-12-03 20:28:29 --> 404 Page Not Found: Dashboard/Referensi/Cuti/index
+INFO - 2024-12-03 20:28:33 --> Config Class Initialized
+INFO - 2024-12-03 20:28:33 --> Hooks Class Initialized
+DEBUG - 2024-12-03 20:28:33 --> UTF-8 Support Enabled
+INFO - 2024-12-03 20:28:33 --> Utf8 Class Initialized
+INFO - 2024-12-03 20:28:33 --> URI Class Initialized
+INFO - 2024-12-03 20:28:33 --> Router Class Initialized
+INFO - 2024-12-03 20:28:33 --> Output Class Initialized
+INFO - 2024-12-03 20:28:33 --> Security Class Initialized
+DEBUG - 2024-12-03 20:28:33 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-12-03 20:28:33 --> Input Class Initialized
+INFO - 2024-12-03 20:28:33 --> Language Class Initialized
+INFO - 2024-12-03 20:28:33 --> Loader Class Initialized
+INFO - 2024-12-03 20:28:36 --> Config Class Initialized
+INFO - 2024-12-03 20:28:36 --> Hooks Class Initialized
+DEBUG - 2024-12-03 20:28:36 --> UTF-8 Support Enabled
+INFO - 2024-12-03 20:28:36 --> Utf8 Class Initialized
+INFO - 2024-12-03 20:28:36 --> URI Class Initialized
+INFO - 2024-12-03 20:28:36 --> Router Class Initialized
+INFO - 2024-12-03 20:28:36 --> Output Class Initialized
+INFO - 2024-12-03 20:28:36 --> Security Class Initialized
+DEBUG - 2024-12-03 20:28:36 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-12-03 20:28:36 --> Input Class Initialized
+INFO - 2024-12-03 20:28:36 --> Language Class Initialized
+ERROR - 2024-12-03 20:28:36 --> 404 Page Not Found: Referensi_golongan/index
+INFO - 2024-12-03 20:28:38 --> Config Class Initialized
+INFO - 2024-12-03 20:28:38 --> Hooks Class Initialized
+DEBUG - 2024-12-03 20:28:38 --> UTF-8 Support Enabled
+INFO - 2024-12-03 20:28:38 --> Utf8 Class Initialized
+INFO - 2024-12-03 20:28:38 --> URI Class Initialized
+INFO - 2024-12-03 20:28:38 --> Router Class Initialized
+INFO - 2024-12-03 20:28:38 --> Output Class Initialized
+INFO - 2024-12-03 20:28:38 --> Security Class Initialized
+DEBUG - 2024-12-03 20:28:38 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-12-03 20:28:38 --> Input Class Initialized
+INFO - 2024-12-03 20:28:38 --> Language Class Initialized
+INFO - 2024-12-03 20:28:38 --> Loader Class Initialized
+INFO - 2024-12-03 20:28:41 --> Config Class Initialized
+INFO - 2024-12-03 20:28:41 --> Hooks Class Initialized
+DEBUG - 2024-12-03 20:28:41 --> UTF-8 Support Enabled
+INFO - 2024-12-03 20:28:41 --> Utf8 Class Initialized
+INFO - 2024-12-03 20:28:41 --> URI Class Initialized
+INFO - 2024-12-03 20:28:41 --> Router Class Initialized
+INFO - 2024-12-03 20:28:41 --> Output Class Initialized
+INFO - 2024-12-03 20:28:41 --> Security Class Initialized
+DEBUG - 2024-12-03 20:28:41 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-12-03 20:28:41 --> Input Class Initialized
+INFO - 2024-12-03 20:28:41 --> Language Class Initialized
+ERROR - 2024-12-03 20:28:41 --> 404 Page Not Found: Referensi_tugas_kerja/index
+INFO - 2024-12-03 20:28:43 --> Config Class Initialized
+INFO - 2024-12-03 20:28:43 --> Hooks Class Initialized
+DEBUG - 2024-12-03 20:28:43 --> UTF-8 Support Enabled
+INFO - 2024-12-03 20:28:43 --> Utf8 Class Initialized
+INFO - 2024-12-03 20:28:43 --> URI Class Initialized
+INFO - 2024-12-03 20:28:43 --> Router Class Initialized
+INFO - 2024-12-03 20:28:43 --> Output Class Initialized
+INFO - 2024-12-03 20:28:43 --> Security Class Initialized
+DEBUG - 2024-12-03 20:28:43 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-12-03 20:28:43 --> Input Class Initialized
+INFO - 2024-12-03 20:28:43 --> Language Class Initialized
+INFO - 2024-12-03 20:28:43 --> Loader Class Initialized
+INFO - 2024-12-03 20:28:46 --> Config Class Initialized
+INFO - 2024-12-03 20:28:46 --> Hooks Class Initialized
+DEBUG - 2024-12-03 20:28:46 --> UTF-8 Support Enabled
+INFO - 2024-12-03 20:28:46 --> Utf8 Class Initialized
+INFO - 2024-12-03 20:28:46 --> URI Class Initialized
+INFO - 2024-12-03 20:28:46 --> Router Class Initialized
+INFO - 2024-12-03 20:28:46 --> Output Class Initialized
+INFO - 2024-12-03 20:28:46 --> Security Class Initialized
+DEBUG - 2024-12-03 20:28:46 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-12-03 20:28:46 --> Input Class Initialized
+INFO - 2024-12-03 20:28:46 --> Language Class Initialized
+ERROR - 2024-12-03 20:28:46 --> 404 Page Not Found: Referensi_fungsi_kerja/index
+INFO - 2024-12-03 20:28:48 --> Config Class Initialized
+INFO - 2024-12-03 20:28:48 --> Hooks Class Initialized
+DEBUG - 2024-12-03 20:28:48 --> UTF-8 Support Enabled
+INFO - 2024-12-03 20:28:48 --> Utf8 Class Initialized
+INFO - 2024-12-03 20:28:48 --> URI Class Initialized
+INFO - 2024-12-03 20:28:48 --> Router Class Initialized
+INFO - 2024-12-03 20:28:48 --> Output Class Initialized
+INFO - 2024-12-03 20:28:48 --> Security Class Initialized
+DEBUG - 2024-12-03 20:28:48 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-12-03 20:28:48 --> Input Class Initialized
+INFO - 2024-12-03 20:28:48 --> Language Class Initialized
+INFO - 2024-12-03 20:28:48 --> Loader Class Initialized
+INFO - 2024-12-03 20:28:51 --> Config Class Initialized
+INFO - 2024-12-03 20:28:51 --> Hooks Class Initialized
+DEBUG - 2024-12-03 20:28:51 --> UTF-8 Support Enabled
+INFO - 2024-12-03 20:28:51 --> Utf8 Class Initialized
+INFO - 2024-12-03 20:28:51 --> URI Class Initialized
+INFO - 2024-12-03 20:28:51 --> Router Class Initialized
+INFO - 2024-12-03 20:28:51 --> Output Class Initialized
+INFO - 2024-12-03 20:28:51 --> Security Class Initialized
+DEBUG - 2024-12-03 20:28:51 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-12-03 20:28:51 --> Input Class Initialized
+INFO - 2024-12-03 20:28:51 --> Language Class Initialized
+ERROR - 2024-12-03 20:28:51 --> 404 Page Not Found: Dashboard/Referensi/Cuti/index
+INFO - 2024-12-03 20:28:55 --> Config Class Initialized
+INFO - 2024-12-03 20:28:55 --> Hooks Class Initialized
+DEBUG - 2024-12-03 20:28:55 --> UTF-8 Support Enabled
+INFO - 2024-12-03 20:28:55 --> Utf8 Class Initialized
+INFO - 2024-12-03 20:28:55 --> URI Class Initialized
+INFO - 2024-12-03 20:28:55 --> Router Class Initialized
+INFO - 2024-12-03 20:28:55 --> Output Class Initialized
+INFO - 2024-12-03 20:28:55 --> Security Class Initialized
+DEBUG - 2024-12-03 20:28:55 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-12-03 20:28:55 --> Input Class Initialized
+INFO - 2024-12-03 20:28:55 --> Language Class Initialized
+INFO - 2024-12-03 20:28:55 --> Loader Class Initialized
+INFO - 2024-12-03 20:30:47 --> Config Class Initialized
+INFO - 2024-12-03 20:30:47 --> Hooks Class Initialized
+DEBUG - 2024-12-03 20:30:47 --> UTF-8 Support Enabled
+INFO - 2024-12-03 20:30:47 --> Utf8 Class Initialized
+INFO - 2024-12-03 20:30:47 --> URI Class Initialized
+INFO - 2024-12-03 20:30:47 --> Router Class Initialized
+INFO - 2024-12-03 20:30:47 --> Output Class Initialized
+INFO - 2024-12-03 20:30:47 --> Security Class Initialized
+DEBUG - 2024-12-03 20:30:47 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-12-03 20:30:47 --> Input Class Initialized
+INFO - 2024-12-03 20:30:47 --> Language Class Initialized
+INFO - 2024-12-03 20:30:48 --> Loader Class Initialized
+INFO - 2024-12-03 20:38:57 --> Config Class Initialized
+INFO - 2024-12-03 20:38:57 --> Hooks Class Initialized
+DEBUG - 2024-12-03 20:38:57 --> UTF-8 Support Enabled
+INFO - 2024-12-03 20:38:57 --> Utf8 Class Initialized
+INFO - 2024-12-03 20:38:57 --> URI Class Initialized
+INFO - 2024-12-03 20:38:57 --> Router Class Initialized
+INFO - 2024-12-03 20:38:57 --> Output Class Initialized
+INFO - 2024-12-03 20:38:57 --> Security Class Initialized
+DEBUG - 2024-12-03 20:38:57 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-12-03 20:38:57 --> Input Class Initialized
+INFO - 2024-12-03 20:38:57 --> Language Class Initialized
+INFO - 2024-12-03 20:38:57 --> Loader Class Initialized
+INFO - 2024-12-03 20:38:58 --> Config Class Initialized
+INFO - 2024-12-03 20:38:58 --> Hooks Class Initialized
+DEBUG - 2024-12-03 20:38:58 --> UTF-8 Support Enabled
+INFO - 2024-12-03 20:38:58 --> Utf8 Class Initialized
+INFO - 2024-12-03 20:38:58 --> URI Class Initialized
+INFO - 2024-12-03 20:38:58 --> Router Class Initialized
+INFO - 2024-12-03 20:38:58 --> Output Class Initialized
+INFO - 2024-12-03 20:38:58 --> Security Class Initialized
+DEBUG - 2024-12-03 20:38:58 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-12-03 20:38:58 --> Input Class Initialized
+INFO - 2024-12-03 20:38:58 --> Language Class Initialized
+INFO - 2024-12-03 20:38:58 --> Loader Class Initialized
+INFO - 2024-12-03 20:39:03 --> Config Class Initialized
+INFO - 2024-12-03 20:39:03 --> Hooks Class Initialized
+DEBUG - 2024-12-03 20:39:03 --> UTF-8 Support Enabled
+INFO - 2024-12-03 20:39:03 --> Utf8 Class Initialized
+INFO - 2024-12-03 20:39:03 --> URI Class Initialized
+INFO - 2024-12-03 20:39:03 --> Router Class Initialized
+INFO - 2024-12-03 20:39:03 --> Output Class Initialized
+INFO - 2024-12-03 20:39:03 --> Security Class Initialized
+DEBUG - 2024-12-03 20:39:03 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-12-03 20:39:03 --> Input Class Initialized
+INFO - 2024-12-03 20:39:03 --> Language Class Initialized
+ERROR - 2024-12-03 20:39:03 --> 404 Page Not Found: Referensi_ijin/index
+INFO - 2024-12-03 20:39:05 --> Config Class Initialized
+INFO - 2024-12-03 20:39:05 --> Hooks Class Initialized
+DEBUG - 2024-12-03 20:39:05 --> UTF-8 Support Enabled
+INFO - 2024-12-03 20:39:05 --> Utf8 Class Initialized
+INFO - 2024-12-03 20:39:05 --> URI Class Initialized
+INFO - 2024-12-03 20:39:05 --> Router Class Initialized
+INFO - 2024-12-03 20:39:05 --> Output Class Initialized
+INFO - 2024-12-03 20:39:05 --> Security Class Initialized
+DEBUG - 2024-12-03 20:39:05 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-12-03 20:39:05 --> Input Class Initialized
+INFO - 2024-12-03 20:39:05 --> Language Class Initialized
+INFO - 2024-12-03 20:39:05 --> Loader Class Initialized
+INFO - 2024-12-03 20:39:08 --> Config Class Initialized
+INFO - 2024-12-03 20:39:08 --> Hooks Class Initialized
+DEBUG - 2024-12-03 20:39:08 --> UTF-8 Support Enabled
+INFO - 2024-12-03 20:39:08 --> Utf8 Class Initialized
+INFO - 2024-12-03 20:39:08 --> URI Class Initialized
+INFO - 2024-12-03 20:39:08 --> Router Class Initialized
+INFO - 2024-12-03 20:39:08 --> Output Class Initialized
+INFO - 2024-12-03 20:39:08 --> Security Class Initialized
+DEBUG - 2024-12-03 20:39:08 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-12-03 20:39:08 --> Input Class Initialized
+INFO - 2024-12-03 20:39:08 --> Language Class Initialized
+INFO - 2024-12-03 20:39:08 --> Loader Class Initialized
+INFO - 2024-12-03 20:46:00 --> Config Class Initialized
+INFO - 2024-12-03 20:46:00 --> Hooks Class Initialized
+DEBUG - 2024-12-03 20:46:00 --> UTF-8 Support Enabled
+INFO - 2024-12-03 20:46:00 --> Utf8 Class Initialized
+INFO - 2024-12-03 20:46:00 --> URI Class Initialized
+DEBUG - 2024-12-03 20:46:00 --> No URI present. Default controller set.
+INFO - 2024-12-03 20:46:00 --> Router Class Initialized
+INFO - 2024-12-03 20:46:00 --> Output Class Initialized
+INFO - 2024-12-03 20:46:00 --> Security Class Initialized
+DEBUG - 2024-12-03 20:46:00 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-12-03 20:46:00 --> Input Class Initialized
+INFO - 2024-12-03 20:46:00 --> Language Class Initialized
+INFO - 2024-12-03 20:46:00 --> Loader Class Initialized
+INFO - 2024-12-03 20:46:00 --> Config Class Initialized
+INFO - 2024-12-03 20:46:00 --> Hooks Class Initialized
+DEBUG - 2024-12-03 20:46:00 --> UTF-8 Support Enabled
+INFO - 2024-12-03 20:46:00 --> Utf8 Class Initialized
+INFO - 2024-12-03 20:46:00 --> URI Class Initialized
+INFO - 2024-12-03 20:46:00 --> Router Class Initialized
+INFO - 2024-12-03 20:46:00 --> Output Class Initialized
+INFO - 2024-12-03 20:46:00 --> Security Class Initialized
+DEBUG - 2024-12-03 20:46:00 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-12-03 20:46:00 --> Input Class Initialized
+INFO - 2024-12-03 20:46:00 --> Language Class Initialized
+INFO - 2024-12-03 20:46:00 --> Loader Class Initialized
+INFO - 2024-12-03 20:46:03 --> Config Class Initialized
+INFO - 2024-12-03 20:46:03 --> Hooks Class Initialized
+DEBUG - 2024-12-03 20:46:03 --> UTF-8 Support Enabled
+INFO - 2024-12-03 20:46:03 --> Utf8 Class Initialized
+INFO - 2024-12-03 20:46:03 --> URI Class Initialized
+INFO - 2024-12-03 20:46:03 --> Router Class Initialized
+INFO - 2024-12-03 20:46:03 --> Output Class Initialized
+INFO - 2024-12-03 20:46:03 --> Security Class Initialized
+DEBUG - 2024-12-03 20:46:03 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-12-03 20:46:03 --> Input Class Initialized
+INFO - 2024-12-03 20:46:03 --> Language Class Initialized
+INFO - 2024-12-03 20:46:03 --> Loader Class Initialized
+INFO - 2024-12-03 20:46:03 --> Config Class Initialized
+INFO - 2024-12-03 20:46:03 --> Hooks Class Initialized
+DEBUG - 2024-12-03 20:46:03 --> UTF-8 Support Enabled
+INFO - 2024-12-03 20:46:03 --> Utf8 Class Initialized
+INFO - 2024-12-03 20:46:03 --> URI Class Initialized
+DEBUG - 2024-12-03 20:46:03 --> No URI present. Default controller set.
+INFO - 2024-12-03 20:46:03 --> Router Class Initialized
+INFO - 2024-12-03 20:46:03 --> Output Class Initialized
+INFO - 2024-12-03 20:46:03 --> Security Class Initialized
+DEBUG - 2024-12-03 20:46:03 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-12-03 20:46:03 --> Input Class Initialized
+INFO - 2024-12-03 20:46:03 --> Language Class Initialized
+INFO - 2024-12-03 20:46:03 --> Loader Class Initialized
+INFO - 2024-12-03 20:48:29 --> Config Class Initialized
+INFO - 2024-12-03 20:48:29 --> Hooks Class Initialized
+DEBUG - 2024-12-03 20:48:29 --> UTF-8 Support Enabled
+INFO - 2024-12-03 20:48:29 --> Utf8 Class Initialized
+INFO - 2024-12-03 20:48:29 --> URI Class Initialized
+DEBUG - 2024-12-03 20:48:29 --> No URI present. Default controller set.
+INFO - 2024-12-03 20:48:29 --> Router Class Initialized
+INFO - 2024-12-03 20:48:29 --> Output Class Initialized
+INFO - 2024-12-03 20:48:29 --> Security Class Initialized
+DEBUG - 2024-12-03 20:48:29 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-12-03 20:48:29 --> Input Class Initialized
+INFO - 2024-12-03 20:48:29 --> Language Class Initialized
+INFO - 2024-12-03 20:48:29 --> Loader Class Initialized
+INFO - 2024-12-03 20:48:31 --> Config Class Initialized
+INFO - 2024-12-03 20:48:31 --> Hooks Class Initialized
+DEBUG - 2024-12-03 20:48:31 --> UTF-8 Support Enabled
+INFO - 2024-12-03 20:48:31 --> Utf8 Class Initialized
+INFO - 2024-12-03 20:48:31 --> URI Class Initialized
+DEBUG - 2024-12-03 20:48:31 --> No URI present. Default controller set.
+INFO - 2024-12-03 20:48:31 --> Router Class Initialized
+INFO - 2024-12-03 20:48:31 --> Output Class Initialized
+INFO - 2024-12-03 20:48:31 --> Security Class Initialized
+DEBUG - 2024-12-03 20:48:31 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-12-03 20:48:31 --> Input Class Initialized
+INFO - 2024-12-03 20:48:31 --> Language Class Initialized
+INFO - 2024-12-03 20:48:31 --> Loader Class Initialized
+INFO - 2024-12-03 20:48:31 --> Config Class Initialized
+INFO - 2024-12-03 20:48:31 --> Hooks Class Initialized
+DEBUG - 2024-12-03 20:48:31 --> UTF-8 Support Enabled
+INFO - 2024-12-03 20:48:31 --> Utf8 Class Initialized
+INFO - 2024-12-03 20:48:31 --> URI Class Initialized
+INFO - 2024-12-03 20:48:31 --> Router Class Initialized
+INFO - 2024-12-03 20:48:31 --> Output Class Initialized
+INFO - 2024-12-03 20:48:31 --> Security Class Initialized
+DEBUG - 2024-12-03 20:48:31 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-12-03 20:48:31 --> Input Class Initialized
+INFO - 2024-12-03 20:48:31 --> Language Class Initialized
+INFO - 2024-12-03 20:48:31 --> Loader Class Initialized
+INFO - 2024-12-03 20:48:35 --> Config Class Initialized
+INFO - 2024-12-03 20:48:35 --> Hooks Class Initialized
+DEBUG - 2024-12-03 20:48:35 --> UTF-8 Support Enabled
+INFO - 2024-12-03 20:48:35 --> Utf8 Class Initialized
+INFO - 2024-12-03 20:48:35 --> URI Class Initialized
+INFO - 2024-12-03 20:48:35 --> Router Class Initialized
+INFO - 2024-12-03 20:48:35 --> Output Class Initialized
+INFO - 2024-12-03 20:48:35 --> Security Class Initialized
+DEBUG - 2024-12-03 20:48:35 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-12-03 20:48:35 --> Input Class Initialized
+INFO - 2024-12-03 20:48:35 --> Language Class Initialized
+INFO - 2024-12-03 20:48:35 --> Loader Class Initialized
+INFO - 2024-12-03 20:48:46 --> Config Class Initialized
+INFO - 2024-12-03 20:48:46 --> Hooks Class Initialized
+DEBUG - 2024-12-03 20:48:46 --> UTF-8 Support Enabled
+INFO - 2024-12-03 20:48:46 --> Utf8 Class Initialized
+INFO - 2024-12-03 20:48:46 --> URI Class Initialized
+INFO - 2024-12-03 20:48:46 --> Router Class Initialized
+INFO - 2024-12-03 20:48:46 --> Output Class Initialized
+INFO - 2024-12-03 20:48:46 --> Security Class Initialized
+DEBUG - 2024-12-03 20:48:46 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-12-03 20:48:46 --> Input Class Initialized
+INFO - 2024-12-03 20:48:46 --> Language Class Initialized
+INFO - 2024-12-03 20:48:46 --> Loader Class Initialized
+INFO - 2024-12-03 20:51:03 --> Config Class Initialized
+INFO - 2024-12-03 20:51:03 --> Hooks Class Initialized
+DEBUG - 2024-12-03 20:51:03 --> UTF-8 Support Enabled
+INFO - 2024-12-03 20:51:03 --> Utf8 Class Initialized
+INFO - 2024-12-03 20:51:03 --> URI Class Initialized
+INFO - 2024-12-03 20:51:03 --> Router Class Initialized
+INFO - 2024-12-03 20:51:03 --> Output Class Initialized
+INFO - 2024-12-03 20:51:03 --> Security Class Initialized
+DEBUG - 2024-12-03 20:51:03 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-12-03 20:51:03 --> Input Class Initialized
+INFO - 2024-12-03 20:51:03 --> Language Class Initialized
+INFO - 2024-12-03 20:51:04 --> Loader Class Initialized
+INFO - 2024-12-03 20:51:48 --> Config Class Initialized
+INFO - 2024-12-03 20:51:48 --> Hooks Class Initialized
+DEBUG - 2024-12-03 20:51:48 --> UTF-8 Support Enabled
+INFO - 2024-12-03 20:51:48 --> Utf8 Class Initialized
+INFO - 2024-12-03 20:51:48 --> URI Class Initialized
+INFO - 2024-12-03 20:51:48 --> Router Class Initialized
+INFO - 2024-12-03 20:51:48 --> Output Class Initialized
+INFO - 2024-12-03 20:51:48 --> Security Class Initialized
+DEBUG - 2024-12-03 20:51:48 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-12-03 20:51:48 --> Input Class Initialized
+INFO - 2024-12-03 20:51:48 --> Language Class Initialized
+INFO - 2024-12-03 20:51:48 --> Loader Class Initialized
+INFO - 2024-12-03 20:52:06 --> Config Class Initialized
+INFO - 2024-12-03 20:52:06 --> Hooks Class Initialized
+DEBUG - 2024-12-03 20:52:06 --> UTF-8 Support Enabled
+INFO - 2024-12-03 20:52:06 --> Utf8 Class Initialized
+INFO - 2024-12-03 20:52:06 --> URI Class Initialized
+INFO - 2024-12-03 20:52:06 --> Router Class Initialized
+INFO - 2024-12-03 20:52:06 --> Output Class Initialized
+INFO - 2024-12-03 20:52:06 --> Security Class Initialized
+DEBUG - 2024-12-03 20:52:06 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-12-03 20:52:06 --> Input Class Initialized
+INFO - 2024-12-03 20:52:06 --> Language Class Initialized
+INFO - 2024-12-03 20:52:06 --> Loader Class Initialized
+INFO - 2024-12-03 20:52:27 --> Config Class Initialized
+INFO - 2024-12-03 20:52:27 --> Hooks Class Initialized
+DEBUG - 2024-12-03 20:52:27 --> UTF-8 Support Enabled
+INFO - 2024-12-03 20:52:27 --> Utf8 Class Initialized
+INFO - 2024-12-03 20:52:27 --> URI Class Initialized
+INFO - 2024-12-03 20:52:27 --> Router Class Initialized
+INFO - 2024-12-03 20:52:27 --> Output Class Initialized
+INFO - 2024-12-03 20:52:27 --> Security Class Initialized
+DEBUG - 2024-12-03 20:52:27 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-12-03 20:52:27 --> Input Class Initialized
+INFO - 2024-12-03 20:52:27 --> Language Class Initialized
+INFO - 2024-12-03 20:52:27 --> Loader Class Initialized
+INFO - 2024-12-03 20:52:57 --> Config Class Initialized
+INFO - 2024-12-03 20:52:57 --> Hooks Class Initialized
+DEBUG - 2024-12-03 20:52:57 --> UTF-8 Support Enabled
+INFO - 2024-12-03 20:52:57 --> Utf8 Class Initialized
+INFO - 2024-12-03 20:52:57 --> URI Class Initialized
+INFO - 2024-12-03 20:52:57 --> Router Class Initialized
+INFO - 2024-12-03 20:52:57 --> Output Class Initialized
+INFO - 2024-12-03 20:52:57 --> Security Class Initialized
+DEBUG - 2024-12-03 20:52:57 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-12-03 20:52:57 --> Input Class Initialized
+INFO - 2024-12-03 20:52:57 --> Language Class Initialized
+ERROR - 2024-12-03 20:52:57 --> 404 Page Not Found: Referensi_ijin/index
+INFO - 2024-12-03 20:52:58 --> Config Class Initialized
+INFO - 2024-12-03 20:52:58 --> Hooks Class Initialized
+DEBUG - 2024-12-03 20:52:58 --> UTF-8 Support Enabled
+INFO - 2024-12-03 20:52:58 --> Utf8 Class Initialized
+INFO - 2024-12-03 20:52:58 --> URI Class Initialized
+INFO - 2024-12-03 20:52:58 --> Router Class Initialized
+INFO - 2024-12-03 20:52:58 --> Output Class Initialized
+INFO - 2024-12-03 20:52:58 --> Security Class Initialized
+DEBUG - 2024-12-03 20:52:58 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-12-03 20:52:58 --> Input Class Initialized
+INFO - 2024-12-03 20:52:58 --> Language Class Initialized
+INFO - 2024-12-03 20:52:58 --> Loader Class Initialized
+INFO - 2024-12-03 20:53:30 --> Config Class Initialized
+INFO - 2024-12-03 20:53:30 --> Hooks Class Initialized
+DEBUG - 2024-12-03 20:53:30 --> UTF-8 Support Enabled
+INFO - 2024-12-03 20:53:30 --> Utf8 Class Initialized
+INFO - 2024-12-03 20:53:30 --> URI Class Initialized
+INFO - 2024-12-03 20:53:30 --> Router Class Initialized
+INFO - 2024-12-03 20:53:30 --> Output Class Initialized
+INFO - 2024-12-03 20:53:30 --> Security Class Initialized
+DEBUG - 2024-12-03 20:53:30 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-12-03 20:53:30 --> Input Class Initialized
+INFO - 2024-12-03 20:53:30 --> Language Class Initialized
+INFO - 2024-12-03 20:53:30 --> Loader Class Initialized
+INFO - 2024-12-03 20:54:46 --> Config Class Initialized
+INFO - 2024-12-03 20:54:46 --> Hooks Class Initialized
+DEBUG - 2024-12-03 20:54:46 --> UTF-8 Support Enabled
+INFO - 2024-12-03 20:54:46 --> Utf8 Class Initialized
+INFO - 2024-12-03 20:54:46 --> URI Class Initialized
+INFO - 2024-12-03 20:54:46 --> Router Class Initialized
+INFO - 2024-12-03 20:54:46 --> Output Class Initialized
+INFO - 2024-12-03 20:54:46 --> Security Class Initialized
+DEBUG - 2024-12-03 20:54:46 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-12-03 20:54:46 --> Input Class Initialized
+INFO - 2024-12-03 20:54:46 --> Language Class Initialized
+INFO - 2024-12-03 20:54:46 --> Loader Class Initialized
+INFO - 2024-12-03 20:54:51 --> Config Class Initialized
+INFO - 2024-12-03 20:54:51 --> Hooks Class Initialized
+DEBUG - 2024-12-03 20:54:51 --> UTF-8 Support Enabled
+INFO - 2024-12-03 20:54:51 --> Utf8 Class Initialized
+INFO - 2024-12-03 20:54:51 --> URI Class Initialized
+INFO - 2024-12-03 20:54:51 --> Router Class Initialized
+INFO - 2024-12-03 20:54:51 --> Output Class Initialized
+INFO - 2024-12-03 20:54:51 --> Security Class Initialized
+DEBUG - 2024-12-03 20:54:51 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-12-03 20:54:51 --> Input Class Initialized
+INFO - 2024-12-03 20:54:51 --> Language Class Initialized
+ERROR - 2024-12-03 20:54:51 --> 404 Page Not Found: Dashboard/Referensi/Cuti/index
+INFO - 2024-12-03 20:55:05 --> Config Class Initialized
+INFO - 2024-12-03 20:55:05 --> Hooks Class Initialized
+DEBUG - 2024-12-03 20:55:05 --> UTF-8 Support Enabled
+INFO - 2024-12-03 20:55:05 --> Utf8 Class Initialized
+INFO - 2024-12-03 20:55:05 --> URI Class Initialized
+INFO - 2024-12-03 20:55:05 --> Router Class Initialized
+INFO - 2024-12-03 20:55:05 --> Output Class Initialized
+INFO - 2024-12-03 20:55:05 --> Security Class Initialized
+DEBUG - 2024-12-03 20:55:05 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-12-03 20:55:05 --> Input Class Initialized
+INFO - 2024-12-03 20:55:05 --> Language Class Initialized
+INFO - 2024-12-03 20:55:05 --> Loader Class Initialized
+INFO - 2024-12-03 20:56:11 --> Config Class Initialized
+INFO - 2024-12-03 20:56:11 --> Config Class Initialized
+INFO - 2024-12-03 20:56:11 --> Hooks Class Initialized
+INFO - 2024-12-03 20:56:11 --> Hooks Class Initialized
+DEBUG - 2024-12-03 20:56:11 --> UTF-8 Support Enabled
+DEBUG - 2024-12-03 20:56:11 --> UTF-8 Support Enabled
+INFO - 2024-12-03 20:56:11 --> Utf8 Class Initialized
+INFO - 2024-12-03 20:56:11 --> Utf8 Class Initialized
+INFO - 2024-12-03 20:56:11 --> URI Class Initialized
+INFO - 2024-12-03 20:56:11 --> URI Class Initialized
+INFO - 2024-12-03 20:56:11 --> Router Class Initialized
+INFO - 2024-12-03 20:56:11 --> Router Class Initialized
+INFO - 2024-12-03 20:56:11 --> Output Class Initialized
+INFO - 2024-12-03 20:56:11 --> Output Class Initialized
+INFO - 2024-12-03 20:56:11 --> Security Class Initialized
+INFO - 2024-12-03 20:56:11 --> Security Class Initialized
+DEBUG - 2024-12-03 20:56:11 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-12-03 20:56:11 --> Input Class Initialized
+INFO - 2024-12-03 20:56:11 --> Language Class Initialized
+DEBUG - 2024-12-03 20:56:11 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-12-03 20:56:11 --> Input Class Initialized
+ERROR - 2024-12-03 20:56:11 --> 404 Page Not Found: Assets/template
+INFO - 2024-12-03 20:56:11 --> Language Class Initialized
+ERROR - 2024-12-03 20:56:11 --> 404 Page Not Found: Assets/template
+INFO - 2024-12-03 21:00:34 --> Config Class Initialized
+INFO - 2024-12-03 21:00:34 --> Hooks Class Initialized
+DEBUG - 2024-12-03 21:00:34 --> UTF-8 Support Enabled
+INFO - 2024-12-03 21:00:34 --> Utf8 Class Initialized
+INFO - 2024-12-03 21:00:34 --> URI Class Initialized
+INFO - 2024-12-03 21:00:34 --> Router Class Initialized
+INFO - 2024-12-03 21:00:34 --> Output Class Initialized
+INFO - 2024-12-03 21:00:34 --> Security Class Initialized
+DEBUG - 2024-12-03 21:00:34 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-12-03 21:00:34 --> Input Class Initialized
+INFO - 2024-12-03 21:00:34 --> Language Class Initialized
+INFO - 2024-12-03 21:00:34 --> Loader Class Initialized
+INFO - 2024-12-03 21:00:34 --> Config Class Initialized
+INFO - 2024-12-03 21:00:34 --> Hooks Class Initialized
+DEBUG - 2024-12-03 21:00:34 --> UTF-8 Support Enabled
+INFO - 2024-12-03 21:00:34 --> Utf8 Class Initialized
+INFO - 2024-12-03 21:00:34 --> URI Class Initialized
+INFO - 2024-12-03 21:00:34 --> Router Class Initialized
+INFO - 2024-12-03 21:00:35 --> Output Class Initialized
+INFO - 2024-12-03 21:00:35 --> Security Class Initialized
+DEBUG - 2024-12-03 21:00:35 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-12-03 21:00:35 --> Input Class Initialized
+INFO - 2024-12-03 21:00:35 --> Language Class Initialized
+ERROR - 2024-12-03 21:00:35 --> 404 Page Not Found: Dashboard/Referensi/Cuti/get_refCuti
+INFO - 2024-12-03 21:00:41 --> Config Class Initialized
+INFO - 2024-12-03 21:00:41 --> Hooks Class Initialized
+DEBUG - 2024-12-03 21:00:41 --> UTF-8 Support Enabled
+INFO - 2024-12-03 21:00:41 --> Utf8 Class Initialized
+INFO - 2024-12-03 21:00:41 --> URI Class Initialized
+INFO - 2024-12-03 21:00:41 --> Router Class Initialized
+INFO - 2024-12-03 21:00:41 --> Output Class Initialized
+INFO - 2024-12-03 21:00:41 --> Security Class Initialized
+DEBUG - 2024-12-03 21:00:41 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-12-03 21:00:41 --> Input Class Initialized
+INFO - 2024-12-03 21:00:41 --> Language Class Initialized
+INFO - 2024-12-03 21:00:41 --> Loader Class Initialized
+INFO - 2024-12-03 21:00:41 --> Config Class Initialized
+INFO - 2024-12-03 21:00:41 --> Hooks Class Initialized
+DEBUG - 2024-12-03 21:00:41 --> UTF-8 Support Enabled
+INFO - 2024-12-03 21:00:41 --> Utf8 Class Initialized
+INFO - 2024-12-03 21:00:41 --> URI Class Initialized
+INFO - 2024-12-03 21:00:41 --> Router Class Initialized
+INFO - 2024-12-03 21:00:41 --> Output Class Initialized
+INFO - 2024-12-03 21:00:41 --> Security Class Initialized
+DEBUG - 2024-12-03 21:00:41 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-12-03 21:00:41 --> Input Class Initialized
+INFO - 2024-12-03 21:00:41 --> Language Class Initialized
+ERROR - 2024-12-03 21:00:41 --> 404 Page Not Found: Dashboard/Referensi/Cuti/get_refCuti
+INFO - 2024-12-03 21:01:12 --> Config Class Initialized
+INFO - 2024-12-03 21:01:12 --> Hooks Class Initialized
+DEBUG - 2024-12-03 21:01:12 --> UTF-8 Support Enabled
+INFO - 2024-12-03 21:01:12 --> Utf8 Class Initialized
+INFO - 2024-12-03 21:01:12 --> URI Class Initialized
+INFO - 2024-12-03 21:01:12 --> Router Class Initialized
+INFO - 2024-12-03 21:01:12 --> Output Class Initialized
+INFO - 2024-12-03 21:01:12 --> Security Class Initialized
+DEBUG - 2024-12-03 21:01:12 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-12-03 21:01:12 --> Input Class Initialized
+INFO - 2024-12-03 21:01:12 --> Language Class Initialized
+INFO - 2024-12-03 21:01:12 --> Loader Class Initialized
+INFO - 2024-12-03 21:01:12 --> Config Class Initialized
+INFO - 2024-12-03 21:01:12 --> Hooks Class Initialized
+DEBUG - 2024-12-03 21:01:12 --> UTF-8 Support Enabled
+INFO - 2024-12-03 21:01:12 --> Utf8 Class Initialized
+INFO - 2024-12-03 21:01:12 --> URI Class Initialized
+INFO - 2024-12-03 21:01:12 --> Router Class Initialized
+INFO - 2024-12-03 21:01:12 --> Output Class Initialized
+INFO - 2024-12-03 21:01:12 --> Security Class Initialized
+DEBUG - 2024-12-03 21:01:12 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-12-03 21:01:12 --> Input Class Initialized
+INFO - 2024-12-03 21:01:12 --> Language Class Initialized
+ERROR - 2024-12-03 21:01:12 --> 404 Page Not Found: Dashboard/Referensi/Cuti/get_refCuti
+INFO - 2024-12-03 21:01:59 --> Config Class Initialized
+INFO - 2024-12-03 21:01:59 --> Config Class Initialized
+INFO - 2024-12-03 21:01:59 --> Hooks Class Initialized
+INFO - 2024-12-03 21:01:59 --> Hooks Class Initialized
+DEBUG - 2024-12-03 21:01:59 --> UTF-8 Support Enabled
+DEBUG - 2024-12-03 21:01:59 --> UTF-8 Support Enabled
+INFO - 2024-12-03 21:01:59 --> Utf8 Class Initialized
+INFO - 2024-12-03 21:01:59 --> Utf8 Class Initialized
+INFO - 2024-12-03 21:01:59 --> URI Class Initialized
+INFO - 2024-12-03 21:01:59 --> URI Class Initialized
+INFO - 2024-12-03 21:01:59 --> Router Class Initialized
+INFO - 2024-12-03 21:01:59 --> Router Class Initialized
+INFO - 2024-12-03 21:01:59 --> Output Class Initialized
+INFO - 2024-12-03 21:01:59 --> Output Class Initialized
+INFO - 2024-12-03 21:01:59 --> Security Class Initialized
+INFO - 2024-12-03 21:01:59 --> Security Class Initialized
+DEBUG - 2024-12-03 21:01:59 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-12-03 21:01:59 --> Input Class Initialized
+DEBUG - 2024-12-03 21:01:59 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-12-03 21:01:59 --> Language Class Initialized
+INFO - 2024-12-03 21:01:59 --> Input Class Initialized
+INFO - 2024-12-03 21:01:59 --> Language Class Initialized
+ERROR - 2024-12-03 21:01:59 --> 404 Page Not Found: Assets/template
+ERROR - 2024-12-03 21:01:59 --> 404 Page Not Found: Assets/template
+INFO - 2024-12-03 21:02:42 --> Config Class Initialized
+INFO - 2024-12-03 21:02:42 --> Hooks Class Initialized
+DEBUG - 2024-12-03 21:02:42 --> UTF-8 Support Enabled
+INFO - 2024-12-03 21:02:42 --> Utf8 Class Initialized
+INFO - 2024-12-03 21:02:42 --> URI Class Initialized
+INFO - 2024-12-03 21:02:42 --> Router Class Initialized
+INFO - 2024-12-03 21:02:42 --> Output Class Initialized
+INFO - 2024-12-03 21:02:42 --> Security Class Initialized
+DEBUG - 2024-12-03 21:02:42 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-12-03 21:02:42 --> Input Class Initialized
+INFO - 2024-12-03 21:02:42 --> Language Class Initialized
+ERROR - 2024-12-03 21:02:42 --> 404 Page Not Found: Dashboard/Referensi/Cuti/get_refCuti
+INFO - 2024-12-03 21:03:07 --> Config Class Initialized
+INFO - 2024-12-03 21:03:07 --> Hooks Class Initialized
+DEBUG - 2024-12-03 21:03:07 --> UTF-8 Support Enabled
+INFO - 2024-12-03 21:03:07 --> Utf8 Class Initialized
+INFO - 2024-12-03 21:03:07 --> URI Class Initialized
+INFO - 2024-12-03 21:03:07 --> Router Class Initialized
+INFO - 2024-12-03 21:03:07 --> Output Class Initialized
+INFO - 2024-12-03 21:03:07 --> Security Class Initialized
+DEBUG - 2024-12-03 21:03:07 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-12-03 21:03:07 --> Input Class Initialized
+INFO - 2024-12-03 21:03:07 --> Language Class Initialized
+ERROR - 2024-12-03 21:03:07 --> 404 Page Not Found: Dashboard/Referensi/Cuti/get_refCuti
+INFO - 2024-12-03 21:05:03 --> Config Class Initialized
+INFO - 2024-12-03 21:05:03 --> Hooks Class Initialized
+DEBUG - 2024-12-03 21:05:03 --> UTF-8 Support Enabled
+INFO - 2024-12-03 21:05:03 --> Utf8 Class Initialized
+INFO - 2024-12-03 21:05:03 --> URI Class Initialized
+INFO - 2024-12-03 21:05:03 --> Router Class Initialized
+INFO - 2024-12-03 21:05:03 --> Output Class Initialized
+INFO - 2024-12-03 21:05:03 --> Security Class Initialized
+DEBUG - 2024-12-03 21:05:03 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-12-03 21:05:03 --> Input Class Initialized
+INFO - 2024-12-03 21:05:03 --> Language Class Initialized
+INFO - 2024-12-03 21:05:03 --> Loader Class Initialized
+INFO - 2024-12-03 21:05:03 --> Config Class Initialized
+INFO - 2024-12-03 21:05:03 --> Config Class Initialized
+INFO - 2024-12-03 21:05:03 --> Hooks Class Initialized
+INFO - 2024-12-03 21:05:03 --> Hooks Class Initialized
+DEBUG - 2024-12-03 21:05:03 --> UTF-8 Support Enabled
+DEBUG - 2024-12-03 21:05:03 --> UTF-8 Support Enabled
+INFO - 2024-12-03 21:05:03 --> Utf8 Class Initialized
+INFO - 2024-12-03 21:05:03 --> Utf8 Class Initialized
+INFO - 2024-12-03 21:05:03 --> URI Class Initialized
+INFO - 2024-12-03 21:05:03 --> URI Class Initialized
+INFO - 2024-12-03 21:05:03 --> Router Class Initialized
+INFO - 2024-12-03 21:05:03 --> Router Class Initialized
+INFO - 2024-12-03 21:05:03 --> Output Class Initialized
+INFO - 2024-12-03 21:05:03 --> Output Class Initialized
+INFO - 2024-12-03 21:05:03 --> Security Class Initialized
+INFO - 2024-12-03 21:05:03 --> Security Class Initialized
+DEBUG - 2024-12-03 21:05:03 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2024-12-03 21:05:03 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-12-03 21:05:03 --> Input Class Initialized
+INFO - 2024-12-03 21:05:03 --> Input Class Initialized
+INFO - 2024-12-03 21:05:03 --> Language Class Initialized
+INFO - 2024-12-03 21:05:03 --> Language Class Initialized
+ERROR - 2024-12-03 21:05:03 --> 404 Page Not Found: Assets/template
+ERROR - 2024-12-03 21:05:03 --> 404 Page Not Found: Assets/template
+INFO - 2024-12-03 21:05:03 --> Config Class Initialized
+INFO - 2024-12-03 21:05:03 --> Hooks Class Initialized
+DEBUG - 2024-12-03 21:05:03 --> UTF-8 Support Enabled
+INFO - 2024-12-03 21:05:03 --> Utf8 Class Initialized
+INFO - 2024-12-03 21:05:03 --> URI Class Initialized
+INFO - 2024-12-03 21:05:03 --> Router Class Initialized
+INFO - 2024-12-03 21:05:03 --> Output Class Initialized
+INFO - 2024-12-03 21:05:03 --> Security Class Initialized
+DEBUG - 2024-12-03 21:05:03 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-12-03 21:05:03 --> Input Class Initialized
+INFO - 2024-12-03 21:05:03 --> Language Class Initialized
+ERROR - 2024-12-03 21:05:03 --> 404 Page Not Found: Dashboard/Referensi/Cuti/get_refCuti
+INFO - 2024-12-03 21:10:01 --> Config Class Initialized
+INFO - 2024-12-03 21:10:01 --> Hooks Class Initialized
+DEBUG - 2024-12-03 21:10:01 --> UTF-8 Support Enabled
+INFO - 2024-12-03 21:10:01 --> Utf8 Class Initialized
+INFO - 2024-12-03 21:10:01 --> URI Class Initialized
+INFO - 2024-12-03 21:10:01 --> Router Class Initialized
+INFO - 2024-12-03 21:10:01 --> Output Class Initialized
+INFO - 2024-12-03 21:10:01 --> Security Class Initialized
+DEBUG - 2024-12-03 21:10:01 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-12-03 21:10:01 --> Input Class Initialized
+INFO - 2024-12-03 21:10:01 --> Language Class Initialized
+INFO - 2024-12-03 21:10:01 --> Loader Class Initialized
+INFO - 2024-12-03 21:10:04 --> Config Class Initialized
+INFO - 2024-12-03 21:10:04 --> Hooks Class Initialized
+DEBUG - 2024-12-03 21:10:04 --> UTF-8 Support Enabled
+INFO - 2024-12-03 21:10:04 --> Utf8 Class Initialized
+INFO - 2024-12-03 21:10:04 --> URI Class Initialized
+INFO - 2024-12-03 21:10:04 --> Router Class Initialized
+INFO - 2024-12-03 21:10:04 --> Output Class Initialized
+INFO - 2024-12-03 21:10:04 --> Security Class Initialized
+DEBUG - 2024-12-03 21:10:04 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-12-03 21:10:04 --> Input Class Initialized
+INFO - 2024-12-03 21:10:04 --> Language Class Initialized
+INFO - 2024-12-03 21:10:04 --> Loader Class Initialized
+INFO - 2024-12-03 21:10:05 --> Config Class Initialized
+INFO - 2024-12-03 21:10:05 --> Hooks Class Initialized
+DEBUG - 2024-12-03 21:10:05 --> UTF-8 Support Enabled
+INFO - 2024-12-03 21:10:05 --> Utf8 Class Initialized
+INFO - 2024-12-03 21:10:05 --> URI Class Initialized
+INFO - 2024-12-03 21:10:05 --> Router Class Initialized
+INFO - 2024-12-03 21:10:05 --> Output Class Initialized
+INFO - 2024-12-03 21:10:05 --> Security Class Initialized
+DEBUG - 2024-12-03 21:10:05 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-12-03 21:10:05 --> Input Class Initialized
+INFO - 2024-12-03 21:10:05 --> Language Class Initialized
+INFO - 2024-12-03 21:10:05 --> Loader Class Initialized
+INFO - 2024-12-03 21:11:00 --> Config Class Initialized
+INFO - 2024-12-03 21:11:00 --> Hooks Class Initialized
+DEBUG - 2024-12-03 21:11:00 --> UTF-8 Support Enabled
+INFO - 2024-12-03 21:11:00 --> Utf8 Class Initialized
+INFO - 2024-12-03 21:11:00 --> URI Class Initialized
+INFO - 2024-12-03 21:11:00 --> Router Class Initialized
+INFO - 2024-12-03 21:11:00 --> Output Class Initialized
+INFO - 2024-12-03 21:11:00 --> Security Class Initialized
+DEBUG - 2024-12-03 21:11:00 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-12-03 21:11:00 --> Input Class Initialized
+INFO - 2024-12-03 21:11:00 --> Language Class Initialized
+INFO - 2024-12-03 21:11:00 --> Loader Class Initialized
+INFO - 2024-12-03 21:11:00 --> Config Class Initialized
+INFO - 2024-12-03 21:11:00 --> Hooks Class Initialized
+DEBUG - 2024-12-03 21:11:00 --> UTF-8 Support Enabled
+INFO - 2024-12-03 21:11:00 --> Utf8 Class Initialized
+INFO - 2024-12-03 21:11:00 --> URI Class Initialized
+INFO - 2024-12-03 21:11:00 --> Router Class Initialized
+INFO - 2024-12-03 21:11:00 --> Output Class Initialized
+INFO - 2024-12-03 21:11:00 --> Security Class Initialized
+DEBUG - 2024-12-03 21:11:00 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-12-03 21:11:00 --> Input Class Initialized
+INFO - 2024-12-03 21:11:00 --> Language Class Initialized
+INFO - 2024-12-03 21:11:00 --> Loader Class Initialized
+INFO - 2024-12-03 21:11:20 --> Config Class Initialized
+INFO - 2024-12-03 21:11:20 --> Hooks Class Initialized
+DEBUG - 2024-12-03 21:11:20 --> UTF-8 Support Enabled
+INFO - 2024-12-03 21:11:20 --> Utf8 Class Initialized
+INFO - 2024-12-03 21:11:20 --> URI Class Initialized
+INFO - 2024-12-03 21:11:20 --> Router Class Initialized
+INFO - 2024-12-03 21:11:20 --> Output Class Initialized
+INFO - 2024-12-03 21:11:20 --> Security Class Initialized
+DEBUG - 2024-12-03 21:11:20 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-12-03 21:11:20 --> Input Class Initialized
+INFO - 2024-12-03 21:11:20 --> Language Class Initialized
+INFO - 2024-12-03 21:11:20 --> Loader Class Initialized
+INFO - 2024-12-03 21:11:20 --> Config Class Initialized
+INFO - 2024-12-03 21:11:20 --> Hooks Class Initialized
+DEBUG - 2024-12-03 21:11:20 --> UTF-8 Support Enabled
+INFO - 2024-12-03 21:11:20 --> Utf8 Class Initialized
+INFO - 2024-12-03 21:11:20 --> URI Class Initialized
+INFO - 2024-12-03 21:11:20 --> Router Class Initialized
+INFO - 2024-12-03 21:11:20 --> Output Class Initialized
+INFO - 2024-12-03 21:11:20 --> Security Class Initialized
+DEBUG - 2024-12-03 21:11:20 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-12-03 21:11:20 --> Input Class Initialized
+INFO - 2024-12-03 21:11:20 --> Language Class Initialized
+INFO - 2024-12-03 21:11:20 --> Loader Class Initialized
+INFO - 2024-12-03 21:12:01 --> Config Class Initialized
+INFO - 2024-12-03 21:12:01 --> Hooks Class Initialized
+DEBUG - 2024-12-03 21:12:01 --> UTF-8 Support Enabled
+INFO - 2024-12-03 21:12:01 --> Utf8 Class Initialized
+INFO - 2024-12-03 21:12:01 --> URI Class Initialized
+INFO - 2024-12-03 21:12:01 --> Router Class Initialized
+INFO - 2024-12-03 21:12:01 --> Output Class Initialized
+INFO - 2024-12-03 21:12:01 --> Security Class Initialized
+DEBUG - 2024-12-03 21:12:01 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-12-03 21:12:01 --> Input Class Initialized
+INFO - 2024-12-03 21:12:01 --> Language Class Initialized
+INFO - 2024-12-03 21:12:01 --> Loader Class Initialized
+INFO - 2024-12-03 21:12:01 --> Config Class Initialized
+INFO - 2024-12-03 21:12:01 --> Hooks Class Initialized
+DEBUG - 2024-12-03 21:12:01 --> UTF-8 Support Enabled
+INFO - 2024-12-03 21:12:01 --> Utf8 Class Initialized
+INFO - 2024-12-03 21:12:01 --> URI Class Initialized
+INFO - 2024-12-03 21:12:01 --> Router Class Initialized
+INFO - 2024-12-03 21:12:01 --> Output Class Initialized
+INFO - 2024-12-03 21:12:01 --> Security Class Initialized
+DEBUG - 2024-12-03 21:12:01 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-12-03 21:12:01 --> Input Class Initialized
+INFO - 2024-12-03 21:12:01 --> Language Class Initialized
+INFO - 2024-12-03 21:12:01 --> Loader Class Initialized
+INFO - 2024-12-03 21:12:31 --> Config Class Initialized
+INFO - 2024-12-03 21:12:31 --> Hooks Class Initialized
+DEBUG - 2024-12-03 21:12:31 --> UTF-8 Support Enabled
+INFO - 2024-12-03 21:12:31 --> Utf8 Class Initialized
+INFO - 2024-12-03 21:12:31 --> URI Class Initialized
+INFO - 2024-12-03 21:12:31 --> Router Class Initialized
+INFO - 2024-12-03 21:12:31 --> Output Class Initialized
+INFO - 2024-12-03 21:12:31 --> Security Class Initialized
+DEBUG - 2024-12-03 21:12:31 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-12-03 21:12:31 --> Input Class Initialized
+INFO - 2024-12-03 21:12:31 --> Language Class Initialized
+INFO - 2024-12-03 21:12:31 --> Loader Class Initialized
+INFO - 2024-12-03 21:12:32 --> Config Class Initialized
+INFO - 2024-12-03 21:12:32 --> Hooks Class Initialized
+DEBUG - 2024-12-03 21:12:32 --> UTF-8 Support Enabled
+INFO - 2024-12-03 21:12:32 --> Utf8 Class Initialized
+INFO - 2024-12-03 21:12:32 --> URI Class Initialized
+INFO - 2024-12-03 21:12:32 --> Router Class Initialized
+INFO - 2024-12-03 21:12:32 --> Output Class Initialized
+INFO - 2024-12-03 21:12:32 --> Security Class Initialized
+DEBUG - 2024-12-03 21:12:32 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-12-03 21:12:32 --> Input Class Initialized
+INFO - 2024-12-03 21:12:32 --> Language Class Initialized
+INFO - 2024-12-03 21:12:32 --> Loader Class Initialized
+INFO - 2024-12-03 21:12:41 --> Config Class Initialized
+INFO - 2024-12-03 21:12:41 --> Hooks Class Initialized
+DEBUG - 2024-12-03 21:12:41 --> UTF-8 Support Enabled
+INFO - 2024-12-03 21:12:41 --> Utf8 Class Initialized
+INFO - 2024-12-03 21:12:41 --> URI Class Initialized
+INFO - 2024-12-03 21:12:41 --> Router Class Initialized
+INFO - 2024-12-03 21:12:41 --> Output Class Initialized
+INFO - 2024-12-03 21:12:41 --> Security Class Initialized
+DEBUG - 2024-12-03 21:12:41 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-12-03 21:12:41 --> Input Class Initialized
+INFO - 2024-12-03 21:12:41 --> Language Class Initialized
+INFO - 2024-12-03 21:12:41 --> Loader Class Initialized
+INFO - 2024-12-03 21:12:42 --> Config Class Initialized
+INFO - 2024-12-03 21:12:42 --> Hooks Class Initialized
+DEBUG - 2024-12-03 21:12:42 --> UTF-8 Support Enabled
+INFO - 2024-12-03 21:12:42 --> Utf8 Class Initialized
+INFO - 2024-12-03 21:12:42 --> URI Class Initialized
+INFO - 2024-12-03 21:12:42 --> Router Class Initialized
+INFO - 2024-12-03 21:12:42 --> Output Class Initialized
+INFO - 2024-12-03 21:12:42 --> Security Class Initialized
+DEBUG - 2024-12-03 21:12:42 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-12-03 21:12:42 --> Input Class Initialized
+INFO - 2024-12-03 21:12:42 --> Language Class Initialized
+INFO - 2024-12-03 21:12:42 --> Loader Class Initialized
+INFO - 2024-12-03 21:13:23 --> Config Class Initialized
+INFO - 2024-12-03 21:13:23 --> Hooks Class Initialized
+DEBUG - 2024-12-03 21:13:23 --> UTF-8 Support Enabled
+INFO - 2024-12-03 21:13:23 --> Utf8 Class Initialized
+INFO - 2024-12-03 21:13:23 --> URI Class Initialized
+INFO - 2024-12-03 21:13:23 --> Router Class Initialized
+INFO - 2024-12-03 21:13:23 --> Output Class Initialized
+INFO - 2024-12-03 21:13:23 --> Security Class Initialized
+DEBUG - 2024-12-03 21:13:23 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-12-03 21:13:23 --> Input Class Initialized
+INFO - 2024-12-03 21:13:23 --> Language Class Initialized
+INFO - 2024-12-03 21:13:23 --> Loader Class Initialized
+INFO - 2024-12-03 21:13:23 --> Config Class Initialized
+INFO - 2024-12-03 21:13:23 --> Hooks Class Initialized
+DEBUG - 2024-12-03 21:13:23 --> UTF-8 Support Enabled
+INFO - 2024-12-03 21:13:23 --> Utf8 Class Initialized
+INFO - 2024-12-03 21:13:23 --> URI Class Initialized
+INFO - 2024-12-03 21:13:23 --> Router Class Initialized
+INFO - 2024-12-03 21:13:23 --> Output Class Initialized
+INFO - 2024-12-03 21:13:23 --> Security Class Initialized
+DEBUG - 2024-12-03 21:13:23 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-12-03 21:13:23 --> Input Class Initialized
+INFO - 2024-12-03 21:13:23 --> Language Class Initialized
+INFO - 2024-12-03 21:13:23 --> Loader Class Initialized
+INFO - 2024-12-03 21:13:53 --> Config Class Initialized
+INFO - 2024-12-03 21:13:53 --> Hooks Class Initialized
+DEBUG - 2024-12-03 21:13:53 --> UTF-8 Support Enabled
+INFO - 2024-12-03 21:13:53 --> Utf8 Class Initialized
+INFO - 2024-12-03 21:13:53 --> URI Class Initialized
+INFO - 2024-12-03 21:13:53 --> Router Class Initialized
+INFO - 2024-12-03 21:13:53 --> Output Class Initialized
+INFO - 2024-12-03 21:13:53 --> Security Class Initialized
+DEBUG - 2024-12-03 21:13:53 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-12-03 21:13:53 --> Input Class Initialized
+INFO - 2024-12-03 21:13:53 --> Language Class Initialized
+INFO - 2024-12-03 21:13:53 --> Loader Class Initialized
+INFO - 2024-12-03 21:13:53 --> Config Class Initialized
+INFO - 2024-12-03 21:13:53 --> Hooks Class Initialized
+DEBUG - 2024-12-03 21:13:53 --> UTF-8 Support Enabled
+INFO - 2024-12-03 21:13:53 --> Utf8 Class Initialized
+INFO - 2024-12-03 21:13:53 --> URI Class Initialized
+INFO - 2024-12-03 21:13:53 --> Router Class Initialized
+INFO - 2024-12-03 21:13:53 --> Output Class Initialized
+INFO - 2024-12-03 21:13:53 --> Security Class Initialized
+DEBUG - 2024-12-03 21:13:53 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-12-03 21:13:53 --> Input Class Initialized
+INFO - 2024-12-03 21:13:53 --> Language Class Initialized
+INFO - 2024-12-03 21:13:53 --> Loader Class Initialized
+INFO - 2024-12-03 21:14:10 --> Config Class Initialized
+INFO - 2024-12-03 21:14:10 --> Hooks Class Initialized
+DEBUG - 2024-12-03 21:14:10 --> UTF-8 Support Enabled
+INFO - 2024-12-03 21:14:10 --> Utf8 Class Initialized
+INFO - 2024-12-03 21:14:10 --> URI Class Initialized
+INFO - 2024-12-03 21:14:10 --> Router Class Initialized
+INFO - 2024-12-03 21:14:10 --> Output Class Initialized
+INFO - 2024-12-03 21:14:10 --> Security Class Initialized
+DEBUG - 2024-12-03 21:14:10 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-12-03 21:14:10 --> Input Class Initialized
+INFO - 2024-12-03 21:14:10 --> Language Class Initialized
+INFO - 2024-12-03 21:14:10 --> Loader Class Initialized
+INFO - 2024-12-03 21:14:11 --> Config Class Initialized
+INFO - 2024-12-03 21:14:11 --> Hooks Class Initialized
+DEBUG - 2024-12-03 21:14:11 --> UTF-8 Support Enabled
+INFO - 2024-12-03 21:14:11 --> Utf8 Class Initialized
+INFO - 2024-12-03 21:14:11 --> URI Class Initialized
+INFO - 2024-12-03 21:14:11 --> Router Class Initialized
+INFO - 2024-12-03 21:14:11 --> Output Class Initialized
+INFO - 2024-12-03 21:14:11 --> Security Class Initialized
+DEBUG - 2024-12-03 21:14:11 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-12-03 21:14:11 --> Input Class Initialized
+INFO - 2024-12-03 21:14:11 --> Language Class Initialized
+INFO - 2024-12-03 21:14:11 --> Loader Class Initialized
+INFO - 2024-12-03 21:14:23 --> Config Class Initialized
+INFO - 2024-12-03 21:14:23 --> Hooks Class Initialized
+DEBUG - 2024-12-03 21:14:23 --> UTF-8 Support Enabled
+INFO - 2024-12-03 21:14:23 --> Utf8 Class Initialized
+INFO - 2024-12-03 21:14:23 --> URI Class Initialized
+INFO - 2024-12-03 21:14:23 --> Router Class Initialized
+INFO - 2024-12-03 21:14:23 --> Output Class Initialized
+INFO - 2024-12-03 21:14:23 --> Security Class Initialized
+DEBUG - 2024-12-03 21:14:23 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-12-03 21:14:23 --> Input Class Initialized
+INFO - 2024-12-03 21:14:23 --> Language Class Initialized
+INFO - 2024-12-03 21:14:23 --> Loader Class Initialized
+INFO - 2024-12-03 21:14:23 --> Config Class Initialized
+INFO - 2024-12-03 21:14:23 --> Hooks Class Initialized
+DEBUG - 2024-12-03 21:14:23 --> UTF-8 Support Enabled
+INFO - 2024-12-03 21:14:23 --> Utf8 Class Initialized
+INFO - 2024-12-03 21:14:24 --> URI Class Initialized
+INFO - 2024-12-03 21:14:24 --> Router Class Initialized
+INFO - 2024-12-03 21:14:24 --> Output Class Initialized
+INFO - 2024-12-03 21:14:24 --> Security Class Initialized
+DEBUG - 2024-12-03 21:14:24 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-12-03 21:14:24 --> Input Class Initialized
+INFO - 2024-12-03 21:14:24 --> Language Class Initialized
+INFO - 2024-12-03 21:14:24 --> Loader Class Initialized
+INFO - 2024-12-03 21:27:26 --> Config Class Initialized
+INFO - 2024-12-03 21:27:26 --> Hooks Class Initialized
+DEBUG - 2024-12-03 21:27:26 --> UTF-8 Support Enabled
+INFO - 2024-12-03 21:27:26 --> Utf8 Class Initialized
+INFO - 2024-12-03 21:27:26 --> URI Class Initialized
+INFO - 2024-12-03 21:27:26 --> Router Class Initialized
+INFO - 2024-12-03 21:27:26 --> Output Class Initialized
+INFO - 2024-12-03 21:27:26 --> Security Class Initialized
+DEBUG - 2024-12-03 21:27:26 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-12-03 21:27:26 --> Input Class Initialized
+INFO - 2024-12-03 21:27:26 --> Language Class Initialized
+INFO - 2024-12-03 21:27:26 --> Loader Class Initialized
+INFO - 2024-12-03 21:27:26 --> Config Class Initialized
+INFO - 2024-12-03 21:27:26 --> Hooks Class Initialized
+DEBUG - 2024-12-03 21:27:26 --> UTF-8 Support Enabled
+INFO - 2024-12-03 21:27:26 --> Utf8 Class Initialized
+INFO - 2024-12-03 21:27:26 --> URI Class Initialized
+INFO - 2024-12-03 21:27:26 --> Router Class Initialized
+INFO - 2024-12-03 21:27:26 --> Output Class Initialized
+INFO - 2024-12-03 21:27:26 --> Security Class Initialized
+DEBUG - 2024-12-03 21:27:26 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-12-03 21:27:26 --> Input Class Initialized
+INFO - 2024-12-03 21:27:26 --> Language Class Initialized
+INFO - 2024-12-03 21:27:26 --> Loader Class Initialized
+INFO - 2024-12-03 21:29:03 --> Config Class Initialized
+INFO - 2024-12-03 21:29:03 --> Config Class Initialized
+INFO - 2024-12-03 21:29:03 --> Hooks Class Initialized
+INFO - 2024-12-03 21:29:03 --> Hooks Class Initialized
+DEBUG - 2024-12-03 21:29:03 --> UTF-8 Support Enabled
+DEBUG - 2024-12-03 21:29:03 --> UTF-8 Support Enabled
+INFO - 2024-12-03 21:29:03 --> Utf8 Class Initialized
+INFO - 2024-12-03 21:29:03 --> Utf8 Class Initialized
+INFO - 2024-12-03 21:29:03 --> URI Class Initialized
+INFO - 2024-12-03 21:29:03 --> URI Class Initialized
+INFO - 2024-12-03 21:29:03 --> Router Class Initialized
+INFO - 2024-12-03 21:29:03 --> Router Class Initialized
+INFO - 2024-12-03 21:29:03 --> Output Class Initialized
+INFO - 2024-12-03 21:29:03 --> Output Class Initialized
+INFO - 2024-12-03 21:29:03 --> Security Class Initialized
+INFO - 2024-12-03 21:29:03 --> Security Class Initialized
+DEBUG - 2024-12-03 21:29:03 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2024-12-03 21:29:03 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-12-03 21:29:03 --> Input Class Initialized
+INFO - 2024-12-03 21:29:03 --> Input Class Initialized
+INFO - 2024-12-03 21:29:03 --> Language Class Initialized
+INFO - 2024-12-03 21:29:03 --> Language Class Initialized
+ERROR - 2024-12-03 21:29:03 --> 404 Page Not Found: Assets/template
+ERROR - 2024-12-03 21:29:03 --> 404 Page Not Found: Assets/template
+INFO - 2024-12-03 21:33:20 --> Config Class Initialized
+INFO - 2024-12-03 21:33:20 --> Hooks Class Initialized
+DEBUG - 2024-12-03 21:33:20 --> UTF-8 Support Enabled
+INFO - 2024-12-03 21:33:20 --> Utf8 Class Initialized
+INFO - 2024-12-03 21:33:20 --> URI Class Initialized
+INFO - 2024-12-03 21:33:20 --> Router Class Initialized
+INFO - 2024-12-03 21:33:20 --> Output Class Initialized
+INFO - 2024-12-03 21:33:20 --> Security Class Initialized
+DEBUG - 2024-12-03 21:33:20 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-12-03 21:33:20 --> Input Class Initialized
+INFO - 2024-12-03 21:33:20 --> Language Class Initialized
+INFO - 2024-12-03 21:33:20 --> Loader Class Initialized
+INFO - 2024-12-03 21:33:21 --> Config Class Initialized
+INFO - 2024-12-03 21:33:21 --> Hooks Class Initialized
+DEBUG - 2024-12-03 21:33:21 --> UTF-8 Support Enabled
+INFO - 2024-12-03 21:33:21 --> Utf8 Class Initialized
+INFO - 2024-12-03 21:33:21 --> URI Class Initialized
+INFO - 2024-12-03 21:33:21 --> Router Class Initialized
+INFO - 2024-12-03 21:33:21 --> Output Class Initialized
+INFO - 2024-12-03 21:33:21 --> Security Class Initialized
+INFO - 2024-12-03 21:33:21 --> Config Class Initialized
+INFO - 2024-12-03 21:33:21 --> Hooks Class Initialized
+DEBUG - 2024-12-03 21:33:21 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-12-03 21:33:21 --> Input Class Initialized
+INFO - 2024-12-03 21:33:21 --> Language Class Initialized
+ERROR - 2024-12-03 21:33:21 --> 404 Page Not Found: Assets/template
+DEBUG - 2024-12-03 21:33:21 --> UTF-8 Support Enabled
+INFO - 2024-12-03 21:33:21 --> Utf8 Class Initialized
+INFO - 2024-12-03 21:33:21 --> URI Class Initialized
+INFO - 2024-12-03 21:33:21 --> Router Class Initialized
+INFO - 2024-12-03 21:33:21 --> Output Class Initialized
+INFO - 2024-12-03 21:33:21 --> Security Class Initialized
+DEBUG - 2024-12-03 21:33:21 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-12-03 21:33:21 --> Input Class Initialized
+INFO - 2024-12-03 21:33:21 --> Language Class Initialized
+ERROR - 2024-12-03 21:33:21 --> 404 Page Not Found: Assets/template
+INFO - 2024-12-03 21:33:21 --> Config Class Initialized
+INFO - 2024-12-03 21:33:21 --> Hooks Class Initialized
+DEBUG - 2024-12-03 21:33:21 --> UTF-8 Support Enabled
+INFO - 2024-12-03 21:33:21 --> Utf8 Class Initialized
+INFO - 2024-12-03 21:33:21 --> URI Class Initialized
+INFO - 2024-12-03 21:33:21 --> Router Class Initialized
+INFO - 2024-12-03 21:33:21 --> Output Class Initialized
+INFO - 2024-12-03 21:33:21 --> Security Class Initialized
+DEBUG - 2024-12-03 21:33:21 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-12-03 21:33:21 --> Input Class Initialized
+INFO - 2024-12-03 21:33:21 --> Language Class Initialized
+INFO - 2024-12-03 21:33:21 --> Loader Class Initialized
+INFO - 2024-12-03 21:33:34 --> Config Class Initialized
+INFO - 2024-12-03 21:33:34 --> Hooks Class Initialized
+DEBUG - 2024-12-03 21:33:34 --> UTF-8 Support Enabled
+INFO - 2024-12-03 21:33:34 --> Utf8 Class Initialized
+INFO - 2024-12-03 21:33:34 --> URI Class Initialized
+INFO - 2024-12-03 21:33:34 --> Router Class Initialized
+INFO - 2024-12-03 21:33:34 --> Output Class Initialized
+INFO - 2024-12-03 21:33:34 --> Security Class Initialized
+DEBUG - 2024-12-03 21:33:34 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-12-03 21:33:34 --> Input Class Initialized
+INFO - 2024-12-03 21:33:34 --> Language Class Initialized
+INFO - 2024-12-03 21:33:34 --> Loader Class Initialized
+INFO - 2024-12-03 21:33:36 --> Config Class Initialized
+INFO - 2024-12-03 21:33:36 --> Hooks Class Initialized
+DEBUG - 2024-12-03 21:33:36 --> UTF-8 Support Enabled
+INFO - 2024-12-03 21:33:36 --> Utf8 Class Initialized
+INFO - 2024-12-03 21:33:36 --> URI Class Initialized
+INFO - 2024-12-03 21:33:36 --> Router Class Initialized
+INFO - 2024-12-03 21:33:36 --> Output Class Initialized
+INFO - 2024-12-03 21:33:36 --> Security Class Initialized
+DEBUG - 2024-12-03 21:33:36 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-12-03 21:33:36 --> Input Class Initialized
+INFO - 2024-12-03 21:33:36 --> Language Class Initialized
+INFO - 2024-12-03 21:33:36 --> Loader Class Initialized
+INFO - 2024-12-03 21:56:50 --> Config Class Initialized
+INFO - 2024-12-03 21:56:50 --> Hooks Class Initialized
+DEBUG - 2024-12-03 21:56:50 --> UTF-8 Support Enabled
+INFO - 2024-12-03 21:56:50 --> Utf8 Class Initialized
+INFO - 2024-12-03 21:56:50 --> URI Class Initialized
+INFO - 2024-12-03 21:56:50 --> Router Class Initialized
+INFO - 2024-12-03 21:56:50 --> Output Class Initialized
+INFO - 2024-12-03 21:56:50 --> Security Class Initialized
+DEBUG - 2024-12-03 21:56:50 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-12-03 21:56:50 --> Input Class Initialized
+INFO - 2024-12-03 21:56:50 --> Language Class Initialized
+INFO - 2024-12-03 21:56:50 --> Loader Class Initialized
+INFO - 2024-12-03 21:56:51 --> Config Class Initialized
+INFO - 2024-12-03 21:56:51 --> Hooks Class Initialized
+DEBUG - 2024-12-03 21:56:51 --> UTF-8 Support Enabled
+INFO - 2024-12-03 21:56:51 --> Utf8 Class Initialized
+INFO - 2024-12-03 21:56:51 --> URI Class Initialized
+INFO - 2024-12-03 21:56:51 --> Router Class Initialized
+INFO - 2024-12-03 21:56:51 --> Output Class Initialized
+INFO - 2024-12-03 21:56:51 --> Security Class Initialized
+DEBUG - 2024-12-03 21:56:51 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-12-03 21:56:51 --> Input Class Initialized
+INFO - 2024-12-03 21:56:51 --> Language Class Initialized
+INFO - 2024-12-03 21:56:51 --> Loader Class Initialized
+INFO - 2024-12-03 21:58:35 --> Config Class Initialized
+INFO - 2024-12-03 21:58:35 --> Hooks Class Initialized
+DEBUG - 2024-12-03 21:58:35 --> UTF-8 Support Enabled
+INFO - 2024-12-03 21:58:35 --> Utf8 Class Initialized
+INFO - 2024-12-03 21:58:35 --> URI Class Initialized
+INFO - 2024-12-03 21:58:36 --> Router Class Initialized
+INFO - 2024-12-03 21:58:36 --> Output Class Initialized
+INFO - 2024-12-03 21:58:36 --> Security Class Initialized
+DEBUG - 2024-12-03 21:58:36 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-12-03 21:58:36 --> Input Class Initialized
+INFO - 2024-12-03 21:58:36 --> Language Class Initialized
+INFO - 2024-12-03 21:58:36 --> Loader Class Initialized
+INFO - 2024-12-03 21:58:36 --> Config Class Initialized
+INFO - 2024-12-03 21:58:36 --> Hooks Class Initialized
+DEBUG - 2024-12-03 21:58:36 --> UTF-8 Support Enabled
+INFO - 2024-12-03 21:58:36 --> Utf8 Class Initialized
+INFO - 2024-12-03 21:58:36 --> URI Class Initialized
+INFO - 2024-12-03 21:58:36 --> Router Class Initialized
+INFO - 2024-12-03 21:58:36 --> Output Class Initialized
+INFO - 2024-12-03 21:58:36 --> Security Class Initialized
+DEBUG - 2024-12-03 21:58:36 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-12-03 21:58:36 --> Input Class Initialized
+INFO - 2024-12-03 21:58:36 --> Language Class Initialized
+INFO - 2024-12-03 21:58:36 --> Loader Class Initialized
+INFO - 2024-12-03 21:59:51 --> Config Class Initialized
+INFO - 2024-12-03 21:59:51 --> Hooks Class Initialized
+DEBUG - 2024-12-03 21:59:51 --> UTF-8 Support Enabled
+INFO - 2024-12-03 21:59:51 --> Utf8 Class Initialized
+INFO - 2024-12-03 21:59:51 --> URI Class Initialized
+INFO - 2024-12-03 21:59:51 --> Router Class Initialized
+INFO - 2024-12-03 21:59:51 --> Output Class Initialized
+INFO - 2024-12-03 21:59:51 --> Security Class Initialized
+DEBUG - 2024-12-03 21:59:51 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-12-03 21:59:51 --> Input Class Initialized
+INFO - 2024-12-03 21:59:51 --> Language Class Initialized
+INFO - 2024-12-03 21:59:51 --> Loader Class Initialized
+INFO - 2024-12-03 21:59:52 --> Config Class Initialized
+INFO - 2024-12-03 21:59:52 --> Hooks Class Initialized
+DEBUG - 2024-12-03 21:59:52 --> UTF-8 Support Enabled
+INFO - 2024-12-03 21:59:52 --> Utf8 Class Initialized
+INFO - 2024-12-03 21:59:52 --> URI Class Initialized
+INFO - 2024-12-03 21:59:52 --> Router Class Initialized
+INFO - 2024-12-03 21:59:52 --> Output Class Initialized
+INFO - 2024-12-03 21:59:52 --> Security Class Initialized
+DEBUG - 2024-12-03 21:59:52 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-12-03 21:59:52 --> Input Class Initialized
+INFO - 2024-12-03 21:59:52 --> Language Class Initialized
+INFO - 2024-12-03 21:59:52 --> Loader Class Initialized
+INFO - 2024-12-03 22:00:42 --> Config Class Initialized
+INFO - 2024-12-03 22:00:42 --> Config Class Initialized
+INFO - 2024-12-03 22:00:42 --> Hooks Class Initialized
+INFO - 2024-12-03 22:00:42 --> Hooks Class Initialized
+DEBUG - 2024-12-03 22:00:42 --> UTF-8 Support Enabled
+INFO - 2024-12-03 22:00:42 --> Utf8 Class Initialized
+DEBUG - 2024-12-03 22:00:42 --> UTF-8 Support Enabled
+INFO - 2024-12-03 22:00:42 --> Utf8 Class Initialized
+INFO - 2024-12-03 22:00:42 --> URI Class Initialized
+INFO - 2024-12-03 22:00:42 --> URI Class Initialized
+INFO - 2024-12-03 22:00:42 --> Router Class Initialized
+INFO - 2024-12-03 22:00:42 --> Router Class Initialized
+INFO - 2024-12-03 22:00:42 --> Output Class Initialized
+INFO - 2024-12-03 22:00:42 --> Output Class Initialized
+INFO - 2024-12-03 22:00:42 --> Security Class Initialized
+INFO - 2024-12-03 22:00:42 --> Security Class Initialized
+DEBUG - 2024-12-03 22:00:42 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-12-03 22:00:42 --> Input Class Initialized
+INFO - 2024-12-03 22:00:42 --> Language Class Initialized
+DEBUG - 2024-12-03 22:00:42 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-12-03 22:00:42 --> Input Class Initialized
+ERROR - 2024-12-03 22:00:42 --> 404 Page Not Found: Assets/template
+INFO - 2024-12-03 22:00:42 --> Language Class Initialized
+ERROR - 2024-12-03 22:00:42 --> 404 Page Not Found: Assets/template
+INFO - 2024-12-03 22:05:06 --> Config Class Initialized
+INFO - 2024-12-03 22:05:06 --> Hooks Class Initialized
+DEBUG - 2024-12-03 22:05:06 --> UTF-8 Support Enabled
+INFO - 2024-12-03 22:05:06 --> Utf8 Class Initialized
+INFO - 2024-12-03 22:05:06 --> URI Class Initialized
+INFO - 2024-12-03 22:05:06 --> Router Class Initialized
+INFO - 2024-12-03 22:05:06 --> Output Class Initialized
+INFO - 2024-12-03 22:05:06 --> Security Class Initialized
+DEBUG - 2024-12-03 22:05:06 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-12-03 22:05:06 --> Input Class Initialized
+INFO - 2024-12-03 22:05:06 --> Language Class Initialized
+INFO - 2024-12-03 22:05:06 --> Loader Class Initialized
+INFO - 2024-12-03 22:05:06 --> Config Class Initialized
+INFO - 2024-12-03 22:05:06 --> Hooks Class Initialized
+DEBUG - 2024-12-03 22:05:06 --> UTF-8 Support Enabled
+INFO - 2024-12-03 22:05:06 --> Utf8 Class Initialized
+INFO - 2024-12-03 22:05:06 --> URI Class Initialized
+INFO - 2024-12-03 22:05:06 --> Router Class Initialized
+INFO - 2024-12-03 22:05:06 --> Output Class Initialized
+INFO - 2024-12-03 22:05:06 --> Security Class Initialized
+DEBUG - 2024-12-03 22:05:06 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-12-03 22:05:06 --> Input Class Initialized
+INFO - 2024-12-03 22:05:06 --> Language Class Initialized
+INFO - 2024-12-03 22:05:06 --> Loader Class Initialized
+INFO - 2024-12-03 22:05:14 --> Config Class Initialized
+INFO - 2024-12-03 22:05:14 --> Hooks Class Initialized
+INFO - 2024-12-03 22:05:14 --> Config Class Initialized
+INFO - 2024-12-03 22:05:14 --> Hooks Class Initialized
+DEBUG - 2024-12-03 22:05:14 --> UTF-8 Support Enabled
+DEBUG - 2024-12-03 22:05:14 --> UTF-8 Support Enabled
+INFO - 2024-12-03 22:05:14 --> Utf8 Class Initialized
+INFO - 2024-12-03 22:05:14 --> Utf8 Class Initialized
+INFO - 2024-12-03 22:05:14 --> URI Class Initialized
+INFO - 2024-12-03 22:05:14 --> URI Class Initialized
+INFO - 2024-12-03 22:05:14 --> Router Class Initialized
+INFO - 2024-12-03 22:05:14 --> Router Class Initialized
+INFO - 2024-12-03 22:05:14 --> Output Class Initialized
+INFO - 2024-12-03 22:05:14 --> Output Class Initialized
+INFO - 2024-12-03 22:05:14 --> Security Class Initialized
+INFO - 2024-12-03 22:05:14 --> Security Class Initialized
+DEBUG - 2024-12-03 22:05:14 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2024-12-03 22:05:14 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-12-03 22:05:14 --> Input Class Initialized
+INFO - 2024-12-03 22:05:14 --> Input Class Initialized
+INFO - 2024-12-03 22:05:14 --> Language Class Initialized
+INFO - 2024-12-03 22:05:14 --> Language Class Initialized
+ERROR - 2024-12-03 22:05:14 --> 404 Page Not Found: Assets/template
+ERROR - 2024-12-03 22:05:14 --> 404 Page Not Found: Assets/template
+INFO - 2024-12-03 22:10:40 --> Config Class Initialized
+INFO - 2024-12-03 22:10:40 --> Hooks Class Initialized
+DEBUG - 2024-12-03 22:10:40 --> UTF-8 Support Enabled
+INFO - 2024-12-03 22:10:40 --> Utf8 Class Initialized
+INFO - 2024-12-03 22:10:40 --> URI Class Initialized
+INFO - 2024-12-03 22:10:40 --> Router Class Initialized
+INFO - 2024-12-03 22:10:40 --> Output Class Initialized
+INFO - 2024-12-03 22:10:40 --> Security Class Initialized
+DEBUG - 2024-12-03 22:10:40 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-12-03 22:10:40 --> Input Class Initialized
+INFO - 2024-12-03 22:10:40 --> Language Class Initialized
+INFO - 2024-12-03 22:10:40 --> Loader Class Initialized
+INFO - 2024-12-03 22:10:41 --> Config Class Initialized
+INFO - 2024-12-03 22:10:41 --> Hooks Class Initialized
+DEBUG - 2024-12-03 22:10:41 --> UTF-8 Support Enabled
+INFO - 2024-12-03 22:10:41 --> Utf8 Class Initialized
+INFO - 2024-12-03 22:10:41 --> Config Class Initialized
+INFO - 2024-12-03 22:10:41 --> URI Class Initialized
+INFO - 2024-12-03 22:10:41 --> Hooks Class Initialized
+INFO - 2024-12-03 22:10:41 --> Router Class Initialized
+INFO - 2024-12-03 22:10:41 --> Output Class Initialized
+DEBUG - 2024-12-03 22:10:41 --> UTF-8 Support Enabled
+INFO - 2024-12-03 22:10:41 --> Utf8 Class Initialized
+INFO - 2024-12-03 22:10:41 --> Security Class Initialized
+INFO - 2024-12-03 22:10:41 --> URI Class Initialized
+DEBUG - 2024-12-03 22:10:41 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-12-03 22:10:41 --> Input Class Initialized
+INFO - 2024-12-03 22:10:41 --> Language Class Initialized
+INFO - 2024-12-03 22:10:41 --> Router Class Initialized
+ERROR - 2024-12-03 22:10:41 --> 404 Page Not Found: Assets/template
+INFO - 2024-12-03 22:10:41 --> Output Class Initialized
+INFO - 2024-12-03 22:10:41 --> Security Class Initialized
+DEBUG - 2024-12-03 22:10:41 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-12-03 22:10:41 --> Input Class Initialized
+INFO - 2024-12-03 22:10:41 --> Language Class Initialized
+ERROR - 2024-12-03 22:10:41 --> 404 Page Not Found: Assets/template
+INFO - 2024-12-03 22:10:41 --> Config Class Initialized
+INFO - 2024-12-03 22:10:41 --> Hooks Class Initialized
+DEBUG - 2024-12-03 22:10:41 --> UTF-8 Support Enabled
+INFO - 2024-12-03 22:10:41 --> Utf8 Class Initialized
+INFO - 2024-12-03 22:10:41 --> URI Class Initialized
+INFO - 2024-12-03 22:10:41 --> Router Class Initialized
+INFO - 2024-12-03 22:10:41 --> Output Class Initialized
+INFO - 2024-12-03 22:10:41 --> Security Class Initialized
+DEBUG - 2024-12-03 22:10:41 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-12-03 22:10:41 --> Input Class Initialized
+INFO - 2024-12-03 22:10:41 --> Language Class Initialized
+INFO - 2024-12-03 22:10:41 --> Loader Class Initialized
+INFO - 2024-12-03 22:11:19 --> Config Class Initialized
+INFO - 2024-12-03 22:11:19 --> Hooks Class Initialized
+DEBUG - 2024-12-03 22:11:19 --> UTF-8 Support Enabled
+INFO - 2024-12-03 22:11:19 --> Utf8 Class Initialized
+INFO - 2024-12-03 22:11:19 --> URI Class Initialized
+INFO - 2024-12-03 22:11:19 --> Router Class Initialized
+INFO - 2024-12-03 22:11:19 --> Output Class Initialized
+INFO - 2024-12-03 22:11:19 --> Security Class Initialized
+DEBUG - 2024-12-03 22:11:19 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-12-03 22:11:19 --> Input Class Initialized
+INFO - 2024-12-03 22:11:19 --> Language Class Initialized
+INFO - 2024-12-03 22:11:19 --> Loader Class Initialized
+INFO - 2024-12-03 22:11:20 --> Config Class Initialized
+INFO - 2024-12-03 22:11:20 --> Hooks Class Initialized
+DEBUG - 2024-12-03 22:11:20 --> UTF-8 Support Enabled
+INFO - 2024-12-03 22:11:20 --> Utf8 Class Initialized
+INFO - 2024-12-03 22:11:20 --> URI Class Initialized
+INFO - 2024-12-03 22:11:20 --> Router Class Initialized
+INFO - 2024-12-03 22:11:20 --> Output Class Initialized
+INFO - 2024-12-03 22:11:20 --> Security Class Initialized
+DEBUG - 2024-12-03 22:11:20 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-12-03 22:11:20 --> Input Class Initialized
+INFO - 2024-12-03 22:11:20 --> Language Class Initialized
+INFO - 2024-12-03 22:11:20 --> Loader Class Initialized
+INFO - 2024-12-03 22:11:32 --> Config Class Initialized
+INFO - 2024-12-03 22:11:32 --> Hooks Class Initialized
+DEBUG - 2024-12-03 22:11:32 --> UTF-8 Support Enabled
+INFO - 2024-12-03 22:11:32 --> Utf8 Class Initialized
+INFO - 2024-12-03 22:11:32 --> URI Class Initialized
+INFO - 2024-12-03 22:11:32 --> Router Class Initialized
+INFO - 2024-12-03 22:11:32 --> Output Class Initialized
+INFO - 2024-12-03 22:11:32 --> Security Class Initialized
+DEBUG - 2024-12-03 22:11:32 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-12-03 22:11:32 --> Input Class Initialized
+INFO - 2024-12-03 22:11:32 --> Language Class Initialized
+INFO - 2024-12-03 22:11:32 --> Loader Class Initialized
+INFO - 2024-12-03 22:11:42 --> Config Class Initialized
+INFO - 2024-12-03 22:11:42 --> Hooks Class Initialized
+DEBUG - 2024-12-03 22:11:42 --> UTF-8 Support Enabled
+INFO - 2024-12-03 22:11:42 --> Utf8 Class Initialized
+INFO - 2024-12-03 22:11:42 --> URI Class Initialized
+INFO - 2024-12-03 22:11:42 --> Router Class Initialized
+INFO - 2024-12-03 22:11:42 --> Output Class Initialized
+INFO - 2024-12-03 22:11:42 --> Security Class Initialized
+DEBUG - 2024-12-03 22:11:42 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-12-03 22:11:42 --> Input Class Initialized
+INFO - 2024-12-03 22:11:42 --> Language Class Initialized
+INFO - 2024-12-03 22:11:42 --> Loader Class Initialized
+INFO - 2024-12-03 22:11:44 --> Config Class Initialized
+INFO - 2024-12-03 22:11:44 --> Hooks Class Initialized
+DEBUG - 2024-12-03 22:11:44 --> UTF-8 Support Enabled
+INFO - 2024-12-03 22:11:44 --> Utf8 Class Initialized
+INFO - 2024-12-03 22:11:44 --> URI Class Initialized
+INFO - 2024-12-03 22:11:44 --> Router Class Initialized
+INFO - 2024-12-03 22:11:44 --> Output Class Initialized
+INFO - 2024-12-03 22:11:44 --> Security Class Initialized
+DEBUG - 2024-12-03 22:11:44 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-12-03 22:11:44 --> Input Class Initialized
+INFO - 2024-12-03 22:11:44 --> Language Class Initialized
+INFO - 2024-12-03 22:11:44 --> Loader Class Initialized
+INFO - 2024-12-03 22:14:29 --> Config Class Initialized
+INFO - 2024-12-03 22:14:29 --> Hooks Class Initialized
+DEBUG - 2024-12-03 22:14:29 --> UTF-8 Support Enabled
+INFO - 2024-12-03 22:14:29 --> Utf8 Class Initialized
+INFO - 2024-12-03 22:14:29 --> URI Class Initialized
+INFO - 2024-12-03 22:14:29 --> Router Class Initialized
+INFO - 2024-12-03 22:14:29 --> Output Class Initialized
+INFO - 2024-12-03 22:14:29 --> Security Class Initialized
+DEBUG - 2024-12-03 22:14:29 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-12-03 22:14:29 --> Input Class Initialized
+INFO - 2024-12-03 22:14:29 --> Language Class Initialized
+INFO - 2024-12-03 22:14:29 --> Loader Class Initialized
+INFO - 2024-12-03 22:14:36 --> Config Class Initialized
+INFO - 2024-12-03 22:14:36 --> Hooks Class Initialized
+DEBUG - 2024-12-03 22:14:36 --> UTF-8 Support Enabled
+INFO - 2024-12-03 22:14:36 --> Utf8 Class Initialized
+INFO - 2024-12-03 22:14:36 --> URI Class Initialized
+INFO - 2024-12-03 22:14:36 --> Router Class Initialized
+INFO - 2024-12-03 22:14:36 --> Output Class Initialized
+INFO - 2024-12-03 22:14:36 --> Security Class Initialized
+DEBUG - 2024-12-03 22:14:36 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-12-03 22:14:36 --> Input Class Initialized
+INFO - 2024-12-03 22:14:36 --> Language Class Initialized
+INFO - 2024-12-03 22:14:36 --> Loader Class Initialized
+INFO - 2024-12-03 22:14:38 --> Config Class Initialized
+INFO - 2024-12-03 22:14:38 --> Hooks Class Initialized
+DEBUG - 2024-12-03 22:14:38 --> UTF-8 Support Enabled
+INFO - 2024-12-03 22:14:38 --> Utf8 Class Initialized
+INFO - 2024-12-03 22:14:38 --> URI Class Initialized
+INFO - 2024-12-03 22:14:38 --> Router Class Initialized
+INFO - 2024-12-03 22:14:38 --> Output Class Initialized
+INFO - 2024-12-03 22:14:38 --> Security Class Initialized
+DEBUG - 2024-12-03 22:14:38 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-12-03 22:14:38 --> Input Class Initialized
+INFO - 2024-12-03 22:14:38 --> Language Class Initialized
+INFO - 2024-12-03 22:14:38 --> Loader Class Initialized
+INFO - 2024-12-03 22:15:16 --> Config Class Initialized
+INFO - 2024-12-03 22:15:16 --> Hooks Class Initialized
+DEBUG - 2024-12-03 22:15:16 --> UTF-8 Support Enabled
+INFO - 2024-12-03 22:15:16 --> Utf8 Class Initialized
+INFO - 2024-12-03 22:15:16 --> URI Class Initialized
+INFO - 2024-12-03 22:15:16 --> Router Class Initialized
+INFO - 2024-12-03 22:15:16 --> Output Class Initialized
+INFO - 2024-12-03 22:15:16 --> Security Class Initialized
+DEBUG - 2024-12-03 22:15:16 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-12-03 22:15:16 --> Input Class Initialized
+INFO - 2024-12-03 22:15:16 --> Language Class Initialized
+INFO - 2024-12-03 22:15:16 --> Loader Class Initialized
+INFO - 2024-12-03 22:15:16 --> Config Class Initialized
+INFO - 2024-12-03 22:15:16 --> Hooks Class Initialized
+DEBUG - 2024-12-03 22:15:16 --> UTF-8 Support Enabled
+INFO - 2024-12-03 22:15:16 --> Utf8 Class Initialized
+INFO - 2024-12-03 22:15:16 --> URI Class Initialized
+DEBUG - 2024-12-03 22:15:16 --> No URI present. Default controller set.
+INFO - 2024-12-03 22:15:16 --> Router Class Initialized
+INFO - 2024-12-03 22:15:16 --> Output Class Initialized
+INFO - 2024-12-03 22:15:16 --> Security Class Initialized
+DEBUG - 2024-12-03 22:15:16 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-12-03 22:15:16 --> Input Class Initialized
+INFO - 2024-12-03 22:15:16 --> Language Class Initialized
+INFO - 2024-12-03 22:15:16 --> Loader Class Initialized
