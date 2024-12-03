@@ -113,7 +113,7 @@ class Authentication
         $this->_valid->set_rules(
             'password',
             'password',
-            'required|min_length[6]',
+            'required',
             array('required' => 'You must provide a %s.')
         );
 
