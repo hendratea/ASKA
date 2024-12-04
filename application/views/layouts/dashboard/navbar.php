@@ -49,28 +49,30 @@
         //         $beforeCategory = $accessMenu[0];
         //         break;
         // }
-      
-        switch (true) {
-          case $accessMenu[2] == 1:
-            echo '<li title="' . $accessMenu[1] . '" class="active open"><a href="' . base_url() . $accessMenu[5] . '"><i class="' . $accessMenu[4] . '"></i><span>' . $accessMenu[1] . '</span></a></li>';
-            break;
-          case $accessMenu[2] > 1:
-            if ($accessMenu[0] != $beforeCategory && $beforeCategory != "") {
-              echo '</ul></li>';
-            }
-            if ($accessMenu[3] == 1) {
-              echo '<li><a href="javascript:void(0);" class="menu-toggle"><i class="' . $accessMenu[4] . '"></i><span>' . $accessMenu[0] . '</span></a><ul class="ml-menu">
+        if ($accessMenu[7] == 1) {
+
+          switch (true) {
+            case $accessMenu[2] == 1:
+              echo '<li title="' . $accessMenu[1] . '" class="active open"><a href="' . base_url() . $accessMenu[5] . '"><i class="' . $accessMenu[4] . '"></i><span>' . $accessMenu[1] . '</span></a></li>';
+              break;
+            case $accessMenu[2] > 1:
+              if ($accessMenu[0] != $beforeCategory && $beforeCategory != "") {
+                echo '</ul></li>';
+              }
+              if ($accessMenu[3] == 1) {
+                echo '<li><a href="javascript:void(0);" class="menu-toggle"><i class="' . $accessMenu[4] . '"></i><span>' . $accessMenu[0] . '</span></a><ul class="ml-menu">
                           <li title="' . $accessMenu[1] . '"><a href="' . base_url() . $accessMenu[5] . '">' . $accessMenu[1] . '</a></li>';
-            } else {
-              // echo '<li><a href="' . base_url() . 'admin_card/generatepin">' . $get_menu_home[1] . '</a></li>';
-              echo '<li title="' . $accessMenu[1] . '"><a href="' . base_url() . $accessMenu[5] . '">' . $accessMenu[1] . '</a></li>';
-              // if($accessMenu[3] == 3 and $accessMenu[2] > 3 and $accessMenu[6] > 3){
-              //     echo '<hr>';
-              // }
-            }
-            $beforeIdMenu = $accessMenu[3];
-            $beforeCategory = $accessMenu[0];
-            break;
+              } else {
+                // echo '<li><a href="' . base_url() . 'admin_card/generatepin">' . $get_menu_home[1] . '</a></li>';
+                echo '<li title="' . $accessMenu[1] . '"><a href="' . base_url() . $accessMenu[5] . '">' . $accessMenu[1] . '</a></li>';
+                // if($accessMenu[3] == 3 and $accessMenu[2] > 3 and $accessMenu[6] > 3){
+                //     echo '<hr>';
+                // }
+              }
+              $beforeIdMenu = $accessMenu[3];
+              $beforeCategory = $accessMenu[0];
+              break;
+          }
         }
 
       }
