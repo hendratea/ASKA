@@ -23,8 +23,12 @@
   <link rel="stylesheet" href="<?= base_url() ?>assets/template/font-awesome/css/fontawesome.min.css">
   <link rel="stylesheet" href="<?= base_url() ?>assets/template/font-awesome/css/solid.css">
 
+  <!-- SWAL ------------------------------------------------------------------------------------------------ -->
+  <link href="<?= base_url() ?>assets/template/my_css/sweetalert2.min.css" rel="stylesheet">
+  <!-- <link rel="stylesheet" href="<?= base_url() ?>assets/plugins/sweetalert/sweetalert.css"> -->
+  <!-- <link href="https://cdn.jsdelivr.net/npm/sweetalert2@11.14.5/dist/sweetalert2.min.css" rel="stylesheet"> -->
 
-  <!-- CSS TABEL & SWAL ------------------------------------------------------------------------------------------- -->
+  <!-- CSS TABEL ------------------------------------------------------------------------------------------- -->
   <?php
   switch ($contentView) {
     case "dashboard/referensi/refgolongan":
@@ -33,18 +37,19 @@
     case "dashboard/referensi/refcuti":
     case "dashboard/referensi/refijin":
     case "dashboard/referensi/refshift":
-    case "dashboard/pegawai/rekap_all":
     case "dashboard/setting/user":
+    case "dashboard/pegawai/rekap_all":
+    case "dashboard/ijin/inputdata":
+    case "dashboard/ijin/rekap_all":
+    case "dashboard/cuti/inputdata":
+    case "dashboard/cuti/rekap_all":
+    case "dashboard/cuti/rekap_sisa_cuti":
       ?>
   <link rel="stylesheet" href="<?= base_url() ?>assets/template/plugins/jquery-datatable/dataTables.bootstrap4.min.css">
   <link rel="stylesheet" href="<?= base_url() ?>assets/template/datatables/responsive 2.2.9.css">
   <link rel="stylesheet" href="<?= base_url() ?>assets/template/datatables/border-table.css">
   <link rel="stylesheet" href="<?= base_url() ?>assets/template/plugins/select2/select2.css" />
   <link rel="stylesheet" href="<?= base_url() ?>assets/template/plugins/multi-select/css/multi-select.css">
-  <!-- <link rel="stylesheet" href="<?= base_url() ?>assets/plugins/sweetalert/sweetalert.css"> -->
-  <!-- <link href="https://cdn.jsdelivr.net/npm/sweetalert2@11.14.5/dist/sweetalert2.min.css" rel="stylesheet"> -->
-  <link href="<?= base_url() ?>assets/template/my_css/sweetalert2.min.css" rel="stylesheet">
-
   <?php
       break;
   }
@@ -143,6 +148,13 @@
   /* .myBtn:hover {
             background-color: RoyalBlue;
         } */
+
+  #footer {
+    text-align: center;
+    bottom: 0;
+    flex-shrink: none;
+    position: fixed;
+  }
   </style>
 </head>
 
@@ -150,13 +162,13 @@
 
 <body class="theme-blush" style="background-color:#F5F5F5">
   <!-- Page Loader -->
-  <!-- <div class="page-loader-wrapper">
-        <div class="loader">
-            <div class="m-t-30"><img class="zmdi-hc-spin" src="assets/template/images/loader.svg" width="48" height="48"
-                    alt="Aero"></div>
-            <p>Please wait...</p>
-        </div>
-    </div> -->
+  <div class="page-loader-wrapper">
+    <div class="loader">
+      <div class="m-t-30"><img class="zmdi-hc-spin" src="assets/template/images/loader.svg" width="48" height="48"
+          alt="Aero"></div>
+      <p>Please wait...</p>
+    </div>
+  </div>
 
   <!-- LOAD PAGE -------------------------------------------------------------------------------------------------- -->
   <?php $this->load->view($navMenu); ?>
@@ -182,7 +194,7 @@
   <script src="<?= base_url() ?>assets/template/js/dateTimePicker.js"></script>
   <script src="<?= base_url() ?>assets/functions/dashboard/pegawai/input_data.js"></script>
   <script type="text/javascript">
-  $('.tanggalLahirPicker').bootstrapMaterialDatePicker({
+  $('.tanggalPicker').bootstrapMaterialDatePicker({
     time: false,
     clearButton: true,
     format: 'DD-MMM-YYYY',
@@ -203,9 +215,14 @@
     case "dashboard/referensi/refcuti":
     case "dashboard/referensi/refijin":
     case "dashboard/referensi/refshift":
-    case "dashboard/pegawai/rekap_all":
     case "dashboard/setting/user":
     case "dashboard/pegawai/input_data":
+    case "dashboard/pegawai/rekap_all":
+    case "dashboard/ijin/inputdata":
+    case "dashboard/ijin/rekap_all":
+    case "dashboard/cuti/inputdata":
+    case "dashboard/cuti/rekap_all":
+    case "dashboard/cuti/rekap_sisa_cuti":
       ?>
   <script src="<?= base_url() ?>assets/template/bundles/datatablescripts.bundle.js"></script>
   <script src="<?= base_url() ?>assets/template/plugins/jquery-datatable/buttons/dataTables.buttons.min.js"></script>
@@ -246,30 +263,22 @@
   <script src="<?= base_url() ?>assets/functions/dashboard/pegawai/rekap_data_all.js"></script>
   <?php } ?>
 
+  <?php if ($contentView == "dashboard/ijin/inputdata") { ?>
+  <script src="<?= base_url() ?>assets/functions/dashboard/ijin/inputdata.js"></script>
+  <?php } ?>
+  <?php if ($contentView == "dashboard/cuti/inputdata") { ?>
+  <script src="<?= base_url() ?>assets/functions/dashboard/cuti/inputdata.js"></script>
+  <?php } ?>
+
   <?php if ($contentView == "dashboard/setting/user") { ?>
   <script src="<?= base_url() ?>assets/functions/dashboard/setting/user.js"></script>
   <?php } ?>
 
   <!-- JS SWAL ---------------------------------------------------------------------------------------------------- -->
-  <?php
-  switch ($contentView) {
-    case "dashboard/referensi/refgolongan":
-    case "dashboard/referensi/reftugas":
-    case "dashboard/referensi/reffungsi":
-    case "dashboard/referensi/refcuti":
-    case "dashboard/referensi/refijin":
-    case "dashboard/referensi/refshift":
-    case "dashboard/setting/user":
-      ?>
   <script src="<?= base_url() ?>assets/template/plugins/sweetalert/sweetalert.min.js"></script>
+  <script src="<?= base_url() ?>assets/template/my_js/sweetalert2.all.min.js"></script>
   <!-- <script src="<?= base_url() ?>assets/template/js/pages/ui/sweetalert.js"></script> -->
   <!-- <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11.14.5/dist/sweetalert2.all.min.js"></script> -->
-  <script src="<?= base_url() ?>assets/template/my_js/sweetalert2.all.min.js"></script>
-  <?php
-      break;
-  }
-  ?>
-
 
 </body>
 

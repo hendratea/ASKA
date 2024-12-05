@@ -4,6 +4,7 @@ function tableSettingUser() {
   var url;
   url = baseURL + "get_setting_user";
   table_setting_user = $("#dt_setting_user").DataTable({
+    order: [[1, "asc"]],
     destroy: true,
     iDisplayLength: 10,
     processing: true,
@@ -92,8 +93,7 @@ function btnSaveDataUser() {
           } else {
             Swal.fire({
               title: "Failed",
-              text:
-                "data user " + $("#userId").val() + " tidak berhasil disimpan",
+              text: "data user " + $("#userId").val() + " tidak berhasil disimpan",
               icon: "error",
             });
             table_setting_user.ajax.reload();
@@ -102,8 +102,7 @@ function btnSaveDataUser() {
         error: function (jqXHR, textStatus, errorThrown) {
           Swal.fire({
             title: "Failed",
-            text:
-              "data user " + $("#userId").val() + " tidak berhasil disimpan",
+            text: "data user " + $("#userId").val() + " tidak berhasil disimpan",
             icon: "error",
           });
 
@@ -167,8 +166,7 @@ function btnUpdateDataUser() {
           } else {
             Swal.fire({
               title: "Failed",
-              text:
-                "data user " + $("#userId").val() + " tidak berhasil diubah",
+              text: "data user " + $("#userId").val() + " tidak berhasil diubah",
               icon: "error",
             });
             table_setting_user.ajax.reload();
@@ -306,43 +304,13 @@ $("#btnCancel").click(function () {
 $("#btnSubmit").click(function () {
   validationFormValid = [];
 
-  statusValidUser = validationForm(
-    "#userId",
-    "#boxIconUserId",
-    "#msgErrUserId",
-    "user"
-  );
-  statusValidPass = validationForm(
-    "#password",
-    "#boxIconPassword",
-    "#msgErrPassword",
-    "password"
-  );
-  statusValidEmail = validationForm(
-    "#email",
-    "#boxIconEmail",
-    "#msgErrEmail",
-    "email"
-  );
-  statusValidRole = validationForm(
-    "#roleUser",
-    "#boxRoleUser",
-    "#msgErrRoleUser",
-    "role user"
-  );
-  statusValidStatus = validationFormRadio(
-    'input[name="statusAktif"]:checked',
-    "#msgErrStatusAktif",
-    "status aktif"
-  );
+  statusValidUser = validationForm("#userId", "#boxIconUserId", "#msgErrUserId", "user");
+  statusValidPass = validationForm("#password", "#boxIconPassword", "#msgErrPassword", "password");
+  statusValidEmail = validationForm("#email", "#boxIconEmail", "#msgErrEmail", "email");
+  statusValidRole = validationForm("#roleUser", "#boxRoleUser", "#msgErrRoleUser", "role user");
+  statusValidStatus = validationFormRadio('input[name="statusAktif"]:checked', "#msgErrStatusAktif", "status aktif");
 
-  validationFormValid.push(
-    statusValidUser,
-    statusValidPass,
-    statusValidEmail,
-    statusValidRole,
-    statusValidStatus
-  );
+  validationFormValid.push(statusValidUser, statusValidPass, statusValidEmail, statusValidRole, statusValidStatus);
 
   if (validationFormValid.indexOf("noValid") > -1) {
     // alert("in the array")
@@ -355,43 +323,13 @@ $("#btnSubmit").click(function () {
 $("#btnUpdate").click(function () {
   validationFormValid = [];
 
-  statusValidUser = validationForm(
-    "#userId",
-    "#boxIconUserId",
-    "#msgErrUserId",
-    "user"
-  );
-  statusValidPass = validationForm(
-    "#password",
-    "#boxIconPassword",
-    "#msgErrPassword",
-    "password"
-  );
-  statusValidEmail = validationForm(
-    "#email",
-    "#boxIconEmail",
-    "#msgErrEmail",
-    "email"
-  );
-  statusValidRole = validationForm(
-    "#roleUser",
-    "#boxRoleUser",
-    "#msgErrRoleUser",
-    "role user"
-  );
-  statusValidStatus = validationFormRadio(
-    'input[name="statusAktif"]:checked',
-    "#msgErrStatusAktif",
-    "status aktif"
-  );
+  statusValidUser = validationForm("#userId", "#boxIconUserId", "#msgErrUserId", "user");
+  statusValidPass = validationForm("#password", "#boxIconPassword", "#msgErrPassword", "password");
+  statusValidEmail = validationForm("#email", "#boxIconEmail", "#msgErrEmail", "email");
+  statusValidRole = validationForm("#roleUser", "#boxRoleUser", "#msgErrRoleUser", "role user");
+  statusValidStatus = validationFormRadio('input[name="statusAktif"]:checked', "#msgErrStatusAktif", "status aktif");
 
-  validationFormValid.push(
-    statusValidUser,
-    statusValidPass,
-    statusValidEmail,
-    statusValidRole,
-    statusValidStatus
-  );
+  validationFormValid.push(statusValidUser, statusValidPass, statusValidEmail, statusValidRole, statusValidStatus);
 
   if (validationFormValid.indexOf("noValid") > -1) {
     // alert("in the array")

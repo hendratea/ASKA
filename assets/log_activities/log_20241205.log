@@ -1,0 +1,210 @@
+No         Date/Time            Browser            Access Path
+---------  -------------------  -----------------  ---------------------------------------------------------------------------------------
+000000001  2024-12-05 01:03:40  Google Chrome      ipong : D:\xampp\htdocs\aska\application\controllers\SignIn\logout 
+000000002  2024-12-05 01:03:41  Google Chrome      D:\xampp\htdocs\aska\application\controllers\SignIn\index 
+000000003  2024-12-05 01:03:44  Google Chrome      D:\xampp\htdocs\aska\application\controllers\SignIn\index 
+000000004  2024-12-05 01:03:45  Google Chrome      ipong : D:\xampp\htdocs\aska\application\controllers\Dashboard\Home\index 
+000000005  2024-12-05 01:03:47  Google Chrome      ipong : D:\xampp\htdocs\aska\application\controllers\Dashboard\Home\index 
+000000006  2024-12-05 01:03:51  Google Chrome      ipong : D:\xampp\htdocs\aska\application\controllers\Dashboard\Pegawai\InputData\index 
+000000007  2024-12-05 01:31:10  Google Chrome      ipong : D:\xampp\htdocs\aska\application\controllers\SignIn\logout 
+000000008  2024-12-05 01:31:10  Google Chrome      D:\xampp\htdocs\aska\application\controllers\SignIn\index 
+000000009  2024-12-05 01:31:12  Google Chrome      D:\xampp\htdocs\aska\application\controllers\SignIn\index 
+000000010  2024-12-05 01:31:12  Google Chrome      ipong : D:\xampp\htdocs\aska\application\controllers\Dashboard\Home\index 
+000000011  2024-12-05 02:14:45  Google Chrome      ipong : D:\xampp\htdocs\aska\application\controllers\SignIn\logout 
+000000012  2024-12-05 02:14:45  Google Chrome      D:\xampp\htdocs\aska\application\controllers\SignIn\index 
+000000013  2024-12-05 02:14:47  Google Chrome      D:\xampp\htdocs\aska\application\controllers\SignIn\index 
+000000014  2024-12-05 02:14:48  Google Chrome      ipong : D:\xampp\htdocs\aska\application\controllers\Dashboard\Home\index 
+000000015  2024-12-05 02:14:51  Google Chrome      ipong : D:\xampp\htdocs\aska\application\controllers\Dashboard\Pegawai\InputData\index 
+000000016  2024-12-05 02:42:30  Google Chrome      ipong : D:\xampp\htdocs\aska\application\models\Dashboard\Pegawai\RekapDataAllModel\getRekapAllDataPegawai get rekap all data pegawai
+000000017  2024-12-05 02:44:17  Google Chrome      ipong : D:\xampp\htdocs\aska\application\models\Dashboard\Pegawai\RekapDataAllModel\getRekapAllDataPegawai get rekap all data pegawai
+000000018  2024-12-05 02:52:24  Google Chrome      ipong : D:\xampp\htdocs\aska\application\models\Dashboard\Pegawai\RekapDataAllModel\getRekapAllDataPegawai get rekap all data pegawai
+000000019  2024-12-05 02:52:59  Google Chrome      ipong : D:\xampp\htdocs\aska\application\models\Dashboard\Pegawai\RekapDataAllModel\getRekapAllDataPegawai get rekap all data pegawai
+000000020  2024-12-05 02:53:10  Google Chrome      ipong : D:\xampp\htdocs\aska\application\controllers\SignIn\logout 
+000000021  2024-12-05 02:53:10  Google Chrome      D:\xampp\htdocs\aska\application\controllers\SignIn\index 
+000000022  2024-12-05 02:53:12  Google Chrome      D:\xampp\htdocs\aska\application\controllers\SignIn\index 
+000000023  2024-12-05 02:53:14  Google Chrome      ipong : D:\xampp\htdocs\aska\application\controllers\Dashboard\Home\index 
+000000024  2024-12-05 02:53:18  Google Chrome      ipong : D:\xampp\htdocs\aska\application\models\Dashboard\Pegawai\RekapDataAllModel\getRekapAllDataPegawai get rekap all data pegawai
+000000025  2024-12-05 02:54:00  Google Chrome      ipong : D:\xampp\htdocs\aska\application\models\Dashboard\Pegawai\RekapDataAllModel\getRekapAllDataPegawai get rekap all data pegawai
+000000026  2024-12-05 02:54:29  Google Chrome      ipong : D:\xampp\htdocs\aska\application\models\Dashboard\Pegawai\RekapDataAllModel\getRekapAllDataPegawai get rekap all data pegawai
+000000027  2024-12-05 02:54:50  Google Chrome      ipong : D:\xampp\htdocs\aska\application\models\Dashboard\Pegawai\RekapDataAllModel\getRekapAllDataPegawai get rekap all data pegawai
+000000028  2024-12-05 03:00:38  Google Chrome      ipong : D:\xampp\htdocs\aska\application\controllers\SignIn\logout 
+000000029  2024-12-05 03:00:39  Google Chrome      D:\xampp\htdocs\aska\application\controllers\SignIn\index 
+000000030  2024-12-05 03:00:41  Google Chrome      D:\xampp\htdocs\aska\application\controllers\SignIn\index 
+000000031  2024-12-05 03:00:42  Google Chrome      ipong : D:\xampp\htdocs\aska\application\controllers\Dashboard\Home\index 
+000000032  2024-12-05 03:00:45  Google Chrome      D:\xampp\htdocs\aska\application\controllers\SignIn\index 
+000000033  2024-12-05 03:00:45  Google Chrome      ipong : D:\xampp\htdocs\aska\application\controllers\Dashboard\Home\index 
+000000034  2024-12-05 03:00:47  Google Chrome      ipong : D:\xampp\htdocs\aska\application\controllers\SignIn\logout 
+000000035  2024-12-05 03:00:48  Google Chrome      D:\xampp\htdocs\aska\application\controllers\SignIn\index 
+000000036  2024-12-05 03:00:50  Google Chrome      D:\xampp\htdocs\aska\application\controllers\SignIn\index 
+000000037  2024-12-05 03:00:51  Google Chrome      ipong : D:\xampp\htdocs\aska\application\controllers\Dashboard\Home\index 
+000000038  2024-12-05 03:01:40  Google Chrome      ipong : D:\xampp\htdocs\aska\application\controllers\Dashboard\Home\index 
+000000039  2024-12-05 03:04:13  Google Chrome      ipong : D:\xampp\htdocs\aska\application\controllers\SignIn\logout 
+000000040  2024-12-05 03:04:14  Google Chrome      D:\xampp\htdocs\aska\application\controllers\SignIn\index 
+000000041  2024-12-05 03:04:23  Google Chrome      D:\xampp\htdocs\aska\application\controllers\SignIn\index 
+000000042  2024-12-05 03:04:25  Google Chrome      ipong : D:\xampp\htdocs\aska\application\controllers\Dashboard\Home\index 
+000000043  2024-12-05 03:05:18  Google Chrome      ipong : D:\xampp\htdocs\aska\application\controllers\SignIn\logout 
+000000044  2024-12-05 03:05:19  Google Chrome      D:\xampp\htdocs\aska\application\controllers\SignIn\index 
+000000045  2024-12-05 03:18:32  Google Chrome      D:\xampp\htdocs\aska\application\controllers\SignIn\index 
+000000046  2024-12-05 03:18:32  Google Chrome      ipong : D:\xampp\htdocs\aska\application\controllers\Dashboard\Home\index 
+000000047  2024-12-05 03:24:24  Google Chrome      ipong : D:\xampp\htdocs\aska\application\controllers\Dashboard\Home\index 
+000000048  2024-12-05 03:26:38  Google Chrome      ipong : D:\xampp\htdocs\aska\application\controllers\Dashboard\Home\index 
+000000049  2024-12-05 03:27:05  Google Chrome      ipong : D:\xampp\htdocs\aska\application\controllers\Dashboard\Home\index 
+000000050  2024-12-05 03:27:16  Google Chrome      ipong : D:\xampp\htdocs\aska\application\controllers\Dashboard\Home\index 
+000000051  2024-12-05 03:28:46  Google Chrome      ipong : D:\xampp\htdocs\aska\application\controllers\SignIn\logout 
+000000052  2024-12-05 03:28:46  Google Chrome      D:\xampp\htdocs\aska\application\controllers\SignIn\index 
+000000053  2024-12-05 03:28:48  Google Chrome      D:\xampp\htdocs\aska\application\controllers\SignIn\index 
+000000054  2024-12-05 03:28:49  Google Chrome      ipong : D:\xampp\htdocs\aska\application\controllers\Dashboard\Home\index 
+000000055  2024-12-05 03:29:26  Google Chrome      ipong : D:\xampp\htdocs\aska\application\controllers\SignIn\logout 
+000000056  2024-12-05 03:29:26  Google Chrome      D:\xampp\htdocs\aska\application\controllers\SignIn\index 
+000000057  2024-12-05 03:29:41  Google Chrome      D:\xampp\htdocs\aska\application\controllers\SignIn\index 
+000000058  2024-12-05 03:29:44  Google Chrome      D:\xampp\htdocs\aska\application\controllers\SignIn\index 
+000000059  2024-12-05 03:29:44  Google Chrome      ipong : D:\xampp\htdocs\aska\application\controllers\Dashboard\Home\index 
+000000060  2024-12-05 03:45:00  Google Chrome      ipong : D:\xampp\htdocs\aska\application\controllers\SignIn\logout 
+000000061  2024-12-05 03:45:00  Google Chrome      D:\xampp\htdocs\aska\application\controllers\SignIn\index 
+000000062  2024-12-05 03:45:06  Google Chrome      D:\xampp\htdocs\aska\application\controllers\SignIn\index 
+000000063  2024-12-05 03:45:08  Google Chrome      D:\xampp\htdocs\aska\application\controllers\SignIn\index 
+000000064  2024-12-05 03:45:15  Google Chrome      D:\xampp\htdocs\aska\application\controllers\SignIn\index 
+000000065  2024-12-05 03:45:15  Google Chrome      abot : D:\xampp\htdocs\aska\application\controllers\Dashboard\Home\index 
+000000066  2024-12-05 03:46:21  Google Chrome      abot : D:\xampp\htdocs\aska\application\controllers\Dashboard\Home\index 
+000000067  2024-12-05 03:46:32  Google Chrome      abot : D:\xampp\htdocs\aska\application\controllers\Dashboard\Home\index 
+000000068  2024-12-05 03:55:59  Google Chrome      D:\xampp\htdocs\aska\application\controllers\SignIn\index 
+000000069  2024-12-05 03:55:59  Google Chrome      abot : D:\xampp\htdocs\aska\application\controllers\Dashboard\Home\index 
+000000070  2024-12-05 03:55:59  Google Chrome      abot : D:\xampp\htdocs\aska\application\controllers\Dashboard\Home\index 
+000000071  2024-12-05 03:56:05  Google Chrome      abot : D:\xampp\htdocs\aska\application\controllers\Dashboard\Home\index 
+000000072  2024-12-05 03:56:13  Google Chrome      D:\xampp\htdocs\aska\application\controllers\SignIn\index 
+000000073  2024-12-05 03:56:13  Google Chrome      abot : D:\xampp\htdocs\aska\application\controllers\Dashboard\Home\index 
+000000074  2024-12-05 03:57:06  Google Chrome      D:\xampp\htdocs\aska\application\controllers\SignIn\index 
+000000075  2024-12-05 03:57:06  Google Chrome      abot : D:\xampp\htdocs\aska\application\controllers\Dashboard\Home\index 
+000000076  2024-12-05 03:57:43  Google Chrome      D:\xampp\htdocs\aska\application\controllers\SignIn\index 
+000000077  2024-12-05 03:57:46  Google Chrome      D:\xampp\htdocs\aska\application\controllers\SignIn\index 
+000000078  2024-12-05 03:57:49  Google Chrome      D:\xampp\htdocs\aska\application\controllers\SignIn\index 
+000000079  2024-12-05 03:57:50  Google Chrome      abot : D:\xampp\htdocs\aska\application\controllers\Dashboard\Home\index 
+000000080  2024-12-05 03:58:34  Google Chrome      D:\xampp\htdocs\aska\application\controllers\SignIn\index 
+000000081  2024-12-05 03:58:34  Google Chrome      abot : D:\xampp\htdocs\aska\application\controllers\Dashboard\Home\index 
+000000082  2024-12-05 03:58:36  Google Chrome      abot : D:\xampp\htdocs\aska\application\controllers\Dashboard\Home\index 
+000000083  2024-12-05 04:02:22  Google Chrome      D:\xampp\htdocs\aska\application\controllers\SignIn\index 
+000000084  2024-12-05 04:02:26  Google Chrome      D:\xampp\htdocs\aska\application\controllers\SignIn\index 
+000000085  2024-12-05 04:02:31  Google Chrome      D:\xampp\htdocs\aska\application\controllers\SignIn\index 
+000000086  2024-12-05 04:02:31  Google Chrome      ipong : D:\xampp\htdocs\aska\application\controllers\Dashboard\Home\index 
+000000087  2024-12-05 04:02:59  Google Chrome      ipong : D:\xampp\htdocs\aska\application\controllers\Dashboard\Home\index 
+000000088  2024-12-05 04:03:07  Google Chrome      ipong : D:\xampp\htdocs\aska\application\controllers\Dashboard\Home\index 
+000000089  2024-12-05 04:06:16  Google Chrome      ipong : D:\xampp\htdocs\aska\application\controllers\Dashboard\Home\index 
+000000090  2024-12-05 04:07:24  Google Chrome      ipong : D:\xampp\htdocs\aska\application\controllers\Dashboard\Home\index 
+000000091  2024-12-05 04:10:15  Google Chrome      ipong : D:\xampp\htdocs\aska\application\controllers\Dashboard\Home\index 
+000000092  2024-12-05 04:12:09  Google Chrome      D:\xampp\htdocs\aska\application\controllers\SignIn\index 
+000000093  2024-12-05 04:12:09  Google Chrome      ipong : D:\xampp\htdocs\aska\application\controllers\Dashboard\Home\index 
+000000094  2024-12-05 04:12:17  Google Chrome      ipong : D:\xampp\htdocs\aska\application\controllers\Dashboard\Home\index 
+000000095  2024-12-05 04:12:18  Google Chrome      ipong : D:\xampp\htdocs\aska\application\controllers\Dashboard\Home\index 
+000000096  2024-12-05 04:12:19  Google Chrome      ipong : D:\xampp\htdocs\aska\application\controllers\Dashboard\Home\index 
+000000097  2024-12-05 04:12:28  Google Chrome      D:\xampp\htdocs\aska\application\controllers\SignIn\index 
+000000098  2024-12-05 04:12:28  Google Chrome      ipong : D:\xampp\htdocs\aska\application\controllers\Dashboard\Home\index 
+000000099  2024-12-05 04:12:38  Google Chrome      D:\xampp\htdocs\aska\application\controllers\SignIn\index 
+000000100  2024-12-05 04:12:39  Google Chrome      ipong : D:\xampp\htdocs\aska\application\controllers\Dashboard\Home\index 
+000000101  2024-12-05 04:13:03  Google Chrome      D:\xampp\htdocs\aska\application\controllers\SignIn\index 
+000000102  2024-12-05 04:13:08  Google Chrome      D:\xampp\htdocs\aska\application\controllers\SignIn\index 
+000000103  2024-12-05 04:13:11  Google Chrome      D:\xampp\htdocs\aska\application\controllers\SignIn\index 
+000000104  2024-12-05 04:13:11  Google Chrome      ipong : D:\xampp\htdocs\aska\application\controllers\Dashboard\Home\index 
+000000105  2024-12-05 04:13:48  Google Chrome      ipong : D:\xampp\htdocs\aska\application\controllers\Dashboard\Home\index 
+000000106  2024-12-05 04:13:56  Google Chrome      ipong : D:\xampp\htdocs\aska\application\controllers\Dashboard\Home\index 
+000000107  2024-12-05 04:14:39  Google Chrome      ipong : D:\xampp\htdocs\aska\application\controllers\Dashboard\Home\index 
+000000108  2024-12-05 04:16:49  Google Chrome      ipong : D:\xampp\htdocs\aska\application\controllers\Dashboard\Home\index 
+000000109  2024-12-05 04:16:53  Google Chrome      ipong : D:\xampp\htdocs\aska\application\controllers\SignIn\logout 
+000000110  2024-12-05 04:16:54  Google Chrome      D:\xampp\htdocs\aska\application\controllers\SignIn\index 
+000000111  2024-12-05 04:18:01  Google Chrome      D:\xampp\htdocs\aska\application\controllers\SignIn\index 
+000000112  2024-12-05 04:18:05  Google Chrome      D:\xampp\htdocs\aska\application\controllers\SignIn\index 
+000000113  2024-12-05 04:18:05  Google Chrome      ipong : D:\xampp\htdocs\aska\application\controllers\Dashboard\Home\index 
+000000114  2024-12-05 04:18:55  Google Chrome      ipong : D:\xampp\htdocs\aska\application\controllers\Dashboard\Home\index 
+000000115  2024-12-05 04:45:56  Google Chrome      ipong : D:\xampp\htdocs\aska\application\controllers\Dashboard\Home\index 
+000000116  2024-12-05 04:46:01  Google Chrome      ipong : D:\xampp\htdocs\aska\application\controllers\SignIn\logout 
+000000117  2024-12-05 04:46:01  Google Chrome      D:\xampp\htdocs\aska\application\controllers\SignIn\index 
+000000118  2024-12-05 04:46:03  Google Chrome      D:\xampp\htdocs\aska\application\controllers\SignIn\index 
+000000119  2024-12-05 04:46:07  Google Chrome      D:\xampp\htdocs\aska\application\controllers\SignIn\index 
+000000120  2024-12-05 04:46:07  Google Chrome      abot : D:\xampp\htdocs\aska\application\controllers\Dashboard\Home\index 
+000000121  2024-12-05 04:47:12  Google Chrome      abot : D:\xampp\htdocs\aska\application\controllers\Dashboard\Home\index 
+000000122  2024-12-05 04:48:06  Google Chrome      abot : D:\xampp\htdocs\aska\application\controllers\Dashboard\Home\index 
+000000123  2024-12-05 04:48:19  Google Chrome      abot : D:\xampp\htdocs\aska\application\controllers\Dashboard\Home\index 
+000000124  2024-12-05 04:48:31  Google Chrome      abot : D:\xampp\htdocs\aska\application\controllers\Dashboard\Home\index 
+000000125  2024-12-05 04:49:36  Google Chrome      abot : D:\xampp\htdocs\aska\application\controllers\Dashboard\Home\index 
+000000126  2024-12-05 04:51:07  Google Chrome      abot : D:\xampp\htdocs\aska\application\controllers\Dashboard\Home\index 
+000000127  2024-12-05 04:51:08  Google Chrome      abot : D:\xampp\htdocs\aska\application\controllers\Dashboard\Home\index 
+000000128  2024-12-05 04:51:09  Google Chrome      abot : D:\xampp\htdocs\aska\application\controllers\Dashboard\Home\index 
+000000129  2024-12-05 04:51:09  Google Chrome      abot : D:\xampp\htdocs\aska\application\controllers\Dashboard\Home\index 
+000000130  2024-12-05 04:52:24  Google Chrome      abot : D:\xampp\htdocs\aska\application\controllers\Dashboard\Home\index 
+000000131  2024-12-05 04:52:28  Google Chrome      abot : D:\xampp\htdocs\aska\application\controllers\Dashboard\Home\index 
+000000132  2024-12-05 04:52:40  Google Chrome      abot : D:\xampp\htdocs\aska\application\controllers\Dashboard\Home\index 
+000000133  2024-12-05 04:52:54  Google Chrome      abot : D:\xampp\htdocs\aska\application\controllers\Dashboard\Home\index 
+000000134  2024-12-05 04:54:45  Google Chrome      abot : D:\xampp\htdocs\aska\application\controllers\Dashboard\Home\index 
+000000135  2024-12-05 04:54:58  Google Chrome      abot : D:\xampp\htdocs\aska\application\controllers\Dashboard\Home\index 
+000000136  2024-12-05 04:55:16  Google Chrome      abot : D:\xampp\htdocs\aska\application\controllers\Dashboard\Home\index 
+000000137  2024-12-05 04:55:23  Google Chrome      abot : D:\xampp\htdocs\aska\application\controllers\Dashboard\Home\index 
+000000138  2024-12-05 04:55:30  Google Chrome      abot : D:\xampp\htdocs\aska\application\controllers\Dashboard\Home\index 
+000000139  2024-12-05 04:57:28  Google Chrome      abot : D:\xampp\htdocs\aska\application\controllers\Dashboard\Home\index 
+000000140  2024-12-05 04:57:36  Google Chrome      abot : D:\xampp\htdocs\aska\application\controllers\Dashboard\Home\index 
+000000141  2024-12-05 04:57:57  Google Chrome      D:\xampp\htdocs\aska\application\controllers\SignIn\index 
+000000142  2024-12-05 04:57:57  Google Chrome      abot : D:\xampp\htdocs\aska\application\controllers\Dashboard\Home\index 
+000000143  2024-12-05 04:59:02  Google Chrome      abot : D:\xampp\htdocs\aska\application\controllers\SignIn\logout 
+000000144  2024-12-05 04:59:02  Google Chrome      D:\xampp\htdocs\aska\application\controllers\SignIn\index 
+000000145  2024-12-05 04:59:05  Google Chrome      D:\xampp\htdocs\aska\application\controllers\SignIn\index 
+000000146  2024-12-05 04:59:05  Google Chrome      abot : D:\xampp\htdocs\aska\application\controllers\Dashboard\Home\index 
+000000147  2024-12-05 05:00:55  Google Chrome      abot : D:\xampp\htdocs\aska\application\controllers\Dashboard\Home\index 
+000000148  2024-12-05 05:02:37  Google Chrome      abot : D:\xampp\htdocs\aska\application\controllers\Dashboard\Home\index 
+000000149  2024-12-05 05:03:11  Google Chrome      abot : D:\xampp\htdocs\aska\application\controllers\Dashboard\Home\index 
+000000150  2024-12-05 05:03:52  Google Chrome      abot : D:\xampp\htdocs\aska\application\controllers\Dashboard\Home\index 
+000000151  2024-12-05 05:04:39  Google Chrome      abot : D:\xampp\htdocs\aska\application\controllers\Dashboard\Home\index 
+000000152  2024-12-05 05:04:55  Google Chrome      abot : D:\xampp\htdocs\aska\application\controllers\Dashboard\Home\index 
+000000153  2024-12-05 05:08:09  Google Chrome      abot : D:\xampp\htdocs\aska\application\controllers\Dashboard\Home\index 
+000000154  2024-12-05 05:08:47  Google Chrome      abot : D:\xampp\htdocs\aska\application\controllers\Dashboard\Home\index 
+000000155  2024-12-05 05:09:17  Google Chrome      abot : D:\xampp\htdocs\aska\application\controllers\Dashboard\Home\index 
+000000156  2024-12-05 05:14:46  Google Chrome      abot : D:\xampp\htdocs\aska\application\controllers\Dashboard\Home\index 
+000000157  2024-12-05 05:15:49  Google Chrome      abot : D:\xampp\htdocs\aska\application\controllers\Dashboard\Home\index 
+000000158  2024-12-05 05:16:11  Google Chrome      abot : D:\xampp\htdocs\aska\application\controllers\Dashboard\Home\index 
+000000159  2024-12-05 05:18:27  Google Chrome      abot : D:\xampp\htdocs\aska\application\controllers\Dashboard\Home\index 
+000000160  2024-12-05 05:18:37  Google Chrome      abot : D:\xampp\htdocs\aska\application\controllers\SignIn\logout 
+000000161  2024-12-05 05:18:37  Google Chrome      D:\xampp\htdocs\aska\application\controllers\SignIn\index 
+000000162  2024-12-05 05:18:47  Google Chrome      D:\xampp\htdocs\aska\application\controllers\SignIn\index 
+000000163  2024-12-05 05:18:48  Google Chrome      ipong : D:\xampp\htdocs\aska\application\controllers\Dashboard\Home\index 
+000000164  2024-12-05 05:19:09  Google Chrome      ipong : D:\xampp\htdocs\aska\application\controllers\Dashboard\Home\index 
+000000165  2024-12-05 05:19:10  Google Chrome      ipong : D:\xampp\htdocs\aska\application\controllers\Dashboard\Home\index 
+000000166  2024-12-05 05:19:11  Google Chrome      ipong : D:\xampp\htdocs\aska\application\controllers\Dashboard\Home\index 
+000000167  2024-12-05 05:19:11  Google Chrome      ipong : D:\xampp\htdocs\aska\application\controllers\Dashboard\Home\index 
+000000168  2024-12-05 05:19:55  Google Chrome      ipong : D:\xampp\htdocs\aska\application\controllers\Dashboard\Home\index 
+000000169  2024-12-05 05:20:27  Google Chrome      ipong : D:\xampp\htdocs\aska\application\controllers\Dashboard\Home\index 
+000000170  2024-12-05 05:22:30  Google Chrome      ipong : D:\xampp\htdocs\aska\application\controllers\SignIn\logout 
+000000171  2024-12-05 05:22:30  Google Chrome      D:\xampp\htdocs\aska\application\controllers\SignIn\index 
+000000172  2024-12-05 05:22:32  Google Chrome      D:\xampp\htdocs\aska\application\controllers\SignIn\index 
+000000173  2024-12-05 05:22:54  Google Chrome      ipong : D:\xampp\htdocs\aska\application\controllers\Dashboard\Home\index 
+000000174  2024-12-05 05:22:57  Google Chrome      ipong : D:\xampp\htdocs\aska\application\controllers\SignIn\logout 
+000000175  2024-12-05 05:22:57  Google Chrome      D:\xampp\htdocs\aska\application\controllers\SignIn\index 
+000000176  2024-12-05 05:22:58  Google Chrome      D:\xampp\htdocs\aska\application\controllers\SignIn\index 
+000000177  2024-12-05 05:24:10  Google Chrome      D:\xampp\htdocs\aska\application\controllers\SignIn\index 
+000000178  2024-12-05 05:24:10  Google Chrome      ipong : D:\xampp\htdocs\aska\application\controllers\Dashboard\Home\index 
+000000179  2024-12-05 05:24:13  Google Chrome      ipong : D:\xampp\htdocs\aska\application\controllers\SignIn\logout 
+000000180  2024-12-05 05:24:13  Google Chrome      D:\xampp\htdocs\aska\application\controllers\SignIn\index 
+000000181  2024-12-05 05:27:55  Google Chrome      D:\xampp\htdocs\aska\application\controllers\SignIn\index 
+000000182  2024-12-05 05:27:55  Google Chrome      ipong : D:\xampp\htdocs\aska\application\controllers\Dashboard\Home\index 
+000000183  2024-12-05 05:28:49  Google Chrome      ipong : D:\xampp\htdocs\aska\application\controllers\SignIn\logout 
+000000184  2024-12-05 05:28:49  Google Chrome      D:\xampp\htdocs\aska\application\controllers\SignIn\index 
+000000185  2024-12-05 05:28:52  Google Chrome      D:\xampp\htdocs\aska\application\controllers\SignIn\index 
+000000186  2024-12-05 05:28:53  Google Chrome      D:\xampp\htdocs\aska\application\controllers\SignIn\index 
+000000187  2024-12-05 05:28:54  Google Chrome      D:\xampp\htdocs\aska\application\controllers\SignIn\index 
+000000188  2024-12-05 05:28:55  Google Chrome      D:\xampp\htdocs\aska\application\controllers\SignIn\index 
+000000189  2024-12-05 05:30:26  Google Chrome      D:\xampp\htdocs\aska\application\controllers\SignIn\index 
+000000190  2024-12-05 05:30:55  Google Chrome      D:\xampp\htdocs\aska\application\controllers\SignIn\index 
+000000191  2024-12-05 05:30:56  Google Chrome      ipong : D:\xampp\htdocs\aska\application\controllers\Dashboard\Home\index 
+000000192  2024-12-05 05:31:32  Google Chrome      ipong : D:\xampp\htdocs\aska\application\controllers\Dashboard\Pegawai\InputData\index 
+000000193  2024-12-05 05:31:38  Google Chrome      ipong : D:\xampp\htdocs\aska\application\models\Dashboard\Pegawai\RekapDataAllModel\getRekapAllDataPegawai get rekap all data pegawai
+000000194  2024-12-05 05:32:14  Google Chrome      ipong : D:\xampp\htdocs\aska\application\controllers\SignIn\logout 
+000000195  2024-12-05 05:32:14  Google Chrome      D:\xampp\htdocs\aska\application\controllers\SignIn\index 
+000000196  2024-12-05 05:33:19  Google Chrome      D:\xampp\htdocs\aska\application\controllers\SignIn\index 
+000000197  2024-12-05 05:33:20  Google Chrome      ipong : D:\xampp\htdocs\aska\application\controllers\Dashboard\Home\index 
+000000198  2024-12-05 05:33:49  Google Chrome      ipong : D:\xampp\htdocs\aska\application\controllers\Dashboard\Pegawai\InputData\index 
+000000199  2024-12-05 05:33:54  Google Chrome      ipong : D:\xampp\htdocs\aska\application\models\Dashboard\Pegawai\RekapDataAllModel\getRekapAllDataPegawai get rekap all data pegawai
+000000200  2024-12-05 05:34:59  Google Chrome      ipong : D:\xampp\htdocs\aska\application\controllers\SignIn\logout 
+000000201  2024-12-05 05:34:59  Google Chrome      D:\xampp\htdocs\aska\application\controllers\SignIn\index 
+000000202  2024-12-05 05:35:11  Google Chrome      D:\xampp\htdocs\aska\application\controllers\SignIn\index 
+000000203  2024-12-05 05:35:11  Google Chrome      ipong : D:\xampp\htdocs\aska\application\controllers\Dashboard\Home\index 
+000000204  2024-12-05 05:35:43  Google Chrome      ipong : D:\xampp\htdocs\aska\application\controllers\Dashboard\Pegawai\InputData\index 
+000000205  2024-12-05 05:35:47  Google Chrome      ipong : D:\xampp\htdocs\aska\application\models\Dashboard\Pegawai\RekapDataAllModel\getRekapAllDataPegawai get rekap all data pegawai
+000000206  2024-12-05 05:36:44  Google Chrome      ipong : D:\xampp\htdocs\aska\application\controllers\SignIn\logout 
+000000207  2024-12-05 05:36:44  Google Chrome      D:\xampp\htdocs\aska\application\controllers\SignIn\index 
+000000208  2024-12-05 19:15:56  Google Chrome      D:\xampp\htdocs\aska\application\controllers\SignIn\index 

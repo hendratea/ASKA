@@ -1,10 +1,9 @@
-var table_rekap_all;
+var table_ijin_inputdata;
 
-function tableRekapAll() {
+function table_Ijin() {
   var url;
-  url = baseURL + "get_data_rekap_all_pegawai";
-  table_rekap_all = $("#dt_rekap_all").DataTable({
-    order: [[3, "asc"]],
+  url = baseURL + "get_ijin";
+  table_ijin_inputdata = $("#dt_ijin_inputdata").DataTable({
     destroy: true,
     iDisplayLength: 10,
     processing: true,
@@ -23,5 +22,5 @@ function tableRekapAll() {
 }
 
 $(function () {
-  tableRekapAll();
+  table_Ijin();
 });

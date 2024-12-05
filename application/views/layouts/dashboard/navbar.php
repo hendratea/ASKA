@@ -2,7 +2,7 @@
   <div class="navbar-brand">
     <button class="btn-menu ls-toggle-btn" type="button"><i class="zmdi zmdi-menu"></i></button>
     <a href="index.html"><img src="<?= base_url() ?>assets/template/images/KJRI.png" height="30" width="30"
-        alt="HRIS"><span class="m-l-10">ASKA</span></a>
+        alt="ASKA"><span class="m-l-10">ASKA</span></a>
   </div>
   <div class="menu">
     <ul class="list">
@@ -10,6 +10,7 @@
         <div class="user-info">
           <a class="image" href="profile.html"><img
               src="<?= base_url() . $this->session->userdata('logged_picture_profile'); ?>" alt="User"></a>
+          <!-- <a class="image" href="#"><img src="<?= base_url() ?>assets/picture_profiles/irfan.jpg" alt="User"></a> -->
           <div class="detail">
             <h4><?= $this->session->userdata('logged_full_name'); ?></h4>
             <small><?= $this->session->userdata('logged_role_name'); ?></small>
@@ -53,14 +54,14 @@
 
           switch (true) {
             case $accessMenu[2] == 1:
-              echo '<li title="' . $accessMenu[1] . '" class="active open"><a href="' . base_url() . $accessMenu[5] . '"><i class="' . $accessMenu[4] . '"></i><span>' . $accessMenu[1] . '</span></a></li>';
+              echo '<li title="' . $accessMenu[1] . '" class=""><a href="' . base_url() . $accessMenu[5] . '"><i class="' . $accessMenu[4] . '"></i><span>' . $accessMenu[1] . '</span></a></li>';
               break;
             case $accessMenu[2] > 1:
               if ($accessMenu[0] != $beforeCategory && $beforeCategory != "") {
                 echo '</ul></li>';
               }
               if ($accessMenu[3] == 1) {
-                echo '<li><a href="javascript:void(0);" class="menu-toggle"><i class="' . $accessMenu[4] . '"></i><span>' . $accessMenu[0] . '</span></a><ul class="ml-menu">
+                echo '<li active open><a href="javascript:void(0);" class="menu-toggle"><i class="' . $accessMenu[4] . '"></i><span>' . $accessMenu[0] . '</span></a><ul class="ml-menu">
                           <li title="' . $accessMenu[1] . '"><a href="' . base_url() . $accessMenu[5] . '">' . $accessMenu[1] . '</a></li>';
               } else {
                 // echo '<li><a href="' . base_url() . 'admin_card/generatepin">' . $get_menu_home[1] . '</a></li>';

@@ -12,57 +12,57 @@ class Authentication
     $this->CI->load->database();
     $this->CI->load->library('session');
     $this->CI->load->library('form_validation');
-    $this->CI->load->helper(array('captcha', 'url', 'security'));
+    // $this->CI->load->helper(array('captcha', 'url', 'security'));
     $this->_valid = $this->CI->form_validation;
   }
 
-  function create_captcha()
-  {
-    $vals = array(
-      'img_path' => './assets/captcha/',
-      'img_url' => base_url() . 'assets/captcha/',
-      'font_path' => FCPATH . 'system/fonts/texb.ttf',
-      'img_width' => '260',
-      'img_height' => '40',
-      'font_size' => '20',
-      'img_id' => 'captcha_login',
-      'border' => 0,
-      'word_length' => 4,
-      'expiration' => 7200
-    );
-    $cap = create_captcha($vals);
-    $this->CI->session->set_userdata('mycaptcha', $cap['word']);
-    return $cap['image'];
-  }
+  // function create_captcha()
+  // {
+  //   $vals = array(
+  //     'img_path' => './assets/captcha/',
+  //     'img_url' => base_url() . 'assets/captcha/',
+  //     'font_path' => FCPATH . 'system/fonts/texb.ttf',
+  //     'img_width' => '260',
+  //     'img_height' => '40',
+  //     'font_size' => '20',
+  //     'img_id' => 'captcha_login',
+  //     'border' => 0,
+  //     'word_length' => 4,
+  //     'expiration' => 7200
+  //   );
+  //   $cap = create_captcha($vals);
+  //   $this->CI->session->set_userdata('mycaptcha', $cap['word']);
+  //   return $cap['image'];
+  // }
 
-  function check_captcha()
-  {
-    if ($this->CI->input->post('captcha') != '') {
-      if ($this->CI->input->post('captcha') == $this->CI->session->set_userdata('mycaptcha')) {
-        return true;
-      } else {
-        $this->CI->form_validation->set_message('check_captcha', 'Captcha salah');
-        return false;
-      }
-    }
-  }
+  // function check_captcha()
+  // {
+  //   if ($this->CI->input->post('captcha') != '') {
+  //     if ($this->CI->input->post('captcha') == $this->CI->session->set_userdata('mycaptcha')) {
+  //       return true;
+  //     } else {
+  //       $this->CI->form_validation->set_message('check_captcha', 'Captcha salah');
+  //       return false;
+  //     }
+  //   }
+  // }
 
-  private function _cek_attemp($user_id)
-  {
+  // private function _cek_attemp($user_id)
+  // {
 
-    $this->CI->db->set('attempt_login', 'attempt_login+1', FALSE);
-    $where = array('user_id' => $user_id);
-    $this->CI->db->where($where);
-    $this->CI->db->update('user_accounts');
+  //   $this->CI->db->set('attempt_login', 'attempt_login+1', FALSE);
+  //   $where = array('user_id' => $user_id);
+  //   $this->CI->db->where($where);
+  //   $this->CI->db->update('user_accounts');
 
-    $this->CI->db->select('attempt_login');
-    $this->CI->db->from('user_accounts');
-    $this->CI->db->where('user_id', $user_id);
-    $query = $this->CI->db->get()->row();
+  //   $this->CI->db->select('attempt_login');
+  //   $this->CI->db->from('user_accounts');
+  //   $this->CI->db->where('user_id', $user_id);
+  //   $query = $this->CI->db->get()->row();
 
-    return $query->attempt_login;
+  //   return $query->attempt_login;
 
-  }
+  // }
 
   private function validation_login($user_id, $pass)
   {
@@ -73,12 +73,7 @@ class Authentication
     // }
 
     if (empty($this->CI->session->flashdata('msgValidation'))) {
-      $record = $this->CI->db->get_where(
-        'v_validation_user_login',
-        array(
-          'user' => $user_id
-        )
-      );
+      $record = $this->CI->db->get_where('v_validation_user_login', ['user' => $user_id]);
 
       if ($record->num_rows() > 0) {
         $valRecord = $record->row();
@@ -143,6 +138,7 @@ class Authentication
         $this->CI->session->set_userdata('logged_last_login', $getDataLogin->tgl_terakhir_login);
         $this->CI->session->set_userdata('logged_picture_profile', 'assets/picture_profiles/default_avatar.png');
         $this->CI->session->set_userdata('logged_role_name', $getDataLogin->role_name);
+        $this->CI->session->set_userdata('logged_IDPEG', $getDataLogin->IDPEG);
         $this->getUserAccessMenu($login['user']);
 
         $this->redirect();
@@ -152,17 +148,17 @@ class Authentication
 
     $data = array(
       'title' => 'Sign In',
-      'h5_title' => 'Human Resources Information System',
+      'h5_title' => 'Administrasi Kepegawaian',
       'content_view' => 'authentication/signin',
       'compare_captcha' => $notif_captcha,
-      'img' => $this->create_captcha(),
+      //'img' => $this->create_captcha(),
       'sideImage' => 'signin.svg',
       'classBox' => 'col-lg-4 col-sm-12',
       'classImage' => 'col-lg-8 col-sm-12'
     );
     $data['default']['v_username'] = $this->CI->input->post('username');
     $data['default']['v_password'] = $this->CI->input->post('password');
-    $data['default']['captcha'] = $this->CI->input->post('captcha');
+    //$data['default']['captcha'] = $this->CI->input->post('captcha');
     $this->CI->load->view($page, $data);
   }
 

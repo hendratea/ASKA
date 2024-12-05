@@ -61,7 +61,7 @@ class UserModel extends CI_Model
     $this->db->join('r_user b', 'a.r_user = b.id', 'left');
     $this->db->join('a_pegawai c', 'a.IDPEG = c.IDPEG', 'left');
     $this->db->where('a.r_user > 1');
-    //$this->db->order_by('a.r_user','ASC');
+    $this->db->order_by('r_user', 'ASC');
 
     return $this->db->get()->result();
   }

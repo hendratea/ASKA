@@ -53,12 +53,12 @@ $route['delete_referensi_ijin'] = "Dashboard/Referensi/refIjin/delete_refIjin";
 $route['update_referensi_ijin'] = "Dashboard/Referensi/refIjin/update_refIjin";
 $route['get_forupdate_referensi_ijin'] = "Dashboard/Referensi/refIjin/get_refIjinForUpdate";
 
-$route['referensi_shift'] = "Dashboard/Referensi/refshift";
-$route['get_referensi_shift'] = "Dashboard/Referensi/refShift/get_refShift";
-$route['save_referensi_shift'] = "Dashboard/Referensi/refShift/save_refShift";
-$route['delete_referensi_shift'] = "Dashboard/Referensi/refShift/delete_refShift";
-$route['update_referensi_shift'] = "Dashboard/Referensi/refShift/update_refShift";
-$route['get_forupdate_referensi_shift'] = "Dashboard/Referensi/refShift/get_refShiftForUpdate";
+// $route['referensi_shift'] = "Dashboard/Referensi/refshift";
+// $route['get_referensi_shift'] = "Dashboard/Referensi/refShift/get_refShift";
+// $route['save_referensi_shift'] = "Dashboard/Referensi/refShift/save_refShift";
+// $route['delete_referensi_shift'] = "Dashboard/Referensi/refShift/delete_refShift";
+// $route['update_referensi_shift'] = "Dashboard/Referensi/refShift/update_refShift";
+// $route['get_forupdate_referensi_shift'] = "Dashboard/Referensi/refShift/get_refShiftForUpdate";
 
 
 //MENU PEGAWAI--------------------------------------------------------------------------------------------------------
@@ -73,9 +73,22 @@ $route['get_data_rekap_all_pegawai'] = "Dashboard/Pegawai/RekapDataAll/getDataRe
 $route['pegawai_rekap_contract'] = "Dashboard/Pegawai/RekapContract";
 
 //MENU ABSEN----------------------------------------------------------------------------------------------------------
-
 //MENU IZIN-----------------------------------------------------------------------------------------------------------
+$route['ijin_input_data'] = "Dashboard/Ijin/InputData";
+$route['get_ijin'] = "Dashboard/Ijin/InputData/get_Ijin";
+$route['save_ijin'] = "Dashboard/Ijin/InputData/save_Ijin";
+$route['delete_ijin'] = "Dashboard/Ijin/InputData/delete_Ijin";
+$route['update_ijin'] = "Dashboard/Ijin/InputData/update_Ijin";
+$route['get_ijin_forupdate'] = "Dashboard/Referensi/Ijin/InputData/get_IjinForUpdate";
+
 //MENU CUTI-----------------------------------------------------------------------------------------------------------
+$route['cuti_input_data'] = "Dashboard/Cuti/InputData";
+$route['get_cuti'] = "Dashboard/Cuti/InputData/get_Cuti";
+$route['save_cuti'] = "Dashboard/Cuti/InputData/save_Cuti";
+$route['delete_cuti'] = "Dashboard/Cuti/InputData/delete_Cuti";
+$route['update_cuti'] = "Dashboard/Cuti/InputData/update_Cuti";
+$route['get_cuti_forupdate'] = "Dashboard/Referensi/Cuti/InputData/get_CutiForUpdate";
+
 //MENU LEMBUR---------------------------------------------------------------------------------------------------------
 //MENU PAYROLL--------------------------------------------------------------------------------------------------------
 
