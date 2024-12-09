@@ -50,6 +50,7 @@
   <link rel="stylesheet" href="<?= base_url() ?>assets/template/datatables/border-table.css">
   <link rel="stylesheet" href="<?= base_url() ?>assets/template/plugins/select2/select2.css" />
   <link rel="stylesheet" href="<?= base_url() ?>assets/template/plugins/multi-select/css/multi-select.css">
+  <link rel="stylesheet" href="<?= base_url() ?>assets/template/plugins/light-gallery/css/lightgallery.css">
   <?php
       break;
   }
@@ -66,6 +67,25 @@
   <link href="//fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
   <link rel="stylesheet" href="<?= base_url() ?>assets/template/plugins/select2/select2.css" />
   <link rel="stylesheet" href="<?= base_url() ?>assets/template/plugins/multi-select/css/multi-select.css">
+
+
+
+<!-- Morris Chart Css-->
+<link rel="stylesheet" href="<?= base_url() ?>assets/template/plugins/morrisjs/morris.css" />
+<!-- Colorpicker Css -->
+<link rel="stylesheet" href="<?= base_url() ?>assets/template/plugins/bootstrap-colorpicker/css/bootstrap-colorpicker.css" />
+
+<!-- Bootstrap Spinner Css -->
+<link rel="stylesheet" href="<?= base_url() ?>assets/template/plugins/jquery-spinner/css/bootstrap-spinner.css">
+<!-- Bootstrap Tagsinput Css -->
+<link rel="stylesheet" href="<?= base_url() ?>assets/template/plugins/bootstrap-tagsinput/bootstrap-tagsinput.css">
+<!-- Bootstrap Select Css -->
+
+<!-- noUISlider Css -->
+<link rel="stylesheet" href="<?= base_url() ?>assets/template/plugins/nouislider/nouislider.min.css" />
+<!-- Select2 -->
+
+
   <?php } ?>
 
   <!-- CSS BOOTSRAP -------------------------------------------------------------------------------------------------- -->
@@ -155,6 +175,22 @@
     flex-shrink: none;
     position: fixed;
   }
+
+  /* #imageModal {
+            display: none;
+            position: fixed;
+            z-index: 1000;
+            left: 50%;
+            top: 50%;
+            transform: translate(-50%, -50%);
+            background: white;
+            padding: 20px;
+            border: 1px solid #ccc;
+        }
+        #imageModal img {
+            max-width: 100%;
+            height: auto;
+        } */
   </style>
 </head>
 
@@ -204,7 +240,19 @@
   $.material.init();
   </script>
 
-  <?php } ?>
+
+<script src="<?= base_url() ?>assets/template/plugins/bootstrap-colorpicker/js/bootstrap-colorpicker.js"></script>
+<script src="<?= base_url() ?>assets/template/plugins/jquery-inputmask/jquery.inputmask.bundle.js"></script>
+<script src="<?= base_url() ?>assets/template/plugins/multi-select/js/jquery.multi-select.js"></script>
+<script src="<?= base_url() ?>assets/template/plugins/jquery-spinner/js/jquery.spinner.js"></script>
+<script src="<?= base_url() ?>assets/template/plugins/bootstrap-tagsinput/bootstrap-tagsinput.js"></script>
+<script src="<?= base_url() ?>assets/template/plugins/nouislider/nouislider.js"></script>
+<script src="<?= base_url() ?>assets/template/plugins/select2/select2.min.js"></script>
+<script src="<?= base_url() ?>assets/template/js/pages/forms/advanced-form-elements.js"></script>
+
+
+
+<?php } ?>
 
   <!-- JS PLUGIN -------------------------------------------------------------------------------------------------- -->
   <?php
@@ -260,7 +308,10 @@
   <?php } ?>
 
   <?php if ($contentView == "dashboard/pegawai/rekap_all") { ?>
-  <script src="<?= base_url() ?>assets/functions/dashboard/pegawai/rekap_data_all.js"></script>
+    <script src="<?= base_url() ?>assets/functions/dashboard/pegawai/rekap_data_all.js"></script>
+    <script src="<?= base_url() ?>assets/template/plugins/light-gallery/js/lightgallery-all.min.js"></script>
+    <script src="<?= base_url() ?>assets/template/js/pages/medias/image-gallery.js"></script>
+    
   <?php } ?>
 
   <?php if ($contentView == "dashboard/ijin/inputdata") { ?>

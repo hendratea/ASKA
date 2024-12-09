@@ -13,6 +13,15 @@ class InputData extends MY_Controller
   {
     logActivity(date("Y-m-d").' '.date("H:i:s"), getBrowser(), $this->session->userdata('logged_user_id').' : '.dirname(__FILE__).'\\' .get_class().'\\'.__FUNCTION__.' ');
     
+    $listAktifKerja = $this->pegawaiModel->rAktifKerja();
+    $listPendidikan = $this->pegawaiModel->rPendidikan();
+    $listIdGolongan = $this->pegawaiModel->rGolongan();
+    $listStatusKerja = $this->pegawaiModel->rStatusKerja();
+    $listTugasKerja = $this->pegawaiModel->rTugasKerja();
+    $listFungsiKerja = $this->pegawaiModel->rFungsiKerja();
+    
+    
+
     $data = array(
       'titleWeb'            => 'Pegawai - Input Data',
       'headerView'          => HEADER_VIEW,
@@ -21,10 +30,33 @@ class InputData extends MY_Controller
       'iconPathHeader'      => 'zmdi zmdi-home',
       'pathHeader'          => 'Pegawai - Input Data',
       'contentView'         => 'dashboard/pegawai/input_data',
+      'listAktifKerja'      => $listAktifKerja,
+      'listPendidikan'      => $listPendidikan,
+      'listGolongan'        => $listIdGolongan,
+      'listStatusKerja'     => $listStatusKerja,
+      'listTugasKerja'      => $listTugasKerja,
+      'listFungsiKerja'     => $listFungsiKerja
     );
 
     
     $this->load->view(LAYOUT_DASHBOARD, $data);
+  }
+
+  function formatDate($datePost)
+  {
+    if($datePost==''){
+      return '';
+    }else{
+      // $dateString = '2025-12-29';
+      // $date = DateTime::createFromFormat('d-M-Y', $dateString);
+      // // Convert to a standard date format (Y-m-d)
+      // $formattedDate = $date->format('Y-m-d');
+      // return $formattedDate;
+      $date=date_create(str_replace("/","-",$datePost));
+      return date_format($date,"Y-m-d");
+
+    }
+   
   }
 
   function saveDataPegawai()
@@ -32,31 +64,60 @@ class InputData extends MY_Controller
     // $vPassword    = password_hash($this->input->post('ajaxPassword'), PASSWORD_DEFAULT);
     // $expPassword = date('Y-m-d', strtotime("+90 days"));
 
-    $dateString = $this->input->post('ajaxTanggalLahir'); // example short date in mm/dd/yyyy format
-    $date = DateTime::createFromFormat('d-M-Y', $dateString);
+    // $dateString = $this->input->post('ajaxTanggalLahir'); // example short date in mm/dd/yyyy format
+    // $date = DateTime::createFromFormat('d-M-Y', $dateString);
+    // // Convert to a standard date format (Y-m-d)
+    // $formattedDate = $date->format('Y-m-d');
 
-    // Convert to a standard date format (Y-m-d)
-    $formattedDate = $date->format('Y-m-d');
 
     $dataPegawai = array(
-      'Nama'             => $this->input->post('ajaxNamaPegawai'),
-      'Gender'           => ($this->input->post('ajaxJenisKelamin')=='Laki-laki' ? 'L' : 'P'),
-      'Tmp_lahir'        => $this->input->post('ajaxTempatLahir'),
-      'Tgl_lahir'        => $formattedDate,
-      'Telepon'          => $this->input->post('ajaxTelpon'),
-      'Paspor'           => $this->input->post('ajaxPassport'),
-      'RKA'              => 1,
-      'Alamat'           => $this->input->post('ajaxAlamat'),
-      'PNS'              => ($this->input->post('ajaxStatusKaryawan')=='PNS' ? 'Y' : 'N'),
+      'r_aktifkerja'      => $this->input->post('ajaxAktifKerja'),
+      'r_pendidikan'      => $this->input->post('ajaxPendidikan'),
+      'pns'               => $this->input->post('ajaxPns'),
+      'wni'               => $this->input->post('ajaxStatusWni'),
+      'gender'            => $this->input->post('ajaxJenisKelamin'),
+      'nama'              => $this->input->post('ajaxNamaPegawai'),
+      'tmp_lahir'         => $this->input->post('ajaxTempatLahir'),
+      'tgl_lahir'         => $this->formatDate($this->input->post('ajaxTanggalLahir')),
+      'alamat'            => $this->input->post('ajaxAlamat'),
+      'telepon'           => $this->input->post('ajaxTelpon'),
+      'jns_paspor'        => $this->input->post('ajaxJenisPaspor'),
+      'no_paspor'         => $this->input->post('ajaxNoPaspor'),
+      'tgl_laku_paspor'   => $this->formatDate($this->input->post('ajaxTglLakuPaspor')),
+      'tgl_izin_paspor'   => $this->formatDate($this->input->post('ajaxTglIzinPaspor')),
       // 'date_insert'      => date("Y-m-d H:i:s"),
       // 'user_submit'      => $this->session->userdata('logged_user_id'),
       // 'user_role'        => $this->input->post('ajaxUserRole'),
     );
 
-    $statusInsert = $this->pegawaiModel->saveDataPegawai($dataPegawai);
+
+    if($dataPegawai['pns']=='Y'){
+      $dataPnsOrNonPns = array(
+        'r_golongan'            => $this->input->post('ajaxGolongan'),
+        'nip'                   => $this->input->post('ajaxNip'),
+        'tmt'                   => $this->formatDate($this->input->post('ajaxTglTerimaJabatan')),
+        'tgl_gelar_diplomatik'  => $this->formatDate($this->input->post('ajaxGelarDiplomatik')),
+      );
+    }else{
+      $dataPnsOrNonPns = array(
+        'r_statuskerja'         => $this->input->post('ajaxStatusKerja'),
+        'r_tugaskerja'          => $this->input->post('ajaxTugasKerja'),
+        'r_fungsikerja'         => $this->input->post('ajaxFungsiKerja'),
+        'tgl_masukkerja'        => $this->formatDate($this->input->post('ajaxTglMasukKerja')),
+        'tgl_awalkontrak'       => $this->formatDate($this->input->post('ajaxTglAwalKontrak')),
+        'tgl_akhirkontrak'      => $this->formatDate($this->input->post('ajaxTglAkhirKontrak')),
+        'no_kontrak'            => $this->input->post('ajaxNoKontrak'),
+        'no_rekening'           => $this->input->post('ajaxNoRekening'),
+        'no_epf'                => $this->input->post('ajaxNoEpf'),
+      );
+    }
+
+    $statusInsert = $this->pegawaiModel->saveDataPegawai($dataPegawai, $dataPnsOrNonPns);
+    $getArr = explode("|",$statusInsert);
 
     $result = array(
-      "statusInsertToDb" => $statusInsert,
+      "statusInsertToDb" => $getArr[0],
+      "idPegawai" => $getArr[1],
     );
 
     echo json_encode($result);
@@ -108,9 +169,10 @@ class InputData extends MY_Controller
 
     $this->load->library('upload', $config);
 
+    $file_name_tmp = 'default_avatar.png';
     if (!empty($_FILES['ajaxPhotoProfile']['name'][0])) {
         $files = $_FILES['ajaxPhotoProfile'];
-        $title = "";
+        // $title = "";
         $config['file_name'] = 'upload_avatar';
         $this->upload->initialize($config);
 
@@ -118,16 +180,21 @@ class InputData extends MY_Controller
             $upload_data = $this->upload->data();
             $file_name_tmp = $upload_data['file_name'];
 
-            $dataUpdated = array(
-                'profile_picture'     => './assets/picture_profiles/'.$file_name_tmp,
-                'date_update'         => date("Y-m-d H:i:s")
-            );
-
-            $whereUpdate = array(
-                'id_pegawai'           => $this->session->userdata('logged_user_id')
-            );
         } 
     } 
+
+    $dataUpdated = array(
+      'foto'     => './assets/picture_profiles/'.$file_name_tmp,
+      // 'date_update'         => date("Y-m-d H:i:s")
+    );
+
+    $whereUpdate = array(
+        'IDPEG'           => $this->input->post('ajaxIdPegawai')
+    );
+
+    $statusUpdate = $this->pegawaiModel->updatePhotoPegawai($dataUpdated, $whereUpdate);
+    $result = ["statusUpdateToDb" => $statusUpdate];
+    echo json_encode($result);
 
   }
   

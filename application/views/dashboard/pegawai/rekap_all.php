@@ -10,7 +10,7 @@
                 <thead>
                   <tr>
                     <th width="10%" style="text-align: center;vertical-align : middle;">Tindakan</th>
-                    <th width="03%" style="text-align: center;vertical-align : middle;">No</th>
+                    <th width="03%" style="text-align: center;vertical-align : middle;">Photo</th>
                     <th width="10%" style="text-align: center;vertical-align : middle;">ID_Pegawai</th>
                     <th width="10%" style="text-align: center;vertical-align : middle;">Nama</th>
                     <th width="10%" style="text-align: center;vertical-align : middle;">Tmp_Lahir</th>
@@ -44,6 +44,13 @@
                 <tbody>
                 </tbody>
               </table>
+              
+              <!-- <div class="aniimated-thumbnials">
+                <a href="assets/template/images/image-gallery/1.jpg"> <img class="img-fluid img-thumbnail avatar w30" src="assets/template/images/image-gallery/1.jpg" alt=""></a>
+              </div> -->
+              <div class="lightgallery" style="display:none"> <a class="atest" href="http://localhost/aska/assets/template/images/image-gallery/2.jpg"> <img class="img-fluid img-thumbnail avatar w30 imgtest" src="http://localhost/aska/assets/template/images/image-gallery/2.jpg" alt=""></a></div>
+              
+
             </div>
           </div>
         </div>
@@ -51,3 +58,12 @@
     </div>
   </div>
 </section>
+
+<!-- <div id="imageModal">
+    <img id="modalImage" src="" alt="Preview">
+    <button onclick="document.getElementById('imageModal').style.display='none';">Close</button>
+</div> -->
+
+                            
+
+                            

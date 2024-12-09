@@ -22,6 +22,8 @@ Options -Indexes
 		ForceType application/octet-stream
 		Header set Content-Disposition attachment
 	</FilesMatch>
+	
+	AddType image/jpeg .jpg
 </IfModule>
 
 <IfModule !mod_rewrite.c>

@@ -69,6 +69,8 @@ $route['update_profile_picture'] = "Dashboard/Pegawai/InputData/updatePhotoProfi
 
 $route['pegawai_rekap_all'] = "Dashboard/Pegawai/RekapDataAll";
 $route['get_data_rekap_all_pegawai'] = "Dashboard/Pegawai/RekapDataAll/getDataRekapAllPegawai";
+$route['delete_data_pegawai'] = "Dashboard/Pegawai/RekapDataAll/deleteDataPegawai";
+
 
 $route['pegawai_rekap_contract'] = "Dashboard/Pegawai/RekapContract";
 
