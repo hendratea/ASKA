@@ -1,0 +1,15 @@
+No         Date/Time            Browser            Access Path
+---------  -------------------  -----------------  ---------------------------------------------------------------------------------------
+000000001  2024-12-26 17:10:37  Google Chrome      D:\xampp\htdocs\aska\application\controllers\SignIn\index 
+000000002  2024-12-26 17:10:37  Google Chrome      ipong : D:\xampp\htdocs\aska\application\controllers\Dashboard\Home\index 
+000000003  2024-12-26 17:10:43  Google Chrome      ipong : D:\xampp\htdocs\aska\application\models\Dashboard\Ijin\InputDataModel\m_get_Ijin query input ijin
+000000004  2024-12-26 17:10:48  Google Chrome      ipong : D:\xampp\htdocs\aska\application\models\Dashboard\Ijin\CetakDataModel\m_get_Ijin query cetak ijin
+000000005  2024-12-26 17:11:20  Google Chrome      ipong : D:\xampp\htdocs\aska\application\models\Dashboard\Ijin\InputDataModel\m_get_Ijin query input ijin
+000000006  2024-12-26 17:11:31  Google Chrome      ipong : D:\xampp\htdocs\aska\application\controllers\SignIn\logout 
+000000007  2024-12-26 17:11:32  Google Chrome      D:\xampp\htdocs\aska\application\controllers\SignIn\index 
+000000008  2024-12-26 17:16:10  Google Chrome      D:\xampp\htdocs\aska\application\controllers\SignIn\index 
+000000009  2024-12-26 17:16:11  Google Chrome      ipong : D:\xampp\htdocs\aska\application\controllers\Dashboard\Home\index 
+000000010  2024-12-26 17:16:17  Google Chrome      ipong : D:\xampp\htdocs\aska\application\models\Dashboard\Ijin\InputDataModel\m_get_Ijin query input ijin
+000000011  2024-12-26 17:16:22  Google Chrome      ipong : D:\xampp\htdocs\aska\application\models\Dashboard\Ijin\CetakDataModel\m_get_Ijin query cetak ijin
+000000012  2024-12-26 17:16:32  Google Chrome      ipong : D:\xampp\htdocs\aska\application\controllers\SignIn\logout 
+000000013  2024-12-26 17:16:33  Google Chrome      D:\xampp\htdocs\aska\application\controllers\SignIn\index 

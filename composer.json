@@ -1,0 +1,53 @@
+{
+  "description": "AZKA",
+  "name": "aska/framework",
+  "type": "project",
+  "homepage": "https://sicikal.com",
+  "license": "MIT",
+  "support": {
+    "forum": "http://forum.codeigniter.com/",
+    "wiki": "https://github.com/bcit-ci/CodeIgniter/wiki",
+    "slack": "https://codeigniterchat.slack.com",
+    "source": "https://github.com/bcit-ci/CodeIgniter",
+    "issues": "https://github.com/mpdf/mpdf/issues",
+    "docs": "http://mpdf.github.io"
+  },
+  "require": {
+    "php": ">=5.3.7",
+    "endroid/qr-code": "*",
+    "ext-xml": "*",
+    "ext-xmlwriter": "*",
+    "ext-mbstring": "*",
+    "phpoffice/phpspreadsheet": "*",
+    "mpdf/mpdf": "*"
+  },
+  "suggest": {
+    "paragonie/random_compat": "Provides better randomness in PHP 5.x",
+    "ext-zlib": "Needed for compression of embedded resources, such as fonts"
+  },
+  "autoload": {
+    "classmap": [
+      "mpdf.php",
+      "classes"
+    ]
+  },
+  "scripts": {
+    "test:coverage": [
+      "@putenv XDEBUG_MODE=coverage",
+      "phpunit --color=always --coverage-text --configuration tests/travis/sqlite.phpunit.xml"
+    ],
+    "post-install-cmd": [
+      "sed -i s/name{0}/name[0]/ vendor/mikey179/vfsstream/src/main/php/org/bovigo/vfs/vfsStream.php",
+      "php -r \"chmod('./ttfontdata', 0777);\"",
+      "php -r \"chmod('./tmp', 0777);\"",
+      "php -r \"chmod('./graph_cache', 0777);\""
+    ],
+    "post-update-cmd": [
+      "sed -i s/name{0}/name[0]/ vendor/mikey179/vfsstream/src/main/php/org/bovigo/vfs/vfsStream.php"
+    ]
+  },
+  "require-dev": {
+    "mikey179/vfsstream": "1.6.*",
+    "phpunit/phpunit": "4.* || 5.* || 9.*"
+  }
+}
