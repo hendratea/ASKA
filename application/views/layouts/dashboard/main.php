@@ -95,7 +95,7 @@
   <!-- Page Loader -->
   <div class="page-loader-wrapper">
     <div class="loader">
-      <div class="m-t-30"><img class="zmdi-hc-spin" src="assets/template/images/loader.svg" width="48" height="48"
+      <div class="m-t-30"><img class="zmdi-hc-spin" src="<?= base_url() ?>assets/template/images/loader.svg" width="48" height="48"
           alt="Aero"></div>
       <p>Please wait...</p>
     </div>
@@ -157,7 +157,9 @@
   <script src="<?= base_url() ?>assets/functions/dashboard/pegawai/input_data.js"></script>
   <?php } ?>
   <?php if ($contentView == "dashboard/pegawai/rekap_all") { ?>
-  <script src="<?= base_url() ?>assets/functions/dashboard/pegawai/rekap_data_all.js"></script>
+    <script src="<?= base_url() ?>assets/functions/dashboard/pegawai/rekap_data_all.js"></script>
+    <script src="<?= base_url() ?>assets/template/plugins/light-gallery/js/lightgallery-all.min.js"></script>
+    <script src="<?= base_url() ?>assets/template/js/pages/medias/image-gallery.js"></script>
   <?php } ?>
 
   <?php if ($contentView == "dashboard/ijin/inputdata") { ?>

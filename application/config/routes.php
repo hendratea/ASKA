@@ -67,6 +67,7 @@ $route['pegawai_input_data'] = "Dashboard/Pegawai/InputData";
 $route['pegawai_save_data'] = "Dashboard/Pegawai/InputData/saveDataPegawai";
 $route['get_list_pegawai'] = "Dashboard/Pegawai/InputData/getDataPegawai";
 $route['update_profile_picture'] = "Dashboard/Pegawai/InputData/updatePhotoProfile";
+$route['pegawai_update_data'] = "Dashboard/Pegawai/InputData/updateDataPegawai";
 
 $route['pegawai_rekap_all'] = "Dashboard/Pegawai/RekapDataAll";
 $route['get_data_rekap_all_pegawai'] = "Dashboard/Pegawai/RekapDataAll/getDataRekapAllPegawai";

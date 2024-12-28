@@ -26,6 +26,7 @@
                 <div class="row">
                   <div class="col-lg-6">
                     <input type="file" name="file_avatar" class="form-control" accept="image/*" id="change_img">
+                    <input type="hidden" id="imagePath" value=""/>
                   </div>
                   <div class="col-lg-3">
                     <button class="btn btn-danger" id="btnCancelPhoto">Cancel Photo</button>
@@ -43,7 +44,13 @@
                   <div class="input-group-prepend">
                     <span class="input-group-text"><i class="zmdi zmdi-account-box-mail"></i></span>
                   </div>
-                  <input id="idPegawai" name="idPegawai" type="text" class="form-control" disabled>
+                  <input 
+                    value="<?= (isset($valIdPegawai) ? $valIdPegawai : ''); ?>" 
+                    id="idPegawai" 
+                    name="idPegawai" 
+                    type="text" 
+                    class="form-control" 
+                    disabled>
                 </div>
               </div>
               <div class="col-lg-4 col-md-6">
@@ -495,3 +502,5 @@
     </div>
   </div>
 </div>
+
+

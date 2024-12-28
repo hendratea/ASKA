@@ -1,0 +1,73 @@
+No         Date/Time            Browser            Access Path
+---------  -------------------  -----------------  ---------------------------------------------------------------------------------------
+000000001  2024-12-28 10:30:28  Google Chrome      C:\xampp\htdocs\aska\application\controllers\SignIn\index 
+000000002  2024-12-28 10:30:34  Google Chrome      C:\xampp\htdocs\aska\application\controllers\SignIn\index 
+000000003  2024-12-28 10:30:47  Google Chrome      C:\xampp\htdocs\aska\application\controllers\SignIn\index 
+000000004  2024-12-28 10:30:56  Google Chrome      C:\xampp\htdocs\aska\application\controllers\SignIn\index 
+000000005  2024-12-28 10:34:07  Google Chrome      C:\xampp\htdocs\aska\application\controllers\SignIn\index 
+000000006  2024-12-28 10:34:07  Google Chrome      ipong : C:\xampp\htdocs\aska\application\controllers\Dashboard\Home\index 
+000000007  2024-12-28 10:34:17  Google Chrome      ipong : C:\xampp\htdocs\aska\application\controllers\SignIn\logout 
+000000008  2024-12-28 10:34:17  Google Chrome      C:\xampp\htdocs\aska\application\controllers\SignIn\index 
+000000009  2024-12-28 10:34:25  Google Chrome      C:\xampp\htdocs\aska\application\controllers\SignIn\index 
+000000010  2024-12-28 10:45:31  Google Chrome      C:\xampp\htdocs\aska\application\controllers\SignIn\index 
+000000011  2024-12-28 10:47:06  Google Chrome      C:\xampp\htdocs\aska\application\controllers\SignIn\index 
+000000012  2024-12-28 10:47:26  Google Chrome      C:\xampp\htdocs\aska\application\controllers\SignIn\index 
+000000013  2024-12-28 11:07:21  Google Chrome      C:\xampp\htdocs\aska\application\controllers\SignIn\index 
+000000014  2024-12-28 11:07:25  Google Chrome      C:\xampp\htdocs\aska\application\controllers\SignIn\index 
+000000015  2024-12-28 11:08:09  Google Chrome      C:\xampp\htdocs\aska\application\controllers\SignIn\index 
+000000016  2024-12-28 11:08:17  Google Chrome      C:\xampp\htdocs\aska\application\controllers\SignIn\index 
+000000017  2024-12-28 11:09:11  Google Chrome      C:\xampp\htdocs\aska\application\controllers\SignIn\index 
+000000018  2024-12-28 11:09:57  Google Chrome      C:\xampp\htdocs\aska\application\controllers\SignIn\index 
+000000019  2024-12-28 11:15:52  Google Chrome      C:\xampp\htdocs\aska\application\controllers\SignIn\index 
+000000020  2024-12-28 11:16:03  Google Chrome      C:\xampp\htdocs\aska\application\controllers\SignIn\index 
+000000021  2024-12-28 11:17:54  Google Chrome      C:\xampp\htdocs\aska\application\controllers\SignIn\index 
+000000022  2024-12-28 11:17:55  Google Chrome      hari : C:\xampp\htdocs\aska\application\controllers\Dashboard\Home\index 
+000000023  2024-12-28 11:18:30  Google Chrome      hari : C:\xampp\htdocs\aska\application\controllers\SignIn\logout 
+000000024  2024-12-28 11:18:30  Google Chrome      C:\xampp\htdocs\aska\application\controllers\SignIn\index 
+000000025  2024-12-28 11:18:37  Google Chrome      C:\xampp\htdocs\aska\application\controllers\SignIn\index 
+000000026  2024-12-28 11:18:38  Google Chrome      ipong : C:\xampp\htdocs\aska\application\controllers\Dashboard\Home\index 
+000000027  2024-12-28 11:18:57  Google Chrome      ipong : C:\xampp\htdocs\aska\application\models\Dashboard\Pegawai\RekapDataAllModel\getRekapAllDataPegawai get rekap all data pegawai
+000000028  2024-12-28 11:37:07  Google Chrome      ipong : C:\xampp\htdocs\aska\application\models\Dashboard\Pegawai\RekapDataAllModel\getRekapAllDataPegawai get rekap all data pegawai
+000000029  2024-12-28 11:39:19  Google Chrome      ipong : C:\xampp\htdocs\aska\application\models\Dashboard\Pegawai\RekapDataAllModel\getRekapAllDataPegawai get rekap all data pegawai
+000000030  2024-12-28 11:42:11  Google Chrome      ipong : C:\xampp\htdocs\aska\application\models\Dashboard\Pegawai\RekapDataAllModel\getRekapAllDataPegawai get rekap all data pegawai
+000000031  2024-12-28 11:42:55  Google Chrome      ipong : C:\xampp\htdocs\aska\application\models\Dashboard\Pegawai\RekapDataAllModel\getRekapAllDataPegawai get rekap all data pegawai
+000000032  2024-12-28 11:43:06  Google Chrome      ipong : C:\xampp\htdocs\aska\application\models\Dashboard\Pegawai\RekapDataAllModel\getRekapAllDataPegawai get rekap all data pegawai
+000000033  2024-12-28 11:44:24  Google Chrome      ipong : C:\xampp\htdocs\aska\application\models\Dashboard\Pegawai\RekapDataAllModel\getRekapAllDataPegawai get rekap all data pegawai
+000000034  2024-12-28 11:45:48  Google Chrome      ipong : C:\xampp\htdocs\aska\application\models\Dashboard\Pegawai\RekapDataAllModel\getRekapAllDataPegawai get rekap all data pegawai
+000000035  2024-12-28 11:49:14  Google Chrome      ipong : C:\xampp\htdocs\aska\application\models\Dashboard\Pegawai\RekapDataAllModel\getRekapAllDataPegawai get rekap all data pegawai
+000000036  2024-12-28 11:49:40  Google Chrome      ipong : C:\xampp\htdocs\aska\application\models\Dashboard\Pegawai\RekapDataAllModel\getRekapAllDataPegawai get rekap all data pegawai
+000000037  2024-12-28 11:49:47  Google Chrome      ipong : C:\xampp\htdocs\aska\application\controllers\Dashboard\Pegawai\InputData\index 
+000000038  2024-12-28 11:50:05  Google Chrome      ipong : C:\xampp\htdocs\aska\application\models\Dashboard\Pegawai\InputDataModel\updateDataPegawai update data user
+000000039  2024-12-28 11:50:05  Google Chrome      ipong : C:\xampp\htdocs\aska\application\models\Dashboard\Pegawai\InputDataModel\updatePhotoPegawai update photo pegawai
+000000040  2024-12-28 11:50:06  Google Chrome      ipong : C:\xampp\htdocs\aska\application\models\Dashboard\Pegawai\RekapDataAllModel\getRekapAllDataPegawai get rekap all data pegawai
+000000041  2024-12-28 11:51:46  Google Chrome      ipong : C:\xampp\htdocs\aska\application\controllers\Dashboard\Pegawai\InputData\index 
+000000042  2024-12-28 11:52:02  Google Chrome      ipong : C:\xampp\htdocs\aska\application\models\Dashboard\Pegawai\RekapDataAllModel\getRekapAllDataPegawai get rekap all data pegawai
+000000043  2024-12-28 11:52:05  Google Chrome      ipong : C:\xampp\htdocs\aska\application\models\Dashboard\Pegawai\RekapDataAllModel\getRekapAllDataPegawai get rekap all data pegawai
+000000044  2024-12-28 11:52:09  Google Chrome      ipong : C:\xampp\htdocs\aska\application\controllers\Dashboard\Pegawai\InputData\index 
+000000045  2024-12-28 11:52:17  Google Chrome      ipong : C:\xampp\htdocs\aska\application\controllers\Dashboard\Pegawai\InputData\index 
+000000046  2024-12-28 11:52:50  Google Chrome      ipong : C:\xampp\htdocs\aska\application\controllers\Dashboard\Pegawai\InputData\index 
+000000047  2024-12-28 11:53:01  Google Chrome      ipong : C:\xampp\htdocs\aska\application\models\Dashboard\Pegawai\InputDataModel\updateDataPegawai update data user
+000000048  2024-12-28 11:53:02  Google Chrome      ipong : C:\xampp\htdocs\aska\application\models\Dashboard\Pegawai\InputDataModel\updatePhotoPegawai update photo pegawai
+000000049  2024-12-28 11:53:03  Google Chrome      ipong : C:\xampp\htdocs\aska\application\models\Dashboard\Pegawai\RekapDataAllModel\getRekapAllDataPegawai get rekap all data pegawai
+000000050  2024-12-28 11:55:19  Google Chrome      ipong : C:\xampp\htdocs\aska\application\models\Dashboard\Pegawai\RekapDataAllModel\getRekapAllDataPegawai get rekap all data pegawai
+000000051  2024-12-28 11:56:25  Google Chrome      ipong : C:\xampp\htdocs\aska\application\models\Dashboard\Pegawai\RekapDataAllModel\getRekapAllDataPegawai get rekap all data pegawai
+000000052  2024-12-28 11:56:38  Google Chrome      ipong : C:\xampp\htdocs\aska\application\models\Dashboard\Pegawai\RekapDataAllModel\getRekapAllDataPegawai get rekap all data pegawai
+000000053  2024-12-28 11:56:51  Google Chrome      ipong : C:\xampp\htdocs\aska\application\controllers\Dashboard\Pegawai\InputData\index 
+000000054  2024-12-28 11:57:12  Google Chrome      ipong : C:\xampp\htdocs\aska\application\controllers\Dashboard\Pegawai\InputData\index 
+000000055  2024-12-28 11:58:34  Google Chrome      ipong : C:\xampp\htdocs\aska\application\models\Dashboard\Pegawai\RekapDataAllModel\getRekapAllDataPegawai get rekap all data pegawai
+000000056  2024-12-28 11:58:50  Google Chrome      ipong : C:\xampp\htdocs\aska\application\controllers\Dashboard\Pegawai\InputData\index 
+000000057  2024-12-28 11:59:19  Google Chrome      ipong : C:\xampp\htdocs\aska\application\controllers\Dashboard\Pegawai\InputData\index 
+000000058  2024-12-28 11:59:29  Google Chrome      ipong : C:\xampp\htdocs\aska\application\controllers\Dashboard\Pegawai\InputData\index 
+000000059  2024-12-28 11:59:42  Google Chrome      ipong : C:\xampp\htdocs\aska\application\controllers\Dashboard\Pegawai\InputData\index 
+000000060  2024-12-28 12:02:48  Google Chrome      ipong : C:\xampp\htdocs\aska\application\models\Dashboard\Pegawai\RekapDataAllModel\getRekapAllDataPegawai get rekap all data pegawai
+000000061  2024-12-28 12:02:55  Google Chrome      ipong : C:\xampp\htdocs\aska\application\controllers\Dashboard\Pegawai\InputData\index 
+000000062  2024-12-28 12:03:46  Google Chrome      ipong : C:\xampp\htdocs\aska\application\models\Dashboard\Pegawai\RekapDataAllModel\getRekapAllDataPegawai get rekap all data pegawai
+000000063  2024-12-28 12:04:59  Google Chrome      ipong : C:\xampp\htdocs\aska\application\models\Dashboard\Pegawai\RekapDataAllModel\getRekapAllDataPegawai get rekap all data pegawai
+000000064  2024-12-28 12:05:31  Google Chrome      ipong : C:\xampp\htdocs\aska\application\models\Dashboard\Pegawai\RekapDataAllModel\getRekapAllDataPegawai get rekap all data pegawai
+000000065  2024-12-28 12:06:05  Google Chrome      ipong : C:\xampp\htdocs\aska\application\models\Dashboard\Pegawai\RekapDataAllModel\getRekapAllDataPegawai get rekap all data pegawai
+000000066  2024-12-28 12:06:22  Google Chrome      ipong : C:\xampp\htdocs\aska\application\models\Dashboard\Pegawai\RekapDataAllModel\getRekapAllDataPegawai get rekap all data pegawai
+000000067  2024-12-28 12:07:38  Google Chrome      ipong : C:\xampp\htdocs\aska\application\models\Dashboard\Pegawai\RekapDataAllModel\getRekapAllDataPegawai get rekap all data pegawai
+000000068  2024-12-28 12:07:46  Google Chrome      ipong : C:\xampp\htdocs\aska\application\controllers\Dashboard\Pegawai\InputData\index 
+000000069  2024-12-28 12:07:55  Google Chrome      ipong : C:\xampp\htdocs\aska\application\controllers\Dashboard\Pegawai\InputData\index 
+000000070  2024-12-28 12:08:04  Google Chrome      ipong : C:\xampp\htdocs\aska\application\controllers\Dashboard\Pegawai\InputData\index 
+000000071  2024-12-28 12:08:11  Google Chrome      ipong : C:\xampp\htdocs\aska\application\controllers\Dashboard\Pegawai\InputData\index 

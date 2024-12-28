@@ -84,7 +84,6 @@ class InputDataModel extends CI_Model
         
     }
 
-
     function saveDataPegawai($dataPegawai, $dataPnsOrNonPns)
     {
         logActivity(date("Y-m-d").' '.date("H:i:s"), 
@@ -162,7 +161,77 @@ class InputDataModel extends CI_Model
       }
     }
     
+    function updateDataPns($updateDataPns, $idPegawai)
+    {
 
+      $whereUpdate = ['IDPEG' => $idPegawai];
+      if ($this->db->update('a_pns', $updateDataPns, $whereUpdate)) {
+        $rowAffected = $this->db->affected_rows();
+        return $rowAffected;
+      } else {
+        $error_query = $this->db->error();
+        logActivity(
+          date("Y-m-d") . ' ' . date("H:i:s"),
+          getBrowser(),
+          $this->session->userdata('logged_user_id') . ' : ' . dirname(__FILE__) . '\\' . get_class() . '\\' . __FUNCTION__ . ' '
+          . 'update data user failed : ' . $error_query['message']
+        );
+        return $error_query['message'];
+      }
+
+    }
+
+    function updateDataNonPns($updateDataNonPns, $idPegawai)
+    {
+
+      $whereUpdate = ['IDPEG' => $idPegawai];
+      if ($this->db->update('a_nonpns', $updateDataNonPns, $whereUpdate)) {
+        $rowAffected = $this->db->affected_rows();
+        return $rowAffected;
+      } else {
+        $error_query = $this->db->error();
+        logActivity(
+          date("Y-m-d") . ' ' . date("H:i:s"),
+          getBrowser(),
+          $this->session->userdata('logged_user_id') . ' : ' . dirname(__FILE__) . '\\' . get_class() . '\\' . __FUNCTION__ . ' '
+          . 'update data user failed : ' . $error_query['message']
+        );
+        return $error_query['message'];
+      }
+
+    }
+
+    function updateDataPegawai($updateData, $idPegawai, $dataPnsOrNonPns)
+    {
+      logActivity(
+        date("Y-m-d") . ' ' . date("H:i:s"),
+        getBrowser(),
+        $this->session->userdata('logged_user_id') . ' : ' . dirname(__FILE__) . '\\' . get_class() . '\\' . __FUNCTION__ . ' '
+        . 'update data user'
+      );
+
+      $whereUpdate = ['IDPEG' => $idPegawai];
+      if ($this->db->update('a_pegawai', $updateData, $whereUpdate)) {
+        $rowAffected = $this->db->affected_rows();
+
+        if($updateData['pns']=='Y'){
+          $this->updateDataPns($dataPnsOrNonPns, $idPegawai);
+        }else{
+          $this->updateDataNonPns($dataPnsOrNonPns, $idPegawai);
+        }
+
+        return $rowAffected;
+      } else {
+        $error_query = $this->db->error();
+        logActivity(
+          date("Y-m-d") . ' ' . date("H:i:s"),
+          getBrowser(),
+          $this->session->userdata('logged_user_id') . ' : ' . dirname(__FILE__) . '\\' . get_class() . '\\' . __FUNCTION__ . ' '
+          . 'update data user failed : ' . $error_query['message']
+        );
+        return $error_query['message'];
+      }
+    }
     
 
 }

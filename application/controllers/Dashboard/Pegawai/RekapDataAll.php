@@ -52,11 +52,12 @@ class RekapDataAll extends MY_Controller
    
     foreach ($dataRekapAll as $r) {
       $data[] = [
-        '<button class="btn btn-primary btn-sm" onclick="confirmUpdateData(' . "'$r->ID_Pegawai'" . ')"><i class="zmdi zmdi-edit"></i></button>
+        '<button class="btn btn-primary btn-sm" onclick="confirmUpdateDataPegawai(' . "'$r->ID_Pegawai'" . ','."'./assets/picture_profiles/$r->Foto'".')"><i class="zmdi zmdi-edit"></i></button>
         <button class="btn btn-danger btn-sm"  onclick="confirmDeleteData(' . "'$r->ID_Pegawai'" . ')"><i class="zmdi zmdi-delete"></i></button>',
         // $no++,
         // 'assets/template/images/image-gallery/2.jpg',   
-        '<img onclick="showImage(' . "'$r->Foto'" . ')" src="'.base_url($r->Foto).'" class="avatar w30" alt="" style="cursor:pointer">',
+        // '<img onclick="showImage(' . "'$r->foto'" . ')" src="'.base_url($r->foto).'" class="avatar w30" alt="" style="cursor:pointer">',
+        '<img onclick="showDetailPegawai('. "'./assets/picture_profiles/$r->Foto'" .')" src="'.base_url('./assets/picture_profiles/'.$r->Foto).'" class="avatar w30" alt="" style="cursor:pointer" >',
         $r->ID_Pegawai,
         $r->Nama,
         $r->Tmp_Lahir,

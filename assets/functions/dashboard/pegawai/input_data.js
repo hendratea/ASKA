@@ -4,7 +4,7 @@ function clearForm(boxIcon,msgError)
 {
   $('#btnCancelPhoto').trigger('click');
 
-  $("#tglMasukKerja,#tglAwalKontrak,#tglAkhirKontrak,#noKontrak,#noRekening,#noEpf,#nip,#tglTerimaJabatan,#tglGelarDiplomatik,#namaPegawai,#tempatLahir,#tanggalLahir,#alamat,#telepon,#jnsPaspor,#noPasspor,#tglLakuPaspor,#tglIzinPaspor").val("");
+  $("#imagePath,#idPegawai,#tglMasukKerja,#tglAwalKontrak,#tglAkhirKontrak,#noKontrak,#noRekening,#noEpf,#nip,#tglTerimaJabatan,#tglGelarDiplomatik,#namaPegawai,#tempatLahir,#tanggalLahir,#alamat,#telepon,#jnsPaspor,#noPasspor,#tglLakuPaspor,#tglIzinPaspor").val("");
   $('input[name="statusKaryawan"],input[name="statusWni"],input[name="jenisKelamin"]').prop("checked", false);
   $("#rStatusKerja,#rTugasKerja,#rFungsiKerja,#aktifKerja,#pendidikan,#rGolongan").val("-").trigger("change");
 
@@ -19,8 +19,17 @@ function clearForm(boxIcon,msgError)
 
 function btnSaveDataPegawai() {
   // alert('test');
+
+  if($('#btnReset').html()=="Cancel Update"){
+    vConfirmAlert = "anda yakin ingin merubah data ini ?"
+    vUrl = "pegawai_update_data";
+  }else{
+    vConfirmAlert = "anda yakin ingin menyimpan data ini ?"
+    vUrl = "pegawai_save_data";
+  }
+
   Swal.fire({
-    title: "anda yakin ingin menyimpan data ini ?",
+    title: vConfirmAlert,
     text: "user " + $("#namaPegawai").val(),
     icon: "warning",
     showCancelButton: true,
@@ -30,9 +39,10 @@ function btnSaveDataPegawai() {
     cancelButtonText: "Tidak",
   }).then((result) => {
     if (result.isConfirmed) {
-      var url = baseURL + "pegawai_save_data";
+      var url = baseURL + vUrl;
       var postData = $.param(
             { 
+              ajaxIdPegawai: $("#idPegawai").val(),
               ajaxAktifKerja: $("#aktifKerja").val(),
               ajaxPendidikan: $("#pendidikan").val(),
               ajaxPns: $('input[name="statusKaryawan"]:checked').val(),
@@ -80,15 +90,29 @@ function btnSaveDataPegawai() {
         dataType: "JSON",
         success: function (data) {
           // alert(data["statusInsertToDb"]);
-          if (data["statusInsertToDb"] == 1) {
-            updatePhotoProfile(data["idPegawai"]);
+          if (data["statusInsertToDb"] == 1 || data["statusInsertToDb"] == 0) {
+
+            if($('#btnReset').html()=="Cancel Update" && $("#imagePath").val() != "" ){
+              
+            }else{
+              updatePhotoProfile(data["idPegawai"]);
+            }
+
+            
             Swal.fire({
               title: "Success",
               text: "user " + $("#namaPegawai").val() + " berhasil disimpan",
               icon: "success",
             }).then(function () {
               // table_setting_user.ajax.reload();
-              clearForm();
+              if($('#btnReset').html()=="Cancel Update"){
+                window.open(baseURL + 'pegawai_rekap_all/',"_self");
+              }else{
+                clearForm();
+                location.reload();
+              }
+
+              
             });
           } else if (data["statusInsertToDb"] == 2) {
             Swal.fire({
@@ -108,7 +132,7 @@ function btnSaveDataPegawai() {
         error: function (jqXHR, textStatus, errorThrown) {
           Swal.fire({
             title: "Failed",
-            text: "data user " + $("#namaPegawai").val() + " tidak berhasil disimpan",
+            text: "data user " + $("#namaPegawai").val() + " tidak berhasil disimpan ke database",
             icon: "error",
           });
 
@@ -269,6 +293,11 @@ function get_list_pegawai() {
 }
 
 $('#btnReset').click(function(){
+
+  if($('#btnReset').html()=="Cancel Update"){
+    window.close();
+  }
+  
   clearForm();
 })
 
@@ -335,19 +364,21 @@ function validationFormRadio(radioId, msgError, textError) {
 }
 
 $('#btnCancelPhoto').click(function(){
+  $("#imagePath").val('');
   $("input[name='file_avatar']").val(null);
   $("#modify_img").attr("src", baseURL + "assets/picture_profiles/default_avatar.png");
 })
 
 $('#btnSubmit').click(function(){
 
-//   if($("input[name='jenisKelamin']:checked").val()) {
-//     alert('checked')
-// } else {
-//     alert('not checked.')
-// }
+    //   if($("input[name='jenisKelamin']:checked").val()) {
+    //     alert('checked')
+    // } else {
+    //     alert('not checked.')
+    // }
 
     // alert($('#aktifKerja').val());
+    
     validationFormInput = [];
 
     validationForm('#namaPegawai','#boxIconNamaPegawai','#msgErrNamaPegawai','nama pegawai'); 
@@ -367,17 +398,33 @@ $('#btnSubmit').click(function(){
     if (validationFormInput.indexOf("noValid") > -1) {
     } else {
       btnSaveDataPegawai();
+      // if($('#btnReset').html()=="Cancel Update"){
+      //   btnUpdateDataPegawai();
+      // }else{
+      //   btnSaveDataPegawai();
+      // }
+      
     }
 
 })
 
-document.getElementById('telepon').addEventListener('input', function (e) {
-  var x = e.target.value.replace(/\D/g, '').match(/(\d{0,4})(\d{0,4})(\d{0,7})/);
-  e.target.value = !x[2] ? x[1] : '' + x[1] + '-' + x[2] + (x[3] ? '-' + x[3] : '');
-});
+// document.getElementById('telepon').addEventListener('input', function (e) {
+//   var x = e.target.value.replace(/\D/g, '').match(/(\d{0,4})(\d{0,4})(\d{0,7})/);
+//   e.target.value = !x[2] ? x[1] : '' + x[1] + '-' + x[2] + (x[3] ? '-' + x[3] : '');
+// });
 
 $(function () {
+  
 
+  // $('#modify_img').attr('src', baseURL+'assets/picture_profiles/upload_avatar1.jpg');
+  // $("#collapsePns").collapse();
+  // alert(localStorage.getItem('status'));
+
+  // $('#aktifKerja option').filter(function() {
+  //   return $(this).text() === localStorage.getItem('status');
+  // }).prop('selected', true);
+
+  // alert(localStorage.getItem('id'));
     // $("#boxIconIdPegawai").css({
     //     border: "1px solid red",
     //     // color: "red",
@@ -385,6 +432,95 @@ $(function () {
 
     // $('#idPegawai').addClass('form-control-danger');
     // save_data_pegawai();
+
+    if(localStorage.getItem('id')!=""){
+
+      
+      $('#pendidikan option').filter(function() {
+          return $(this).text() === localStorage.getItem('pendidikan');
+      }).prop('selected', true);
+
+      $('#aktifKerja option').filter(function() {
+        return $(this).text() === localStorage.getItem('status');
+      }).prop('selected', true);
+
+      $('#headerTitle').html("Edit Data Pegawai - " + localStorage.getItem('id'));
+
+      $('#modify_img').attr('src', baseURL+localStorage.getItem('photo'));
+      $('#imagePath').val(localStorage.getItem('photo'));
+      
+      $('#idPegawai').val(localStorage.getItem('id'));
+      $('#namaPegawai').val(localStorage.getItem('nama'));
+      $('#tempatLahir').val(localStorage.getItem('tempat_lahir'));
+      $('#tanggalLahir').val(localStorage.getItem('tanggal_lahir'));
+      $('#telepon').val(localStorage.getItem('telepon'));
+      $('#pendidikan').trigger('change'); 
+      $('#aktifKerja').trigger('change'); 
+      $('#alamat').val(localStorage.getItem('alamat'));
+      $("#laki-laki").attr("checked", (localStorage.getItem('jenis_kelamin')=='Laki-Laki' ? true : false));
+      $("#perempuan").attr("checked", (localStorage.getItem('jenis_kelamin')=='Perempuan' ? true : false));
+      $("#ya").attr("checked", (localStorage.getItem('wni')=='Y' ? true : false));
+      $("#tidak").attr("checked", (localStorage.getItem('wni')=='N' ? true : false));
+      // $("#pns").attr("checked", (localStorage.getItem('pns')=='Y' ? true : false));
+      // $("#nonPns").attr("checked", (localStorage.getItem('pns')=='N' ? true : false));
+
+      if(localStorage.getItem('pns')=='Y'){
+
+        $('#rGolongan option').filter(function() {
+          return $(this).text() === localStorage.getItem('jabatan');
+        }).prop('selected', true);
+
+        $("#pns").attr("checked", true);
+        $("#collapsePns").collapse();
+        $('#rGolongan').trigger('change'); 
+        $('#nip').val(localStorage.getItem('nip'));
+        $('#tglTerimaJabatan').val(localStorage.getItem('tmt'));
+        $('#tglGelarDiplomatik').val(localStorage.getItem('gelar_diplomatik'));
+      }else{
+
+        $('#rStatusKerja option').filter(function() {
+          return $(this).text() === localStorage.getItem('status_kerja');
+        }).prop('selected', true);
+
+        $('#rTugasKerja option').filter(function() {
+          return $(this).text() === localStorage.getItem('tugas_kerja');
+        }).prop('selected', true);
+
+        $('#rFungsiKerja option').filter(function() {
+          return $(this).text() === localStorage.getItem('fungsi_kerja');
+        }).prop('selected', true);
+
+        $("#nonPns").attr("checked", true);
+        $("#collapseNonPns").collapse();
+
+        $('#rStatusKerja').trigger('change'); 
+        $('#rTugasKerja').trigger('change'); 
+        $('#rFungsiKerja').trigger('change'); 
+
+        $('#tglMasukKerja').val(localStorage.getItem('tgl_masuk_kontrak'));
+        $('#tglAwalKontrak').val(localStorage.getItem('tgl_awal_kontrak'));
+        $('#tglAkhirKontrak').val(localStorage.getItem('tgl_akhir_kontrak'));
+        $('#noKontrak').val(localStorage.getItem('no_kontrak'));
+        $('#noRekening').val(localStorage.getItem('no_rekening'));
+        $('#noEpf').val(localStorage.getItem('no_epf'));
+
+      }
+
+      $('#noPasspor').val(localStorage.getItem('no_paspor'));
+      $('#jnsPaspor').val(localStorage.getItem('jenis_paspor'));
+      $('#tglLakuPaspor').val(localStorage.getItem('berlaku_paspor'));
+      $('#tglIzinPaspor').val(localStorage.getItem('ijin_paspor'));
+      // $('#idPegawai').val(localStorage.getItem('id'));
+      
+      
+
+      $('#btnSubmit').html("Update Data");
+      $('#btnReset').html("Cancel Update");
+
+      localStorage.setItem('id', "");
+    }else{
+      $('#headerTitle').html("Input Data Pegawai")
+    }
     get_list_pegawai();
     // $("#collapsePns").collapse();
     $("#change_img").change(function (e) {
@@ -399,6 +535,8 @@ $(function () {
                 img.src = reader.result;
             }
             reader.readAsDataURL(file);
+
+            $("#imagePath").val('');
         }
     });
 });
