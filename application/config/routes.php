@@ -19,12 +19,12 @@ $route['copyright'] = "Dashboard/Copyright";
 $route['dashboard'] = "Dashboard/Home";
 
 //MENU REFERENSI------------------------------------------------------------------------------------------------------
-$route['referensi_golongan'] = "Dashboard/Referensi/refGolongan";
-$route['get_referensi_golongan'] = "Dashboard/Referensi/refGolongan/get_refGolongan";
-$route['save_referensi_golongan'] = "Dashboard/Referensi/refGolongan/save_refGolongan";
-$route['delete_referensi_golongan'] = "Dashboard/Referensi/refGolongan/delete_refGolongan";
-$route['update_referensi_golongan'] = "Dashboard/Referensi/refGolongan/update_refGolongan";
-$route['get_forupdate_referensi_golongan'] = "Dashboard/Referensi/refGolongan/get_refGolonganForUpdate";
+$route['referensi_golongan'] = "Dashboard/Referensi/RefGolongan";
+$route['get_referensi_golongan'] = "Dashboard/Referensi/RefGolongan/get_refGolongan";
+$route['save_referensi_golongan'] = "Dashboard/Referensi/RefGolongan/save_refGolongan";
+$route['delete_referensi_golongan'] = "Dashboard/Referensi/RefGolongan/delete_refGolongan";
+$route['update_referensi_golongan'] = "Dashboard/Referensi/RefGolongan/update_refGolongan";
+$route['get_forupdate_referensi_golongan'] = "Dashboard/Referensi/RefGolongan/get_refGolonganForUpdate";
 
 $route['referensi_tugas'] = "Dashboard/Referensi/refTugas";
 $route['get_referensi_tugas'] = "Dashboard/Referensi/refTugas/get_refTugas";

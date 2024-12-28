@@ -1,7 +1,7 @@
 <?php if (!defined('BASEPATH'))
   exit('No direct script access allowed');
 
-class refGolongan extends MY_Controller
+class RefGolongan extends MY_Controller
 {
 
   function __construct()
