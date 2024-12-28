@@ -4863,3 +4863,52 @@ INFO - 2024-12-28 21:26:21 --> Controller Class Initialized
 INFO - 2024-12-28 21:26:21 --> Model "refGolonganModel" initialized
 INFO - 2024-12-28 21:26:21 --> Final output sent to browser
 DEBUG - 2024-12-28 21:26:21 --> Total execution time: 0.2957
+INFO - 2024-12-28 15:34:02 --> Config Class Initialized
+INFO - 2024-12-28 15:34:02 --> Hooks Class Initialized
+DEBUG - 2024-12-28 15:34:02 --> UTF-8 Support Enabled
+INFO - 2024-12-28 15:34:02 --> Utf8 Class Initialized
+INFO - 2024-12-28 15:34:02 --> URI Class Initialized
+INFO - 2024-12-28 15:34:02 --> Router Class Initialized
+INFO - 2024-12-28 15:34:02 --> Output Class Initialized
+INFO - 2024-12-28 15:34:02 --> Security Class Initialized
+DEBUG - 2024-12-28 15:34:02 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-12-28 15:34:02 --> Input Class Initialized
+INFO - 2024-12-28 15:34:02 --> Language Class Initialized
+INFO - 2024-12-28 15:34:02 --> Loader Class Initialized
+DEBUG - 2024-12-28 21:34:02 --> Config file loaded: C:\xampp\htdocs\aska\application\config/Hris.php
+INFO - 2024-12-28 21:34:02 --> Helper loaded: form_helper
+INFO - 2024-12-28 21:34:02 --> Helper loaded: url_helper
+INFO - 2024-12-28 21:34:02 --> Helper loaded: date_helper
+INFO - 2024-12-28 21:34:02 --> Helper loaded: file_helper
+INFO - 2024-12-28 21:34:02 --> Helper loaded: directory_helper
+INFO - 2024-12-28 21:34:02 --> Helper loaded: path_helper
+INFO - 2024-12-28 21:34:02 --> Helper loaded: download_helper
+INFO - 2024-12-28 21:34:02 --> Helper loaded: logactivity_helper
+INFO - 2024-12-28 21:34:02 --> Helper loaded: tools_helper
+INFO - 2024-12-28 21:34:02 --> Database Driver Class Initialized
+ERROR - 2024-12-28 21:34:02 --> Severity: Warning --> mysqli::real_connect(): (HY000/1045): Access denied for user 'sicikalc'@'localhost' (using password: YES) C:\xampp\htdocs\aska\system\database\drivers\mysqli\mysqli_driver.php 211
+ERROR - 2024-12-28 21:34:02 --> Unable to connect to the database
+INFO - 2024-12-28 21:34:02 --> Email Class Initialized
+INFO - 2024-12-28 21:34:02 --> Form Validation Class Initialized
+INFO - 2024-12-28 21:34:02 --> Table Class Initialized
+INFO - 2024-12-28 21:34:02 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2024-12-28 21:34:02 --> Pagination Class Initialized
+ERROR - 2024-12-28 21:34:02 --> Severity: Warning --> ini_set(): Headers already sent. You cannot change the session module's ini settings at this time C:\xampp\htdocs\aska\system\libraries\Session\Session.php 303
+ERROR - 2024-12-28 21:34:02 --> Severity: Warning --> session_set_cookie_params(): Cannot change session cookie parameters when headers already sent C:\xampp\htdocs\aska\system\libraries\Session\Session.php 334
+ERROR - 2024-12-28 21:34:02 --> Severity: Warning --> ini_set(): Headers already sent. You cannot change the session module's ini settings at this time C:\xampp\htdocs\aska\system\libraries\Session\Session.php 355
+ERROR - 2024-12-28 21:34:02 --> Severity: Warning --> ini_set(): Headers already sent. You cannot change the session module's ini settings at this time C:\xampp\htdocs\aska\system\libraries\Session\Session.php 365
+ERROR - 2024-12-28 21:34:02 --> Severity: Warning --> ini_set(): Headers already sent. You cannot change the session module's ini settings at this time C:\xampp\htdocs\aska\system\libraries\Session\Session.php 366
+ERROR - 2024-12-28 21:34:02 --> Severity: Warning --> ini_set(): Headers already sent. You cannot change the session module's ini settings at this time C:\xampp\htdocs\aska\system\libraries\Session\Session.php 367
+ERROR - 2024-12-28 21:34:02 --> Severity: Warning --> ini_set(): Headers already sent. You cannot change the session module's ini settings at this time C:\xampp\htdocs\aska\system\libraries\Session\Session.php 368
+ERROR - 2024-12-28 21:34:02 --> Severity: Warning --> ini_set(): Headers already sent. You cannot change the session module's ini settings at this time C:\xampp\htdocs\aska\system\libraries\Session\Session.php 426
+DEBUG - 2024-12-28 21:34:02 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+ERROR - 2024-12-28 21:34:02 --> Severity: Warning --> session_set_save_handler(): Cannot change save handler when headers already sent C:\xampp\htdocs\aska\system\libraries\Session\Session.php 110
+ERROR - 2024-12-28 21:34:02 --> Severity: Warning --> session_start(): Cannot start session when headers already sent C:\xampp\htdocs\aska\system\libraries\Session\Session.php 137
+INFO - 2024-12-28 21:34:02 --> Session: Class initialized using 'files' driver.
+INFO - 2024-12-28 21:34:02 --> Database Driver Class Initialized
+ERROR - 2024-12-28 21:34:02 --> Severity: Warning --> mysqli::real_connect(): (HY000/1045): Access denied for user 'sicikalc'@'localhost' (using password: YES) C:\xampp\htdocs\aska\system\database\drivers\mysqli\mysqli_driver.php 211
+ERROR - 2024-12-28 21:34:02 --> Unable to connect to the database
+DEBUG - 2024-12-28 21:34:02 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2024-12-28 21:34:02 --> Form_validation class already loaded. Second attempt ignored.
+INFO - 2024-12-28 21:34:02 --> Controller Class Initialized
+ERROR - 2024-12-28 21:34:02 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\aska\system\core\Exceptions.php:272) C:\xampp\htdocs\aska\system\helpers\url_helper.php 565
